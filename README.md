@@ -41,7 +41,3 @@ Modelos e parâmetros ficam na classe `Settings`, no topo do `app.py` (modelo do
 
 - Não há memória de conversa: só a pergunta atual é enviada ao modelo.
 - A regra "não invente respostas" é uma instrução ao modelo, não uma garantia.
-
-## Licença
-
-A definir.
