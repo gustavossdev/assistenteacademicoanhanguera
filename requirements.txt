@@ -1,0 +1,6 @@
+streamlit>=1.35.0
+requests>=2.31.0
+faster-whisper>=1.0.0
+streamlit-audiorecorder>=0.0.5
+audioop-lts>=0.2.0
+numpy>=1.23.0

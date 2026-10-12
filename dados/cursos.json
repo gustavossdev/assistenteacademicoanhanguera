@@ -1,0 +1,143 @@
+{
+  "cursos": [
+    {
+      "nome": "Ciência da Computação",
+      "duracao": "4 anos (8 semestres)",
+      "descricao": "Curso voltado à formação teórica e prática em computação, algoritmos, desenvolvimento de software, inteligência artificial e computação gráfica.",
+      "materias": [
+        {
+          "nome": "Processamento Gráfico",
+          "topicos": [
+            "Transformações 2D/3D",
+            "OpenGL",
+            "Shaders",
+            "Rasterização",
+            "Pipeline Gráfico"
+          ],
+          "resumo": "Estudo dos fundamentos matemáticos e algoritmos para síntese e manipulação de imagens digitais, modelagem tridimensional e renderização em tempo real."
+        },
+        {
+          "nome": "Inteligência Artificial",
+          "topicos": [
+            "Algoritmos de Busca",
+            "Machine Learning",
+            "Redes Neurais Artificiais",
+            "Processamento de Linguagem Natural (NLP)"
+          ],
+          "resumo": "Conceitos e técnicas para criação de agentes inteligentes, aprendizado supervisionado e não-supervisionado e modelos neurais aplicados à resolução de problemas complexos."
+        },
+        {
+          "nome": "Estrutura de Dados",
+          "topicos": [
+            "Listas, Pilhas e Filas",
+            "Árvores Binárias e AVL",
+            "Grafos",
+            "Tabelas Hash"
+          ],
+          "resumo": "Estudo das principais estruturas para armazenamento e organização de dados na memória, focando na eficiência dos algoritmos de busca e ordenação."
+        },
+        {
+          "nome": "Sistemas Operacionais",
+          "topicos": [
+            "Gerenciamento de Processos",
+            "Threads e Concorrência",
+            "Gerenciamento de Memória",
+            "Sistemas de Arquivos"
+          ],
+          "resumo": "Princípios fundamentais do software que atua como interface entre o hardware e os programas, com foco na arquitetura de sistemas Unix e Windows."
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Software",
+      "duracao": "4 anos (8 semestres)",
+      "descricao": "Curso focado na aplicação sistemática de princípios de engenharia no ciclo de vida de desenvolvimento de software de alta qualidade.",
+      "materias": [
+        {
+          "nome": "Engenharia de Requisitos",
+          "topicos": [
+            "Elicitação de Requisitos",
+            "Modelagem e Especificação",
+            "Validação e Verificação",
+            "Gestão de Mudanças de Requisitos"
+          ],
+          "resumo": "Processos, métodos e ferramentas para levantamento, análise, documentação e validação sistemática de requisitos funcionais e não-funcionais em projetos de software."
+        },
+        {
+          "nome": "Arquitetura de Software",
+          "topicos": [
+            "Padrões de Projeto (Design Patterns)",
+            "Microsserviços",
+            "Arquitetura em Camadas",
+            "Event-Driven Architecture"
+          ],
+          "resumo": "Estudo do design de alto nível de sistemas complexos, escolha de tecnologias adequadas, padrões de projeto e criação de sistemas escaláveis."
+        },
+        {
+          "nome": "Testes e Qualidade de Software",
+          "topicos": [
+            "Testes Unitários e de Integração",
+            "TDD (Test-Driven Development)",
+            "Métricas de Qualidade (SonarQube)",
+            "Integração Contínua (CI)"
+          ],
+          "resumo": "Práticas essenciais para garantir que o código desenvolvido funcione corretamente através de automação de testes e padrões de garantia de qualidade."
+        }
+      ]
+    },
+    {
+      "nome": "Análise e Desenvolvimento de Sistemas (ADS)",
+      "duracao": "2,5 anos (5 semestres)",
+      "descricao": "Curso tecnológico com forte foco prático, voltado para a rápida inserção no mercado de trabalho na área de criação e manutenção de softwares e aplicativos.",
+      "materias": [
+        {
+          "nome": "Desenvolvimento Web Full Stack",
+          "topicos": [
+            "HTML, CSS e JavaScript",
+            "React.js e Frontend Moderno",
+            "Node.js e APIs REST",
+            "Bancos de Dados NoSQL"
+          ],
+          "resumo": "Criação completa de aplicações web modernas, cobrindo desde a interface visual no navegador até a construção da API no servidor."
+        },
+        {
+          "nome": "Programação Orientada a Objetos",
+          "topicos": [
+            "Classes e Objetos",
+            "Herança e Polimorfismo",
+            "Encapsulamento",
+            "Interfaces e Classes Abstratas"
+          ],
+          "resumo": "O principal paradigma da programação moderna, focado na modelagem do mundo real através de abstrações utilizando linguagens como Java ou C#."
+        }
+      ]
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "duracao": "4 anos (8 semestres)",
+      "descricao": "Curso focado na interseção entre a tecnologia da informação e a gestão de negócios, preparando profissionais para alinhar TI com estratégias corporativas.",
+      "materias": [
+        {
+          "nome": "Bancos de Dados",
+          "topicos": [
+            "Modelagem Relacional (MER)",
+            "Linguagem SQL",
+            "Normalização de Dados",
+            "Transações e Concorrência"
+          ],
+          "resumo": "Estudo focado na criação, gerenciamento e otimização de bancos de dados relacionais e no tratamento de grande volume de informações corporativas."
+        },
+        {
+          "nome": "Gestão de Projetos de TI",
+          "topicos": [
+            "Metodologias Ágeis (Scrum, Kanban)",
+            "Gestão de Risco",
+            "Planejamento Estratégico",
+            "PMBOK"
+          ],
+          "resumo": "Técnicas de administração e liderança aplicadas a projetos de tecnologia, garantindo entregas no prazo, no orçamento e com o escopo correto."
+        }
+      ]
+    }
+  ]
+}
