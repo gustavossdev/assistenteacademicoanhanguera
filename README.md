@@ -13,8 +13,8 @@ As respostas são baseadas apenas na base de conhecimento em `dados/cursos.json`
 ## Instalação e execução
 
 ```bash
-git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
-cd <seu-repositorio>
+git clone https://github.com/gustavossdev/assistenteacademicoanhanguera.git
+cd assistenteacademicoanhanguera
 
 pip install -r requirements.txt
 ollama pull llama3.2
@@ -41,3 +41,7 @@ Modelos e parâmetros ficam na classe `Settings`, no topo do `app.py` (modelo do
 
 - Não há memória de conversa: só a pergunta atual é enviada ao modelo.
 - A regra "não invente respostas" é uma instrução ao modelo, não uma garantia.
+
+## Licença
+
+A definir.
