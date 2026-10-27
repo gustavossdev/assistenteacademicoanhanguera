@@ -1,0 +1,558 @@
+{
+  "cursos": [
+    {
+      "nome": "Direito",
+      "duracao": "5 anos (10 semestres)",
+      "modalidade": "Presencial",
+      "tipo": "Bacharelado",
+      "descricao": "Curso voltado à formação jurídica, desenvolvendo conhecimentos para compreender, interpretar e aplicar o ordenamento jurídico. A formação abrange Direito Civil, Constitucional, Penal, Trabalhista, Administrativo, Empresarial, Tributário, Ambiental e Internacional, além de prática jurídica supervisionada, projetos de extensão, pesquisa e ética profissional.",
+      "materias": [
+        {
+          "nome": "Direito Civil - Parte Geral",
+          "topicos": [
+            "Institutos e princípios do Direito Civil",
+            "Direitos, deveres e relações jurídicas",
+            "Regras legais e consequências jurídicas",
+            "Análise de casos concretos"
+          ],
+          "resumo": "A disciplina apresenta os institutos de direito civil - parte geral, examinando relações jurídicas, direitos e obrigações entre pessoas e a aplicação das normas civis em situações concretas."
+        },
+        {
+          "nome": "Fundamentos Históricos e Introdução ao Estudo do Direito",
+          "topicos": [
+            "Conceitos e fundamentos da disciplina",
+            "Métodos de análise, interpretação e argumentação",
+            "Aplicações na formação e atuação jurídica"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de fundamentos históricos e introdução ao estudo do direito, fortalecendo a capacidade de interpretar informações, construir argumentos e compreender o contexto histórico, social e profissional do Direito."
+        },
+        {
+          "nome": "Optativa I",
+          "topicos": [
+            "Aprofundamento de tema jurídico escolhido",
+            "Estudo de conceitos e normas aplicáveis",
+            "Análise de situações e aplicações profissionais"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em uma área jurídica escolhida conforme as opções curriculares disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Teoria Geral do Direito Constitucional",
+          "topicos": [
+            "Princípios e fundamentos constitucionais",
+            "Direitos fundamentais e garantias",
+            "Organização do Estado e proteção da pessoa",
+            "Aplicação dos direitos no contexto social"
+          ],
+          "resumo": "A disciplina estuda teoria geral do direito constitucional, com atenção aos princípios constitucionais, à proteção de direitos e às relações entre Estado, sociedade e cidadania."
+        },
+        {
+          "nome": "Direito do Trabalho",
+          "topicos": [
+            "Fundamentos e legislação da área",
+            "Direitos e deveres nas relações de trabalho ou proteção social",
+            "Procedimentos e instrumentos jurídicos",
+            "Análise de conflitos e casos concretos"
+          ],
+          "resumo": "A disciplina aborda direito do trabalho, analisando normas, direitos, deveres e mecanismos jurídicos aplicáveis às relações de trabalho e à proteção social."
+        },
+        {
+          "nome": "Optativa II",
+          "topicos": [
+            "Aprofundamento de tema jurídico escolhido",
+            "Estudo de conceitos e normas aplicáveis",
+            "Análise de situações e aplicações profissionais"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em uma área jurídica escolhida conforme as opções curriculares disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Teoria Geral do Processo",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda teoria geral do processo, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Teoria Jurídica do Direito Penal",
+          "topicos": [
+            "Princípios e fundamentos do Direito Penal",
+            "Tipificação e elementos dos delitos",
+            "Responsabilidade penal e consequências jurídicas",
+            "Aplicação da legislação penal"
+          ],
+          "resumo": "A disciplina estuda teoria jurídica do direito penal, abordando os fundamentos da responsabilização penal, a interpretação das normas e sua aplicação às situações previstas na legislação."
+        },
+        {
+          "nome": "Argumentação e Pesquisa Jurídica",
+          "topicos": [
+            "Conceitos e fundamentos da disciplina",
+            "Métodos de análise, interpretação e argumentação",
+            "Aplicações na formação e atuação jurídica"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de argumentação e pesquisa jurídica, fortalecendo a capacidade de interpretar informações, construir argumentos e compreender o contexto histórico, social e profissional do Direito."
+        },
+        {
+          "nome": "Direito Civil - Obrigações",
+          "topicos": [
+            "Institutos e princípios do Direito Civil",
+            "Direitos, deveres e relações jurídicas",
+            "Regras legais e consequências jurídicas",
+            "Análise de casos concretos"
+          ],
+          "resumo": "A disciplina apresenta os institutos de direito civil - obrigações, examinando relações jurídicas, direitos e obrigações entre pessoas e a aplicação das normas civis em situações concretas."
+        },
+        {
+          "nome": "Direito Constitucional",
+          "topicos": [
+            "Princípios e fundamentos constitucionais",
+            "Direitos fundamentais e garantias",
+            "Organização do Estado e proteção da pessoa",
+            "Aplicação dos direitos no contexto social"
+          ],
+          "resumo": "A disciplina estuda direito constitucional, com atenção aos princípios constitucionais, à proteção de direitos e às relações entre Estado, sociedade e cidadania."
+        },
+        {
+          "nome": "Direito Penal - Teoria das Penas e Execução Penal",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito penal - teoria das penas e execução penal, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Projeto de Extensão I - Direito",
+          "topicos": [
+            "Identificação de demandas da comunidade",
+            "Planejamento de ações de orientação e educação em direitos",
+            "Execução e avaliação das atividades extensionistas"
+          ],
+          "resumo": "A disciplina aproxima a formação jurídica da comunidade por meio de ações extensionistas. O estudante identifica demandas, planeja atividades de orientação e educação em direitos e avalia os resultados das ações."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Princípios e fundamentos constitucionais",
+            "Direitos fundamentais e garantias",
+            "Organização do Estado e proteção da pessoa",
+            "Aplicação dos direitos no contexto social"
+          ],
+          "resumo": "A disciplina estuda sociedade brasileira e cidadania, com atenção aos princípios constitucionais, à proteção de direitos e às relações entre Estado, sociedade e cidadania."
+        },
+        {
+          "nome": "Direito Civil - Contratos",
+          "topicos": [
+            "Institutos e princípios do Direito Civil",
+            "Direitos, deveres e relações jurídicas",
+            "Regras legais e consequências jurídicas",
+            "Análise de casos concretos"
+          ],
+          "resumo": "A disciplina apresenta os institutos de direito civil - contratos, examinando relações jurídicas, direitos e obrigações entre pessoas e a aplicação das normas civis em situações concretas."
+        },
+        {
+          "nome": "Direito Coletivo do Trabalho e Tutelas Coletivas",
+          "topicos": [
+            "Fundamentos e legislação da área",
+            "Direitos e deveres nas relações de trabalho ou proteção social",
+            "Procedimentos e instrumentos jurídicos",
+            "Análise de conflitos e casos concretos"
+          ],
+          "resumo": "A disciplina aborda direito coletivo do trabalho e tutelas coletivas, analisando normas, direitos, deveres e mecanismos jurídicos aplicáveis às relações de trabalho e à proteção social."
+        },
+        {
+          "nome": "Direito Econômico e Financeiro",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito econômico e financeiro, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Processual Civil - Conhecimento e Processo Eletrônico",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito processual civil - conhecimento e processo eletrônico, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Ética Profissional em Direito",
+          "topicos": [
+            "Conceitos e fundamentos da disciplina",
+            "Métodos de análise, interpretação e argumentação",
+            "Aplicações na formação e atuação jurídica"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de ética profissional em direito, fortalecendo a capacidade de interpretar informações, construir argumentos e compreender o contexto histórico, social e profissional do Direito."
+        },
+        {
+          "nome": "Humanidades no Direito",
+          "topicos": [
+            "Conceitos e fundamentos da disciplina",
+            "Métodos de análise, interpretação e argumentação",
+            "Aplicações na formação e atuação jurídica"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de humanidades no direito, fortalecendo a capacidade de interpretar informações, construir argumentos e compreender o contexto histórico, social e profissional do Direito."
+        },
+        {
+          "nome": "Direito Administrativo - Regime Jurídico Administrativo",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito administrativo - regime jurídico administrativo, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Civil - Coisas",
+          "topicos": [
+            "Institutos e princípios do Direito Civil",
+            "Direitos, deveres e relações jurídicas",
+            "Regras legais e consequências jurídicas",
+            "Análise de casos concretos"
+          ],
+          "resumo": "A disciplina apresenta os institutos de direito civil - coisas, examinando relações jurídicas, direitos e obrigações entre pessoas e a aplicação das normas civis em situações concretas."
+        },
+        {
+          "nome": "Direito Penal - dos Crimes em Espécie",
+          "topicos": [
+            "Princípios e fundamentos do Direito Penal",
+            "Tipificação e elementos dos delitos",
+            "Responsabilidade penal e consequências jurídicas",
+            "Aplicação da legislação penal"
+          ],
+          "resumo": "A disciplina estuda direito penal - dos crimes em espécie, abordando os fundamentos da responsabilização penal, a interpretação das normas e sua aplicação às situações previstas na legislação."
+        },
+        {
+          "nome": "Direito Processual Civil - Execução e Cumprimento de Sentença",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito processual civil - execução e cumprimento de sentença, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Letramento Digital e Tecnologias Aplicadas ao Direito",
+          "topicos": [
+            "Conceitos e fundamentos da disciplina",
+            "Métodos de análise, interpretação e argumentação",
+            "Aplicações na formação e atuação jurídica"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de letramento digital e tecnologias aplicadas ao direito, fortalecendo a capacidade de interpretar informações, construir argumentos e compreender o contexto histórico, social e profissional do Direito."
+        },
+        {
+          "nome": "Projeto de Extensão II - Direito",
+          "topicos": [
+            "Identificação de demandas da comunidade",
+            "Planejamento de ações de orientação e educação em direitos",
+            "Execução e avaliação das atividades extensionistas"
+          ],
+          "resumo": "A disciplina aproxima a formação jurídica da comunidade por meio de ações extensionistas. O estudante identifica demandas, planeja atividades de orientação e educação em direitos e avalia os resultados das ações."
+        },
+        {
+          "nome": "Direito Ambiental",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito ambiental, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Empresarial e Societário",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito empresarial e societário, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Previdenciário",
+          "topicos": [
+            "Fundamentos e legislação da área",
+            "Direitos e deveres nas relações de trabalho ou proteção social",
+            "Procedimentos e instrumentos jurídicos",
+            "Análise de conflitos e casos concretos"
+          ],
+          "resumo": "A disciplina aborda direito previdenciário, analisando normas, direitos, deveres e mecanismos jurídicos aplicáveis às relações de trabalho e à proteção social."
+        },
+        {
+          "nome": "Direito Processual Penal - Ação Penal e Procedimentos",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito processual penal - ação penal e procedimentos, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Modelo Multiportas e Meios Integradores de Resolução de Conflitos",
+          "topicos": [
+            "Conceitos e fundamentos jurídicos",
+            "Normas e princípios relacionados ao tema",
+            "Aplicações na formação e prática profissional"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de modelo multiportas e meios integradores de resolução de conflitos, desenvolvendo conhecimentos para interpretar normas, compreender relações jurídicas e reconhecer aplicações na prática profissional."
+        },
+        {
+          "nome": "Responsabilidade Civil e Direito do Consumidor",
+          "topicos": [
+            "Institutos e princípios do Direito Civil",
+            "Direitos, deveres e relações jurídicas",
+            "Regras legais e consequências jurídicas",
+            "Análise de casos concretos"
+          ],
+          "resumo": "A disciplina apresenta os institutos de responsabilidade civil e direito do consumidor, examinando relações jurídicas, direitos e obrigações entre pessoas e a aplicação das normas civis em situações concretas."
+        },
+        {
+          "nome": "Direito Civil - Família",
+          "topicos": [
+            "Institutos e princípios do Direito Civil",
+            "Direitos, deveres e relações jurídicas",
+            "Regras legais e consequências jurídicas",
+            "Análise de casos concretos"
+          ],
+          "resumo": "A disciplina apresenta os institutos de direito civil - família, examinando relações jurídicas, direitos e obrigações entre pessoas e a aplicação das normas civis em situações concretas."
+        },
+        {
+          "nome": "Direito Processual do Trabalho",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito processual do trabalho, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Direito, Proteção e Inclusão Social",
+          "topicos": [
+            "Princípios e fundamentos constitucionais",
+            "Direitos fundamentais e garantias",
+            "Organização do Estado e proteção da pessoa",
+            "Aplicação dos direitos no contexto social"
+          ],
+          "resumo": "A disciplina estuda direito, proteção e inclusão social, com atenção aos princípios constitucionais, à proteção de direitos e às relações entre Estado, sociedade e cidadania."
+        },
+        {
+          "nome": "Prática Jurídica em Estágio Supervisionado I",
+          "topicos": [
+            "Vivência prática supervisionada",
+            "Análise de situações e demandas jurídicas",
+            "Elaboração de documentos e peças processuais",
+            "Ética e procedimentos profissionais"
+          ],
+          "resumo": "A disciplina desenvolve competências práticas por meio da análise e do encaminhamento de situações jurídicas, com orientação supervisionada. Envolve aplicação da legislação, elaboração de documentos e compreensão dos procedimentos próprios da prática jurídica."
+        },
+        {
+          "nome": "Projeto de Extensão III - Direito",
+          "topicos": [
+            "Identificação de demandas da comunidade",
+            "Planejamento de ações de orientação e educação em direitos",
+            "Execução e avaliação das atividades extensionistas"
+          ],
+          "resumo": "A disciplina aproxima a formação jurídica da comunidade por meio de ações extensionistas. O estudante identifica demandas, planeja atividades de orientação e educação em direitos e avalia os resultados das ações."
+        },
+        {
+          "nome": "Títulos de Crédito e Recuperação e Falência de Empresas",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de títulos de crédito e recuperação e falência de empresas, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Administrativo - Administração Pública",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito administrativo - administração pública, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Político e Eleitoral",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito político e eleitoral, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Processual Civil - Recursos e Tutelas de Causas Repetitivas",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito processual civil - recursos e tutelas de causas repetitivas, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Direito Tributário - Direito Constitucional Tributário",
+          "topicos": [
+            "Princípios e fundamentos constitucionais",
+            "Direitos fundamentais e garantias",
+            "Organização do Estado e proteção da pessoa",
+            "Aplicação dos direitos no contexto social"
+          ],
+          "resumo": "A disciplina estuda direito tributário - direito constitucional tributário, com atenção aos princípios constitucionais, à proteção de direitos e às relações entre Estado, sociedade e cidadania."
+        },
+        {
+          "nome": "Direitos Humanos, de Inclusão e do Idoso",
+          "topicos": [
+            "Princípios e fundamentos constitucionais",
+            "Direitos fundamentais e garantias",
+            "Organização do Estado e proteção da pessoa",
+            "Aplicação dos direitos no contexto social"
+          ],
+          "resumo": "A disciplina estuda direitos humanos, de inclusão e do idoso, com atenção aos princípios constitucionais, à proteção de direitos e às relações entre Estado, sociedade e cidadania."
+        },
+        {
+          "nome": "Prática Jurídica em Estágio Supervisionado II",
+          "topicos": [
+            "Vivência prática supervisionada",
+            "Análise de situações e demandas jurídicas",
+            "Elaboração de documentos e peças processuais",
+            "Ética e procedimentos profissionais"
+          ],
+          "resumo": "A disciplina desenvolve competências práticas por meio da análise e do encaminhamento de situações jurídicas, com orientação supervisionada. Envolve aplicação da legislação, elaboração de documentos e compreensão dos procedimentos próprios da prática jurídica."
+        },
+        {
+          "nome": "Direito Cibernético",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito cibernético, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Processual Penal - Nulidades e Recursos",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito processual penal - nulidades e recursos, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Optativa III",
+          "topicos": [
+            "Aprofundamento de tema jurídico escolhido",
+            "Estudo de conceitos e normas aplicáveis",
+            "Análise de situações e aplicações profissionais"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em uma área jurídica escolhida conforme as opções curriculares disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Prática Jurídica em Estágio Supervisionado III",
+          "topicos": [
+            "Vivência prática supervisionada",
+            "Análise de situações e demandas jurídicas",
+            "Elaboração de documentos e peças processuais",
+            "Ética e procedimentos profissionais"
+          ],
+          "resumo": "A disciplina desenvolve competências práticas por meio da análise e do encaminhamento de situações jurídicas, com orientação supervisionada. Envolve aplicação da legislação, elaboração de documentos e compreensão dos procedimentos próprios da prática jurídica."
+        },
+        {
+          "nome": "Projeto de Extensão IV - Direito",
+          "topicos": [
+            "Identificação de demandas da comunidade",
+            "Planejamento de ações de orientação e educação em direitos",
+            "Execução e avaliação das atividades extensionistas"
+          ],
+          "resumo": "A disciplina aproxima a formação jurídica da comunidade por meio de ações extensionistas. O estudante identifica demandas, planeja atividades de orientação e educação em direitos e avalia os resultados das ações."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso",
+          "topicos": [
+            "Delimitação do tema e problema jurídico",
+            "Pesquisa doutrinária, legislativa e jurisprudencial",
+            "Metodologia científica",
+            "Análise e apresentação dos resultados"
+          ],
+          "resumo": "A disciplina orienta a elaboração de pesquisa acadêmica na área jurídica, desde a escolha do tema e formulação do problema até a pesquisa em legislação, doutrina e jurisprudência, análise e apresentação do trabalho."
+        },
+        {
+          "nome": "Direito Civil - Sucessões",
+          "topicos": [
+            "Institutos e princípios do Direito Civil",
+            "Direitos, deveres e relações jurídicas",
+            "Regras legais e consequências jurídicas",
+            "Análise de casos concretos"
+          ],
+          "resumo": "A disciplina apresenta os institutos de direito civil - sucessões, examinando relações jurídicas, direitos e obrigações entre pessoas e a aplicação das normas civis em situações concretas."
+        },
+        {
+          "nome": "Direito Internacional",
+          "topicos": [
+            "Fundamentos e princípios jurídicos da área",
+            "Legislação e instituições relacionadas",
+            "Direitos, obrigações e mecanismos de aplicação",
+            "Análise de situações práticas"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de direito internacional, examinando normas, princípios, instituições e instrumentos jurídicos que regulam as relações e atividades desse campo."
+        },
+        {
+          "nome": "Direito Tributário - Tributos em Espécie e Processo Tributário",
+          "topicos": [
+            "Princípios e normas do processo",
+            "Etapas, sujeitos e atos processuais",
+            "Instrumentos processuais e meios de impugnação",
+            "Aplicação prática das regras processuais"
+          ],
+          "resumo": "A disciplina aborda direito tributário - tributos em espécie e processo tributário, estudando princípios, normas, procedimentos e instrumentos utilizados na condução e solução de demandas jurídicas."
+        },
+        {
+          "nome": "Optativa IV",
+          "topicos": [
+            "Aprofundamento de tema jurídico escolhido",
+            "Estudo de conceitos e normas aplicáveis",
+            "Análise de situações e aplicações profissionais"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em uma área jurídica escolhida conforme as opções curriculares disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Prática Jurídica em Estágio Supervisionado IV",
+          "topicos": [
+            "Vivência prática supervisionada",
+            "Análise de situações e demandas jurídicas",
+            "Elaboração de documentos e peças processuais",
+            "Ética e procedimentos profissionais"
+          ],
+          "resumo": "A disciplina desenvolve competências práticas por meio da análise e do encaminhamento de situações jurídicas, com orientação supervisionada. Envolve aplicação da legislação, elaboração de documentos e compreensão dos procedimentos próprios da prática jurídica."
+        },
+        {
+          "nome": "Atividades complementares",
+          "topicos": [
+            "Participação em eventos e atividades acadêmicas",
+            "Cursos, projetos e experiências formativas",
+            "Registro e validação conforme critérios institucionais"
+          ],
+          "resumo": "Reúne atividades acadêmicas, culturais e profissionais complementares à matriz curricular, contribuindo para ampliar a formação do estudante conforme os critérios institucionais."
+        }
+      ]
+    }
+  ]
+}

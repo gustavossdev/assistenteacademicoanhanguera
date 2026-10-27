@@ -1,0 +1,373 @@
+{
+    "cursos": [
+        {
+            "nome": "Ciência da Computação",
+            "duracao": "4 anos (8 semestres)",
+            "modalidade": "EAD, Presencial",
+            "tipo": "Bacharelado",
+            "descricao": "O curso de Ciência da Computação forma profissionais para compreender fundamentos da computação e desenvolver soluções tecnológicas. A formação abrange algoritmos, programação, engenharia de software, bancos de dados, redes, sistemas operacionais, computação distribuída e segurança da informação.",
+            "materias": [
+                {
+                    "nome": "Algoritmos e Estrutura de Dados",
+                    "topicos": [
+                        "Conceitos de sistemas estruturais",
+                        "Materiais, esforços e comportamento estrutural",
+                        "Critérios de dimensionamento e segurança",
+                        "Aplicação dos sistemas em edificações"
+                    ],
+                    "resumo": "Apresenta os fundamentos de algoritmos e estrutura de dados e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Algoritmos e Estrutura de Dados Avançado",
+                    "topicos": [
+                        "Conceitos de sistemas estruturais",
+                        "Materiais, esforços e comportamento estrutural",
+                        "Critérios de dimensionamento e segurança",
+                        "Aplicação dos sistemas em edificações"
+                    ],
+                    "resumo": "Apresenta os fundamentos de algoritmos e estrutura de dados avançado e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Algoritmos E Técnicas De Programação",
+                    "topicos": [
+                        "Fundamentos da linguagem e lógica de programação",
+                        "Estruturas de controle, dados e modularização",
+                        "Implementação e depuração de programas",
+                        "Testes e boas práticas de desenvolvimento"
+                    ],
+                    "resumo": "Apresenta os fundamentos de algoritmos e técnicas de programação e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Análise de Computabilidade e Complexidade de Algoritmos",
+                    "topicos": [
+                        "Representação e análise de algoritmos",
+                        "Estruturas de dados e operações fundamentais",
+                        "Estratégias de resolução de problemas",
+                        "Análise de eficiência e complexidade"
+                    ],
+                    "resumo": "Apresenta os fundamentos de análise de computabilidade e complexidade de algoritmos e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Arquitetura E Organização De Computadores",
+                    "topicos": [
+                        "Fundamentos de concepção e organização do espaço",
+                        "Programa de necessidades e relações funcionais",
+                        "Desenvolvimento e representação de propostas",
+                        "Critérios técnicos, estéticos e de uso"
+                    ],
+                    "resumo": "Apresenta os fundamentos de arquitetura e organização de computadores e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Arquiteturas Paralelas e Distribuídas",
+                    "topicos": [
+                        "Fundamentos de concepção e organização do espaço",
+                        "Programa de necessidades e relações funcionais",
+                        "Desenvolvimento e representação de propostas",
+                        "Critérios técnicos, estéticos e de uso"
+                    ],
+                    "resumo": "Apresenta os fundamentos de arquiteturas paralelas e distribuídas e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Computação em Nuvem",
+                    "topicos": [
+                        "Modelos de serviço e implantação em nuvem",
+                        "Virtualização e recursos computacionais",
+                        "Armazenamento, escalabilidade e disponibilidade",
+                        "Segurança e gestão de ambientes em nuvem"
+                    ],
+                    "resumo": "Apresenta os fundamentos de computação em nuvem e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Computação Gráfica e Processamento de Imagens",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de computação gráfica e processamento de imagens e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Desenvolvimento com Low Code",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de desenvolvimento com low code e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Desenvolvimento de E-Commerce com CMS",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de desenvolvimento de e-commerce com cms e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Desenvolvimento em Javascript",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de desenvolvimento em javascript e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Engenharia de Software",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de engenharia de software e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Física Geral",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de física geral e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Green It",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de green it e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Internet das Coisas",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de internet das coisas e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Linguagens Formais e Autômatos",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de linguagens formais e autômatos e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Lógica E Matemática Computacional",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de lógica e matemática computacional e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Matemática Discreta",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de matemática discreta e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Métodos Matemáticos",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de métodos matemáticos e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Métodos Numéricos Aplicados",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de métodos numéricos aplicados e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Modelagem de Dados",
+                    "topicos": [
+                        "Modelagem conceitual, lógica e física",
+                        "Estruturação de tabelas e relacionamentos",
+                        "Consultas, manipulação e integridade dos dados",
+                        "Segurança, desempenho e administração de dados"
+                    ],
+                    "resumo": "Apresenta os fundamentos de modelagem de dados e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Modelos de Negócios para TI",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de modelos de negócios para ti e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Optativa I",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Permite aprofundar conhecimentos em tema complementar à formação em ciência da computação, conforme a opção curricular disponibilizada pela instituição."
+                },
+                {
+                    "nome": "Optativa II",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Permite aprofundar conhecimentos em tema complementar à formação em ciência da computação, conforme a opção curricular disponibilizada pela instituição."
+                },
+                {
+                    "nome": "Programação em Banco de Dados",
+                    "topicos": [
+                        "Fundamentos da linguagem e lógica de programação",
+                        "Estruturas de controle, dados e modularização",
+                        "Implementação e depuração de programas",
+                        "Testes e boas práticas de desenvolvimento"
+                    ],
+                    "resumo": "Apresenta os fundamentos de programação em banco de dados e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Programação Orientada a Objetos",
+                    "topicos": [
+                        "Fundamentos da linguagem e lógica de programação",
+                        "Estruturas de controle, dados e modularização",
+                        "Implementação e depuração de programas",
+                        "Testes e boas práticas de desenvolvimento"
+                    ],
+                    "resumo": "Apresenta os fundamentos de programação orientada a objetos e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Programação Orientada a Objetos II",
+                    "topicos": [
+                        "Fundamentos da linguagem e lógica de programação",
+                        "Estruturas de controle, dados e modularização",
+                        "Implementação e depuração de programas",
+                        "Testes e boas práticas de desenvolvimento"
+                    ],
+                    "resumo": "Apresenta os fundamentos de programação orientada a objetos ii e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Projeto de Extensão I - Ciência da Computação",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Desenvolve atividades orientadas relacionadas à formação em ciência da computação, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+                },
+                {
+                    "nome": "Projeto de Extensão II - Ciência da Computação",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Desenvolve atividades orientadas relacionadas à formação em ciência da computação, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+                },
+                {
+                    "nome": "Redes de Computadores",
+                    "topicos": [
+                        "Modelos e arquiteturas de redes",
+                        "Protocolos e endereçamento",
+                        "Dispositivos e serviços de comunicação",
+                        "Diagnóstico, desempenho e segurança de redes"
+                    ],
+                    "resumo": "Apresenta os fundamentos de redes de computadores e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Segurança da Informação e de Redes",
+                    "topicos": [
+                        "Modelos e arquiteturas de redes",
+                        "Protocolos e endereçamento",
+                        "Dispositivos e serviços de comunicação",
+                        "Diagnóstico, desempenho e segurança de redes"
+                    ],
+                    "resumo": "Apresenta os fundamentos de segurança da informação e de redes e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Sistemas de Computação e de Informação",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de sistemas de computação e de informação e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Sistemas Digitais e Microprocessadores",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de sistemas digitais e microprocessadores e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Sistemas Distribuídos",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de sistemas distribuídos e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Sistemas Operacionais",
+                    "topicos": [
+                        "Arquitetura e funções de sistemas operacionais",
+                        "Gerenciamento de processos, memória e arquivos",
+                        "Dispositivos e entrada e saída",
+                        "Administração, desempenho e segurança"
+                    ],
+                    "resumo": "Apresenta os fundamentos de sistemas operacionais e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                },
+                {
+                    "nome": "Sociedade Brasileira e Cidadania",
+                    "topicos": [
+                        "Conceitos fundamentais e fundamentos computacionais",
+                        "Técnicas, ferramentas e tecnologias relacionadas",
+                        "Análise e resolução de problemas da área",
+                        "Aplicações no desenvolvimento de soluções tecnológicas"
+                    ],
+                    "resumo": "Apresenta os fundamentos de sociedade brasileira e cidadania e suas aplicações na computação, desenvolvendo a capacidade de analisar problemas e compreender técnicas e soluções tecnológicas."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,441 @@
+{
+  "cursos": [
+    {
+      "nome": "Serviço Social",
+      "duracao": "4 anos (8 semestres)",
+      "modalidade": "Semipresencial",
+      "tipo": "Bacharelado",
+      "descricao": "Curso voltado à formação de profissionais capazes de analisar a realidade social, identificar expressões da questão social, defender direitos e planejar, executar e avaliar políticas, programas e projetos sociais. A formação contempla fundamentos históricos, teóricos e metodológicos do Serviço Social, políticas públicas, ética, pesquisa, gestão social e estágios supervisionados.",
+      "materias": [
+        {
+          "nome": "Antropologia",
+          "topicos": [
+            "Conceitos e correntes fundamentais",
+            "Processos históricos e sociais",
+            "Relações entre Estado, sociedade e indivíduo",
+            "Análise da realidade brasileira"
+          ],
+          "resumo": "Apresenta fundamentos de antropologia para compreender a formação da sociedade, relações de poder, desigualdades e processos históricos que influenciam a realidade social."
+        },
+        {
+          "nome": "Ciência Política",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda ciência política, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Comunicação na Prática do Assistente Social",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda comunicação na prática do assistente social, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Formação Social, Histórica e Política do Brasil",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda formação social, histórica e política do brasil, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda sociedade brasileira e cidadania, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Administração e Planejamento de Serviço Social",
+          "topicos": [
+            "Planejamento e organização de serviços e projetos",
+            "Gestão de recursos e equipes",
+            "Monitoramento e avaliação de ações sociais",
+            "Instrumentos de gestão"
+          ],
+          "resumo": "Apresenta conceitos e ferramentas de administração e planejamento de serviço social aplicados às instituições e políticas sociais, abordando planejamento, organização, acompanhamento e avaliação de programas e serviços."
+        },
+        {
+          "nome": "Economia Política",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda economia política, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Estatística e Indicadores Sociais",
+          "topicos": [
+            "Fundamentos da investigação científica",
+            "Métodos de coleta e análise de informações",
+            "Indicadores e interpretação de dados sociais",
+            "Elaboração de estudos e relatórios"
+          ],
+          "resumo": "Desenvolve conhecimentos de investigação e análise relacionados a estatística e indicadores sociais, permitindo compreender dados e fenômenos sociais e fundamentar diagnósticos e decisões profissionais."
+        },
+        {
+          "nome": "Introdução à Filosofia",
+          "topicos": [
+            "Conceitos e correntes fundamentais",
+            "Processos históricos e sociais",
+            "Relações entre Estado, sociedade e indivíduo",
+            "Análise da realidade brasileira"
+          ],
+          "resumo": "Apresenta fundamentos de introdução à filosofia para compreender a formação da sociedade, relações de poder, desigualdades e processos históricos que influenciam a realidade social."
+        },
+        {
+          "nome": "Legislação Social e Direitos Humanos",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda legislação social e direitos humanos, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Fundamentos das Políticas Sociais",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda fundamentos das políticas sociais, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Fundamentos Históricos, Teóricos e Metodológicos do Serviço Social I",
+          "topicos": [
+            "Trajetória histórica do Serviço Social",
+            "Referenciais teóricos e metodológicos",
+            "Instrumentos e técnicas de intervenção",
+            "Relação entre questão social e trabalho profissional"
+          ],
+          "resumo": "Estuda fundamentos históricos, teóricos e metodológicos do serviço social i, examinando a construção histórica e teórico-metodológica da profissão e sua relação com as expressões da questão social e os instrumentos de intervenção."
+        },
+        {
+          "nome": "Políticas Sociais no Brasil",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda políticas sociais no brasil, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Projeto de Extensão I - Serviço Social",
+          "topicos": [
+            "Identificação de demandas da comunidade",
+            "Planejamento de ações socioeducativas",
+            "Execução e avaliação de atividades extensionistas"
+          ],
+          "resumo": "Aproxima a formação acadêmica da comunidade por meio de ações extensionistas. O estudante identifica necessidades sociais, planeja atividades e avalia os resultados das intervenções."
+        },
+        {
+          "nome": "Questão Social e Serviço Social",
+          "topicos": [
+            "Trajetória histórica do Serviço Social",
+            "Referenciais teóricos e metodológicos",
+            "Instrumentos e técnicas de intervenção",
+            "Relação entre questão social e trabalho profissional"
+          ],
+          "resumo": "Estuda questão social e serviço social, examinando a construção histórica e teórico-metodológica da profissão e sua relação com as expressões da questão social e os instrumentos de intervenção."
+        },
+        {
+          "nome": "Ética Profissional em Serviço Social",
+          "topicos": [
+            "Princípios éticos e fundamentos legais",
+            "Direitos, deveres e responsabilidades profissionais",
+            "Normas do exercício profissional",
+            "Dilemas da prática do Serviço Social"
+          ],
+          "resumo": "Aborda os fundamentos éticos e normativos de ética profissional em serviço social, discutindo responsabilidades profissionais, direitos, deveres e parâmetros que orientam a atuação do assistente social."
+        },
+        {
+          "nome": "Fundamentos Históricos, Teóricos e Metodológicos do Serviço Social II",
+          "topicos": [
+            "Trajetória histórica do Serviço Social",
+            "Referenciais teóricos e metodológicos",
+            "Instrumentos e técnicas de intervenção",
+            "Relação entre questão social e trabalho profissional"
+          ],
+          "resumo": "Estuda fundamentos históricos, teóricos e metodológicos do serviço social ii, examinando a construção histórica e teórico-metodológica da profissão e sua relação com as expressões da questão social e os instrumentos de intervenção."
+        },
+        {
+          "nome": "Pensamento Científico",
+          "topicos": [
+            "Fundamentos da investigação científica",
+            "Métodos de coleta e análise de informações",
+            "Indicadores e interpretação de dados sociais",
+            "Elaboração de estudos e relatórios"
+          ],
+          "resumo": "Desenvolve conhecimentos de investigação e análise relacionados a pensamento científico, permitindo compreender dados e fenômenos sociais e fundamentar diagnósticos e decisões profissionais."
+        },
+        {
+          "nome": "Responsabilidade Social e Ambiental",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda responsabilidade social e ambiental, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Seminário de Estágio",
+          "topicos": [
+            "Inserção supervisionada em campo de atuação",
+            "Observação e análise da realidade institucional",
+            "Planejamento e execução de intervenções profissionais",
+            "Ética e registro das atividades"
+          ],
+          "resumo": "Proporciona vivência supervisionada em espaços de atuação do Serviço Social. O estudante observa a realidade institucional, identifica demandas, relaciona teoria e prática e desenvolve atividades sob orientação."
+        },
+        {
+          "nome": "Educação Inclusiva",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda educação inclusiva, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Estágio Supervisionado I - Serviço Social",
+          "topicos": [
+            "Inserção supervisionada em campo de atuação",
+            "Observação e análise da realidade institucional",
+            "Planejamento e execução de intervenções profissionais",
+            "Ética e registro das atividades"
+          ],
+          "resumo": "Proporciona vivência supervisionada em espaços de atuação do Serviço Social. O estudante observa a realidade institucional, identifica demandas, relaciona teoria e prática e desenvolve atividades sob orientação."
+        },
+        {
+          "nome": "Fundamentos Históricos, Teóricos e Metodológicos do Serviço Social III",
+          "topicos": [
+            "Trajetória histórica do Serviço Social",
+            "Referenciais teóricos e metodológicos",
+            "Instrumentos e técnicas de intervenção",
+            "Relação entre questão social e trabalho profissional"
+          ],
+          "resumo": "Estuda fundamentos históricos, teóricos e metodológicos do serviço social iii, examinando a construção histórica e teórico-metodológica da profissão e sua relação com as expressões da questão social e os instrumentos de intervenção."
+        },
+        {
+          "nome": "Pesquisa Social e Oficina de Formação",
+          "topicos": [
+            "Fundamentos da investigação científica",
+            "Métodos de coleta e análise de informações",
+            "Indicadores e interpretação de dados sociais",
+            "Elaboração de estudos e relatórios"
+          ],
+          "resumo": "Desenvolve conhecimentos de investigação e análise relacionados a pesquisa social e oficina de formação, permitindo compreender dados e fenômenos sociais e fundamentar diagnósticos e decisões profissionais."
+        },
+        {
+          "nome": "Processo de Trabalho e Instrumentalidade do Serviço Social",
+          "topicos": [
+            "Trajetória histórica do Serviço Social",
+            "Referenciais teóricos e metodológicos",
+            "Instrumentos e técnicas de intervenção",
+            "Relação entre questão social e trabalho profissional"
+          ],
+          "resumo": "Estuda processo de trabalho e instrumentalidade do serviço social, examinando a construção histórica e teórico-metodológica da profissão e sua relação com as expressões da questão social e os instrumentos de intervenção."
+        },
+        {
+          "nome": "Projeto de Extensão II - Serviço Social",
+          "topicos": [
+            "Identificação de demandas da comunidade",
+            "Planejamento de ações socioeducativas",
+            "Execução e avaliação de atividades extensionistas"
+          ],
+          "resumo": "Aproxima a formação acadêmica da comunidade por meio de ações extensionistas. O estudante identifica necessidades sociais, planeja atividades e avalia os resultados das intervenções."
+        },
+        {
+          "nome": "Classes e Movimentos Sociais",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda classes e movimentos sociais, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Estágio Supervisionado II - Serviço Social",
+          "topicos": [
+            "Inserção supervisionada em campo de atuação",
+            "Observação e análise da realidade institucional",
+            "Planejamento e execução de intervenções profissionais",
+            "Ética e registro das atividades"
+          ],
+          "resumo": "Proporciona vivência supervisionada em espaços de atuação do Serviço Social. O estudante observa a realidade institucional, identifica demandas, relaciona teoria e prática e desenvolve atividades sob orientação."
+        },
+        {
+          "nome": "Gestão Social e Análise de Políticas Sociais",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda gestão social e análise de políticas sociais, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Serviço Social na Área da Saúde, Previdência Social e Assistência Social",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda serviço social na área da saúde, previdência social e assistência social, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Sociologia",
+          "topicos": [
+            "Conceitos e correntes fundamentais",
+            "Processos históricos e sociais",
+            "Relações entre Estado, sociedade e indivíduo",
+            "Análise da realidade brasileira"
+          ],
+          "resumo": "Apresenta fundamentos de sociologia para compreender a formação da sociedade, relações de poder, desigualdades e processos históricos que influenciam a realidade social."
+        },
+        {
+          "nome": "Trabalho e Sociabilidade",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda trabalho e sociabilidade, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Direito, Proteção e Inclusão Social",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda direito, proteção e inclusão social, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Estágio Supervisionado III - Serviço Social",
+          "topicos": [
+            "Inserção supervisionada em campo de atuação",
+            "Observação e análise da realidade institucional",
+            "Planejamento e execução de intervenções profissionais",
+            "Ética e registro das atividades"
+          ],
+          "resumo": "Proporciona vivência supervisionada em espaços de atuação do Serviço Social. O estudante observa a realidade institucional, identifica demandas, relaciona teoria e prática e desenvolve atividades sob orientação."
+        },
+        {
+          "nome": "Projeto de Extensão III - Serviço Social",
+          "topicos": [
+            "Identificação de demandas da comunidade",
+            "Planejamento de ações socioeducativas",
+            "Execução e avaliação de atividades extensionistas"
+          ],
+          "resumo": "Aproxima a formação acadêmica da comunidade por meio de ações extensionistas. O estudante identifica necessidades sociais, planeja atividades e avalia os resultados das intervenções."
+        },
+        {
+          "nome": "Serviço Social e Terceiro Setor",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda serviço social e terceiro setor, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Serviço Social na Área da Educação",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda serviço social na área da educação, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Adolescência e Juventude no Século XXI",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda adolescência e juventude no século xxi, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Conexão Sem Barreiras em Saúde",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda conexão sem barreiras em saúde, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Políticas de Inclusão e Ações Afirmativas",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda políticas de inclusão e ações afirmativas, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Políticas Setoriais",
+          "topicos": [
+            "Fundamentos históricos e legais das políticas sociais",
+            "Direitos sociais e acesso à proteção social",
+            "Organização dos serviços e redes de atendimento",
+            "Desafios da atuação profissional"
+          ],
+          "resumo": "Aborda políticas setoriais, considerando fundamentos legais e sociais, garantia de direitos, organização das políticas públicas e atuação do assistente social na identificação e encaminhamento de demandas."
+        },
+        {
+          "nome": "Psicologia Social - Noções Introdutórias",
+          "topicos": [
+            "Conceitos e fundamentos do tema",
+            "Relações com a realidade social brasileira",
+            "Aplicações na formação e na prática profissional"
+          ],
+          "resumo": "Estuda psicologia social - noções introdutórias, apresentando conceitos e perspectivas que auxiliam na análise da realidade social e no desenvolvimento de competências para a atuação em Serviço Social."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso",
+          "topicos": [
+            "Delimitação do tema e problema de pesquisa",
+            "Metodologia de pesquisa em Serviço Social",
+            "Análise de dados e fundamentação teórica",
+            "Redação e apresentação acadêmica"
+          ],
+          "resumo": "Orienta a elaboração de uma pesquisa ou produção acadêmica relacionada ao Serviço Social, desde a definição do tema e dos objetivos até a análise, redação e apresentação."
+        },
+        {
+          "nome": "Atividades Complementares",
+          "topicos": [
+            "Atividades acadêmicas e culturais",
+            "Participação em eventos, cursos e projetos",
+            "Registro e validação das atividades"
+          ],
+          "resumo": "Reúne atividades acadêmicas, culturais e profissionais que complementam a matriz curricular e ampliam a formação, conforme os critérios institucionais."
+        }
+      ]
+    }
+  ]
+}

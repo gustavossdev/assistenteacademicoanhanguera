@@ -1,0 +1,2521 @@
+{
+  "cursos": [
+    {
+      "nome": "Ciências Aeronáuticas",
+      "duracao": "3 anos (6 semestres)",
+      "modalidade": "Presencial",
+      "tipo": "Bacharelado",
+      "descricao": "O curso de Ciências Aeronáuticas forma profissionais para atuar na aviação civil, com conhecimentos sobre operação e desempenho de aeronaves, navegação aérea, meteorologia, regulamentos de tráfego aéreo, segurança operacional, manutenção e gestão de empresas aéreas.",
+      "materias": [
+        {
+          "nome": "Conhecimentos Técnicos e Estruturais de Aeronaves e Motores",
+          "topicos": [
+            "Componentes e sistemas da aeronave",
+            "Princípios de funcionamento e integração",
+            "Inspeção, operação e manutenção",
+            "Segurança e confiabilidade operacional"
+          ],
+          "resumo": "Estuda os componentes, sistemas e princípios de funcionamento de aeronaves, considerando operação, manutenção, integração e segurança."
+        },
+        {
+          "nome": "Navegação Aérea Visual",
+          "topicos": [
+            "Cartas, rotas e referências de navegação",
+            "Orientação e posicionamento da aeronave",
+            "Procedimentos de navegação visual e instrumental",
+            "Planejamento e acompanhamento do voo"
+          ],
+          "resumo": "Aborda técnicas e procedimentos de navegação aérea para planejar e conduzir voos com precisão e segurança."
+        },
+        {
+          "nome": "Meteorologia Aeronáutica e o Meio Ambiente",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Optativa I",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Segurança de Voo",
+          "topicos": [
+            "Identificação de perigos e avaliação de riscos",
+            "Prevenção de incidentes e acidentes",
+            "Procedimentos de emergência e resposta",
+            "Cultura e gestão da segurança operacional"
+          ],
+          "resumo": "Aborda práticas e sistemas destinados à prevenção de acidentes, gerenciamento de riscos e resposta segura a situações anormais e emergenciais."
+        },
+        {
+          "nome": "Fundamentos de Cálculo Aplicado",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Optativa II",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Planejamento e Gestão de Empresa Aérea",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Meteorologia e Infraestrutura Aeronáutica",
+          "topicos": [
+            "Atmosfera e fenômenos meteorológicos",
+            "Leitura e interpretação de informações meteorológicas",
+            "Influência do clima nas operações aéreas",
+            "Previsão e avaliação de condições de voo"
+          ],
+          "resumo": "Estuda fenômenos atmosféricos e sua influência sobre as operações aeronáuticas, contribuindo para o planejamento e a segurança dos voos."
+        },
+        {
+          "nome": "Regulamentos e Normas de Tráfego Aéreo",
+          "topicos": [
+            "Regras e normas da aviação civil",
+            "Organização e controle do tráfego aéreo",
+            "Procedimentos operacionais e documentação",
+            "Responsabilidades e conformidade regulatória"
+          ],
+          "resumo": "Apresenta normas e procedimentos que regulamentam a aviação civil e o tráfego aéreo, destacando responsabilidades e segurança operacional."
+        },
+        {
+          "nome": "Teoria de Voo de Aviões e Helicópteros de Baixa Performance",
+          "topicos": [
+            "Princípios aerodinâmicos e forças de voo",
+            "Desempenho e limitações da aeronave",
+            "Cálculo de peso, centragem e balanceamento",
+            "Efeitos das condições operacionais"
+          ],
+          "resumo": "Estuda os princípios que determinam o voo e o desempenho das aeronaves, incluindo estabilidade, limitações e balanceamento."
+        },
+        {
+          "nome": "Conhecimentos Técnicos e Manutenção de Aeronaves e Motores",
+          "topicos": [
+            "Componentes e sistemas da aeronave",
+            "Princípios de funcionamento e integração",
+            "Inspeção, operação e manutenção",
+            "Segurança e confiabilidade operacional"
+          ],
+          "resumo": "Estuda os componentes, sistemas e princípios de funcionamento de aeronaves, considerando operação, manutenção, integração e segurança."
+        },
+        {
+          "nome": "Economia e Logística no Transporte Aéreo",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Projeto de Extensão I - Ciências Aeronáuticas",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de ciências aeronáuticas à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Medicina Aeroespacial",
+          "topicos": [
+            "Fisiologia humana em ambiente de voo",
+            "Efeitos da altitude e aceleração",
+            "Fatores humanos e limitações psicofisiológicas",
+            "Prevenção e cuidados relacionados à saúde operacional"
+          ],
+          "resumo": "Estuda os efeitos do ambiente aeronáutico sobre o organismo humano e sua relação com o desempenho e a segurança das operações."
+        },
+        {
+          "nome": "Navegação Aérea por Instrumentos",
+          "topicos": [
+            "Cartas, rotas e referências de navegação",
+            "Orientação e posicionamento da aeronave",
+            "Procedimentos de navegação visual e instrumental",
+            "Planejamento e acompanhamento do voo"
+          ],
+          "resumo": "Aborda técnicas e procedimentos de navegação aérea para planejar e conduzir voos com precisão e segurança."
+        },
+        {
+          "nome": "Teoria de Voo de Aviões e Helicópteros de Alta Performance",
+          "topicos": [
+            "Princípios aerodinâmicos e forças de voo",
+            "Desempenho e limitações da aeronave",
+            "Cálculo de peso, centragem e balanceamento",
+            "Efeitos das condições operacionais"
+          ],
+          "resumo": "Estuda os princípios que determinam o voo e o desempenho das aeronaves, incluindo estabilidade, limitações e balanceamento."
+        },
+        {
+          "nome": "Regulamentos de Tráfego Aéreo e Código Brasileiro de Aeronáutica",
+          "topicos": [
+            "Regras e normas da aviação civil",
+            "Organização e controle do tráfego aéreo",
+            "Procedimentos operacionais e documentação",
+            "Responsabilidades e conformidade regulatória"
+          ],
+          "resumo": "Apresenta normas e procedimentos que regulamentam a aviação civil e o tráfego aéreo, destacando responsabilidades e segurança operacional."
+        },
+        {
+          "nome": "Tráfego Aéreo e Sistemas de Aviação Civil",
+          "topicos": [
+            "Regras e normas da aviação civil",
+            "Organização e controle do tráfego aéreo",
+            "Procedimentos operacionais e documentação",
+            "Responsabilidades e conformidade regulatória"
+          ],
+          "resumo": "Apresenta normas e procedimentos que regulamentam a aviação civil e o tráfego aéreo, destacando responsabilidades e segurança operacional."
+        },
+        {
+          "nome": "Pensamento Científico",
+          "topicos": [
+            "Fundamentos do pensamento crítico e científico",
+            "Análise de contextos sociais e profissionais",
+            "Ética, cidadania e responsabilidade social",
+            "Aplicação do conhecimento em situações reais"
+          ],
+          "resumo": "Desenvolve pensamento crítico e compreensão do contexto social, científico e profissional, relacionando conhecimento e responsabilidade cidadã."
+        },
+        {
+          "nome": "Pesquisa Operacional",
+          "topicos": [
+            "Modelagem de problemas de decisão",
+            "Otimização e métodos quantitativos",
+            "Análise de cenários e recursos",
+            "Aplicações em planejamento e operações"
+          ],
+          "resumo": "Apresenta métodos quantitativos para apoiar decisões, otimizar recursos e resolver problemas de planejamento e operação."
+        },
+        {
+          "nome": "Projeto de Extensão II - Ciências Aeronáuticas",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de ciências aeronáuticas à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Fraseologia Aeronáutica",
+          "topicos": [
+            "Vocabulário técnico da área aeronáutica",
+            "Comunicação padronizada e fraseologia",
+            "Compreensão de instruções e documentos",
+            "Comunicação clara em contextos operacionais"
+          ],
+          "resumo": "Desenvolve competências de comunicação em inglês e utilização da terminologia técnica e fraseologia empregadas no contexto aeronáutico."
+        },
+        {
+          "nome": "Instrução de Aeronaves",
+          "topicos": [
+            "Componentes e sistemas da aeronave",
+            "Princípios de funcionamento e integração",
+            "Inspeção, operação e manutenção",
+            "Segurança e confiabilidade operacional"
+          ],
+          "resumo": "Estuda os componentes, sistemas e princípios de funcionamento de aeronaves, considerando operação, manutenção, integração e segurança."
+        },
+        {
+          "nome": "Estágio Supervisionado na Aviação Civil",
+          "topicos": [
+            "Vivência em ambiente profissional da área",
+            "Aplicação de conhecimentos técnicos e científicos",
+            "Acompanhamento de atividades e procedimentos profissionais",
+            "Desenvolvimento de competências e postura ética"
+          ],
+          "resumo": "Atividade prática supervisionada que aproxima o estudante da realidade profissional, permitindo aplicar conhecimentos acadêmicos em situações de trabalho."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Fundamentos do pensamento crítico e científico",
+            "Análise de contextos sociais e profissionais",
+            "Ética, cidadania e responsabilidade social",
+            "Aplicação do conhecimento em situações reais"
+          ],
+          "resumo": "Desenvolve pensamento crítico e compreensão do contexto social, científico e profissional, relacionando conhecimento e responsabilidade cidadã."
+        },
+        {
+          "nome": "Sistemas de Aeronaves",
+          "topicos": [
+            "Componentes e sistemas da aeronave",
+            "Princípios de funcionamento e integração",
+            "Inspeção, operação e manutenção",
+            "Segurança e confiabilidade operacional"
+          ],
+          "resumo": "Estuda os componentes, sistemas e princípios de funcionamento de aeronaves, considerando operação, manutenção, integração e segurança."
+        },
+        {
+          "nome": "Inglês Instrumental - Aeroportos",
+          "topicos": [
+            "Vocabulário técnico da área aeronáutica",
+            "Comunicação padronizada e fraseologia",
+            "Compreensão de instruções e documentos",
+            "Comunicação clara em contextos operacionais"
+          ],
+          "resumo": "Desenvolve competências de comunicação em inglês e utilização da terminologia técnica e fraseologia empregadas no contexto aeronáutico."
+        },
+        {
+          "nome": "Projeto de Extensão III - Ciências Aeronáuticas",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de ciências aeronáuticas à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Inglês Técnico para Aeronaves",
+          "topicos": [
+            "Componentes e sistemas da aeronave",
+            "Princípios de funcionamento e integração",
+            "Inspeção, operação e manutenção",
+            "Segurança e confiabilidade operacional"
+          ],
+          "resumo": "Estuda os componentes, sistemas e princípios de funcionamento de aeronaves, considerando operação, manutenção, integração e segurança."
+        },
+        {
+          "nome": "Tráfego Aéreo Internacional e Ações de Emergência e Sobrevivência",
+          "topicos": [
+            "Regras e normas da aviação civil",
+            "Organização e controle do tráfego aéreo",
+            "Procedimentos operacionais e documentação",
+            "Responsabilidades e conformidade regulatória"
+          ],
+          "resumo": "Apresenta normas e procedimentos que regulamentam a aviação civil e o tráfego aéreo, destacando responsabilidades e segurança operacional."
+        },
+        {
+          "nome": "Sistema de Gestão de Segurança Operacional",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Performance de Peso e Balanceamento de Aeronaves",
+          "topicos": [
+            "Componentes e sistemas da aeronave",
+            "Princípios de funcionamento e integração",
+            "Inspeção, operação e manutenção",
+            "Segurança e confiabilidade operacional"
+          ],
+          "resumo": "Estuda os componentes, sistemas e princípios de funcionamento de aeronaves, considerando operação, manutenção, integração e segurança."
+        },
+        {
+          "nome": "Aviônica e Automação de Aeronaves",
+          "topicos": [
+            "Componentes e sistemas da aeronave",
+            "Princípios de funcionamento e integração",
+            "Inspeção, operação e manutenção",
+            "Segurança e confiabilidade operacional"
+          ],
+          "resumo": "Estuda os componentes, sistemas e princípios de funcionamento de aeronaves, considerando operação, manutenção, integração e segurança."
+        },
+        {
+          "nome": "O Comandante e o Relacionamento Interpessoal",
+          "topicos": [
+            "Comunicação e coordenação de equipes",
+            "Liderança e tomada de decisão",
+            "Procedimentos e instrução operacional",
+            "Fatores humanos e trabalho em equipe"
+          ],
+          "resumo": "Desenvolve competências de comunicação, liderança e coordenação necessárias ao trabalho em equipe e à condução segura de atividades aeronáuticas."
+        },
+        {
+          "nome": "Optativa III",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Optativa IV",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Atividades Complementares",
+          "topicos": [
+            "Fundamentos e conceitos da disciplina",
+            "Procedimentos e métodos de aplicação",
+            "Análise de situações práticas",
+            "Segurança, desempenho e boas práticas"
+          ],
+          "resumo": "Estuda atividades complementares e sua aplicação nas atividades técnicas e operacionais da área aeronáutica."
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil",
+      "duracao": "5 anos (10 semestres)",
+      "modalidade": "EAD, Semipresencial, Presencial",
+      "tipo": "Bacharelado",
+      "descricao": "O curso de Engenharia Civil prepara profissionais para planejar, projetar, executar e gerenciar obras e infraestruturas. A formação envolve cálculo, materiais de construção, estruturas, geotecnia, hidráulica, saneamento, transportes, gestão de obras, sustentabilidade e segurança do trabalho.",
+      "materias": [
+        {
+          "nome": "Administração e Economia para Engenheiros",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Design Thinking e Inovação dos Modelos de Negócios",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Engenharia, Ciência e Tecnologia",
+          "topicos": [
+            "Fundamentos e conceitos da disciplina",
+            "Métodos de análise e dimensionamento",
+            "Aplicações em projetos e obras civis",
+            "Critérios de qualidade, desempenho e segurança"
+          ],
+          "resumo": "Estuda conceitos e métodos de engenharia, ciência e tecnologia aplicados ao planejamento, desenvolvimento e execução de projetos de engenharia civil."
+        },
+        {
+          "nome": "Legislação, Segurança do Trabalho e Meio Ambiente",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Tecnologias Limpas e Tratamento de Resíduos",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Algoritmos e Lógica de Programação",
+          "topicos": [
+            "Lógica e representação de algoritmos",
+            "Variáveis, operadores e estruturas de controle",
+            "Resolução de problemas por etapas",
+            "Desenvolvimento de programas e soluções computacionais"
+          ],
+          "resumo": "Apresenta fundamentos de lógica e programação utilizados para estruturar procedimentos e resolver problemas com apoio computacional."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral I",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Física Geral e Experimental - Mecânica",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Projeto de Extensão I - Engenharia Civil",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia civil à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Química e Ciência dos Materiais",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral II",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Desenho Técnico Projetivo",
+          "topicos": [
+            "Normas e convenções de representação técnica",
+            "Leitura e interpretação de desenhos",
+            "Projeções, cortes, vistas e detalhamento",
+            "Representação de componentes e projetos"
+          ],
+          "resumo": "Desenvolve a capacidade de interpretar e elaborar representações gráficas técnicas utilizadas no planejamento e desenvolvimento de projetos."
+        },
+        {
+          "nome": "Física Geral e Experimental - Energia",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Métodos Matemáticos",
+          "topicos": [
+            "Fundamentos e conceitos da disciplina",
+            "Métodos de análise e dimensionamento",
+            "Aplicações em projetos e obras civis",
+            "Critérios de qualidade, desempenho e segurança"
+          ],
+          "resumo": "Estuda conceitos e métodos de métodos matemáticos aplicados ao planejamento, desenvolvimento e execução de projetos de engenharia civil."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Fundamentos do pensamento crítico e científico",
+            "Análise de contextos sociais e profissionais",
+            "Ética, cidadania e responsabilidade social",
+            "Aplicação do conhecimento em situações reais"
+          ],
+          "resumo": "Desenvolve pensamento crítico e compreensão do contexto social, científico e profissional, relacionando conhecimento e responsabilidade cidadã."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral III",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Fenômenos de Transporte",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "Princípios de Eletricidade e Magnetismo",
+          "topicos": [
+            "Fundamentos de circuitos e grandezas elétricas",
+            "Campos elétricos e magnéticos",
+            "Análise de sistemas e componentes",
+            "Aplicações em instalações e equipamentos"
+          ],
+          "resumo": "Aborda os princípios de eletricidade e eletromagnetismo e suas aplicações em sistemas e equipamentos de engenharia."
+        },
+        {
+          "nome": "Projeto de Extensão II - Engenharia Civil",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia civil à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Resistência dos Materiais",
+          "topicos": [
+            "Classificação e propriedades dos materiais",
+            "Comportamento mecânico, físico e químico",
+            "Seleção de materiais conforme a aplicação",
+            "Ensaios, desempenho e durabilidade"
+          ],
+          "resumo": "Estuda propriedades, comportamento e seleção de materiais utilizados em projetos e processos de engenharia."
+        },
+        {
+          "nome": "Empreendedorismo e Inovação",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Estruturas Isostáticas",
+          "topicos": [
+            "Esforços, tensões e deformações",
+            "Comportamento e dimensionamento estrutural",
+            "Análise de estabilidade e segurança",
+            "Aplicações em elementos e sistemas estruturais"
+          ],
+          "resumo": "Aborda a análise do comportamento de elementos estruturais submetidos a cargas, considerando resistência, estabilidade, dimensionamento e segurança."
+        },
+        {
+          "nome": "Materiais de Construção Civil I",
+          "topicos": [
+            "Classificação e propriedades dos materiais",
+            "Comportamento mecânico, físico e químico",
+            "Seleção de materiais conforme a aplicação",
+            "Ensaios, desempenho e durabilidade"
+          ],
+          "resumo": "Estuda propriedades, comportamento e seleção de materiais utilizados em projetos e processos de engenharia."
+        },
+        {
+          "nome": "Pensamento Analítico e Análise de Dados",
+          "topicos": [
+            "Fundamentos e conceitos da disciplina",
+            "Métodos de análise e dimensionamento",
+            "Aplicações em projetos e obras civis",
+            "Critérios de qualidade, desempenho e segurança"
+          ],
+          "resumo": "Estuda conceitos e métodos de pensamento analítico e análise de dados aplicados ao planejamento, desenvolvimento e execução de projetos de engenharia civil."
+        },
+        {
+          "nome": "Resistência dos Materiais Avançado",
+          "topicos": [
+            "Classificação e propriedades dos materiais",
+            "Comportamento mecânico, físico e químico",
+            "Seleção de materiais conforme a aplicação",
+            "Ensaios, desempenho e durabilidade"
+          ],
+          "resumo": "Estuda propriedades, comportamento e seleção de materiais utilizados em projetos e processos de engenharia."
+        },
+        {
+          "nome": "Acessibilidade na Construção Civil",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "Estruturas Hiperestáticas",
+          "topicos": [
+            "Esforços, tensões e deformações",
+            "Comportamento e dimensionamento estrutural",
+            "Análise de estabilidade e segurança",
+            "Aplicações em elementos e sistemas estruturais"
+          ],
+          "resumo": "Aborda a análise do comportamento de elementos estruturais submetidos a cargas, considerando resistência, estabilidade, dimensionamento e segurança."
+        },
+        {
+          "nome": "Geologia e Mecânica dos Solos",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Hidráulica e Hidrometria",
+          "topicos": [
+            "Propriedades e comportamento dos fluidos",
+            "Escoamento, pressão e vazão",
+            "Sistemas hidráulicos e infraestrutura hídrica",
+            "Dimensionamento e análise de instalações"
+          ],
+          "resumo": "Apresenta princípios e métodos relacionados ao comportamento da água e dos fluidos, aplicados a sistemas hidráulicos, saneamento e infraestrutura."
+        },
+        {
+          "nome": "Materiais de Construção Civil II",
+          "topicos": [
+            "Classificação e propriedades dos materiais",
+            "Comportamento mecânico, físico e químico",
+            "Seleção de materiais conforme a aplicação",
+            "Ensaios, desempenho e durabilidade"
+          ],
+          "resumo": "Estuda propriedades, comportamento e seleção de materiais utilizados em projetos e processos de engenharia."
+        },
+        {
+          "nome": "Estruturas de Concreto Armado I",
+          "topicos": [
+            "Esforços, tensões e deformações",
+            "Comportamento e dimensionamento estrutural",
+            "Análise de estabilidade e segurança",
+            "Aplicações em elementos e sistemas estruturais"
+          ],
+          "resumo": "Aborda a análise do comportamento de elementos estruturais submetidos a cargas, considerando resistência, estabilidade, dimensionamento e segurança."
+        },
+        {
+          "nome": "Hidrologia e Manejo de Bacias Hidrográficas",
+          "topicos": [
+            "Propriedades e comportamento dos fluidos",
+            "Escoamento, pressão e vazão",
+            "Sistemas hidráulicos e infraestrutura hídrica",
+            "Dimensionamento e análise de instalações"
+          ],
+          "resumo": "Apresenta princípios e métodos relacionados ao comportamento da água e dos fluidos, aplicados a sistemas hidráulicos, saneamento e infraestrutura."
+        },
+        {
+          "nome": "Implantação e Logística de Canteiro de Obra",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "Mecânica dos Solos Avançada e Obras de Terra",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Projeto de Extensão III - Engenharia Civil",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia civil à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Topografia e Georreferenciamento",
+          "topicos": [
+            "Características e representação do terreno",
+            "Métodos de levantamento e análise espacial",
+            "Interpretação de dados e informações geográficas",
+            "Aplicações em projetos e planejamento"
+          ],
+          "resumo": "Estuda técnicas de análise, levantamento e representação do terreno e de informações espaciais aplicadas a projetos de engenharia."
+        },
+        {
+          "nome": "Estágio Curricular em Engenharia",
+          "topicos": [
+            "Vivência em ambiente profissional da área",
+            "Aplicação de conhecimentos técnicos e científicos",
+            "Acompanhamento de atividades e procedimentos profissionais",
+            "Desenvolvimento de competências e postura ética"
+          ],
+          "resumo": "Atividade prática supervisionada que aproxima o estudante da realidade profissional, permitindo aplicar conhecimentos acadêmicos em situações de trabalho."
+        },
+        {
+          "nome": "Estruturas de Concreto Armado II",
+          "topicos": [
+            "Esforços, tensões e deformações",
+            "Comportamento e dimensionamento estrutural",
+            "Análise de estabilidade e segurança",
+            "Aplicações em elementos e sistemas estruturais"
+          ],
+          "resumo": "Aborda a análise do comportamento de elementos estruturais submetidos a cargas, considerando resistência, estabilidade, dimensionamento e segurança."
+        },
+        {
+          "nome": "Fundações",
+          "topicos": [
+            "Esforços, tensões e deformações",
+            "Comportamento e dimensionamento estrutural",
+            "Análise de estabilidade e segurança",
+            "Aplicações em elementos e sistemas estruturais"
+          ],
+          "resumo": "Aborda a análise do comportamento de elementos estruturais submetidos a cargas, considerando resistência, estabilidade, dimensionamento e segurança."
+        },
+        {
+          "nome": "Instalações Elétricas",
+          "topicos": [
+            "Fundamentos e conceitos da disciplina",
+            "Métodos de análise e dimensionamento",
+            "Aplicações em projetos e obras civis",
+            "Critérios de qualidade, desempenho e segurança"
+          ],
+          "resumo": "Estuda conceitos e métodos de instalações elétricas aplicados ao planejamento, desenvolvimento e execução de projetos de engenharia civil."
+        },
+        {
+          "nome": "Projeto Arquitetônico para Engenharia Civil",
+          "topicos": [
+            "Normas e convenções de representação técnica",
+            "Leitura e interpretação de desenhos",
+            "Projeções, cortes, vistas e detalhamento",
+            "Representação de componentes e projetos"
+          ],
+          "resumo": "Desenvolve a capacidade de interpretar e elaborar representações gráficas técnicas utilizadas no planejamento e desenvolvimento de projetos."
+        },
+        {
+          "nome": "Saneamento Básico",
+          "topicos": [
+            "Propriedades e comportamento dos fluidos",
+            "Escoamento, pressão e vazão",
+            "Sistemas hidráulicos e infraestrutura hídrica",
+            "Dimensionamento e análise de instalações"
+          ],
+          "resumo": "Apresenta princípios e métodos relacionados ao comportamento da água e dos fluidos, aplicados a sistemas hidráulicos, saneamento e infraestrutura."
+        },
+        {
+          "nome": "Instalações Hidrossanitárias",
+          "topicos": [
+            "Propriedades e comportamento dos fluidos",
+            "Escoamento, pressão e vazão",
+            "Sistemas hidráulicos e infraestrutura hídrica",
+            "Dimensionamento e análise de instalações"
+          ],
+          "resumo": "Apresenta princípios e métodos relacionados ao comportamento da água e dos fluidos, aplicados a sistemas hidráulicos, saneamento e infraestrutura."
+        },
+        {
+          "nome": "Projeto de Extensão IV - Engenharia Civil",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia civil à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Projetos e Detalhes Construtivos de Alvenaria Estrutural",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "Tecnologia da Construção Civil",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "Tecnologia e Infraestrutura de Transportes",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "ESG - Ambiental, Social e Governança na Engenharia",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Estruturas de Madeira e Estruturas Metálicas",
+          "topicos": [
+            "Esforços, tensões e deformações",
+            "Comportamento e dimensionamento estrutural",
+            "Análise de estabilidade e segurança",
+            "Aplicações em elementos e sistemas estruturais"
+          ],
+          "resumo": "Aborda a análise do comportamento de elementos estruturais submetidos a cargas, considerando resistência, estabilidade, dimensionamento e segurança."
+        },
+        {
+          "nome": "Geoprocessamento e Sensoriamento Remoto",
+          "topicos": [
+            "Características e representação do terreno",
+            "Métodos de levantamento e análise espacial",
+            "Interpretação de dados e informações geográficas",
+            "Aplicações em projetos e planejamento"
+          ],
+          "resumo": "Estuda técnicas de análise, levantamento e representação do terreno e de informações espaciais aplicadas a projetos de engenharia."
+        },
+        {
+          "nome": "Pontes e Grandes Estruturas",
+          "topicos": [
+            "Esforços, tensões e deformações",
+            "Comportamento e dimensionamento estrutural",
+            "Análise de estabilidade e segurança",
+            "Aplicações em elementos e sistemas estruturais"
+          ],
+          "resumo": "Aborda a análise do comportamento de elementos estruturais submetidos a cargas, considerando resistência, estabilidade, dimensionamento e segurança."
+        },
+        {
+          "nome": "Processos de Gestão de Obras e Projetos",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso",
+          "topicos": [
+            "Definição do tema e delimitação do problema",
+            "Pesquisa bibliográfica e metodologia",
+            "Desenvolvimento e análise do trabalho",
+            "Apresentação e discussão dos resultados"
+          ],
+          "resumo": "Desenvolve a capacidade de pesquisa, análise e comunicação técnico-científica por meio de um trabalho acadêmico relacionado à área de formação."
+        },
+        {
+          "nome": "Atividades Complementares",
+          "topicos": [
+            "Fundamentos e conceitos da disciplina",
+            "Métodos de análise e dimensionamento",
+            "Aplicações em projetos e obras civis",
+            "Critérios de qualidade, desempenho e segurança"
+          ],
+          "resumo": "Estuda conceitos e métodos de atividades complementares aplicados ao planejamento, desenvolvimento e execução de projetos de engenharia civil."
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Química",
+      "duracao": "5 anos (10 semestres)",
+      "modalidade": "Presencial",
+      "tipo": "Bacharelado",
+      "descricao": "O curso de Engenharia Química forma profissionais para projetar, desenvolver, operar e otimizar processos industriais que envolvem transformações físicas, químicas e bioquímicas. A formação contempla matemática, física, química, termodinâmica, fenômenos de transporte, operações unitárias, reatores, controle de processos, laboratório e sustentabilidade industrial.",
+      "materias": [
+        {
+          "nome": "Desenho Técnico Projetivo",
+          "topicos": [
+            "Normas e convenções de representação técnica",
+            "Leitura e interpretação de desenhos",
+            "Projeções, cortes, vistas e detalhamento",
+            "Representação de componentes e projetos"
+          ],
+          "resumo": "Desenvolve a capacidade de interpretar e elaborar representações gráficas técnicas utilizadas no planejamento e desenvolvimento de projetos."
+        },
+        {
+          "nome": "Química e Ciência dos Materiais",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Algoritmos e Lógica de Programação",
+          "topicos": [
+            "Lógica e representação de algoritmos",
+            "Variáveis, operadores e estruturas de controle",
+            "Resolução de problemas por etapas",
+            "Desenvolvimento de programas e soluções computacionais"
+          ],
+          "resumo": "Apresenta fundamentos de lógica e programação utilizados para estruturar procedimentos e resolver problemas com apoio computacional."
+        },
+        {
+          "nome": "Optativa I",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Física Geral e Experimental - Mecânica",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Legislação, Segurança do Trabalho e Meio Ambiente",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Optativa II",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral II",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Princípios de Eletricidade e Magnetismo",
+          "topicos": [
+            "Fundamentos de circuitos e grandezas elétricas",
+            "Campos elétricos e magnéticos",
+            "Análise de sistemas e componentes",
+            "Aplicações em instalações e equipamentos"
+          ],
+          "resumo": "Aborda os princípios de eletricidade e eletromagnetismo e suas aplicações em sistemas e equipamentos de engenharia."
+        },
+        {
+          "nome": "Física Geral e Experimental - Energia",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Engenharia, Ciência e Tecnologia",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Métodos de análise e desenvolvimento de processos",
+            "Aplicações em sistemas e operações industriais",
+            "Qualidade, eficiência e segurança dos processos"
+          ],
+          "resumo": "Estuda engenharia, ciência e tecnologia e suas aplicações no desenvolvimento, análise e operação de processos da engenharia química."
+        },
+        {
+          "nome": "Projeto de Extensão I - Engenharia Química",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia química à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral III",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Fenômenos de Transporte",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "Pensamento Analítico e Análise de Dados",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Métodos de análise e desenvolvimento de processos",
+            "Aplicações em sistemas e operações industriais",
+            "Qualidade, eficiência e segurança dos processos"
+          ],
+          "resumo": "Estuda pensamento analítico e análise de dados e suas aplicações no desenvolvimento, análise e operação de processos da engenharia química."
+        },
+        {
+          "nome": "Resistência dos Materiais",
+          "topicos": [
+            "Classificação e propriedades dos materiais",
+            "Comportamento mecânico, físico e químico",
+            "Seleção de materiais conforme a aplicação",
+            "Ensaios, desempenho e durabilidade"
+          ],
+          "resumo": "Estuda propriedades, comportamento e seleção de materiais utilizados em projetos e processos de engenharia."
+        },
+        {
+          "nome": "Físico-Química",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Fundamentos de Química Orgânica",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Química Analítica",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Administração e Economia para Engenheiros",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Cálculo Avançado - Números Complexos e Equações Diferenciais",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Projeto de Extensão II - Engenharia Química",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia química à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Fundamentos de Termodinâmica Química",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Bioquímica Geral",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Máquinas de Fluxo",
+          "topicos": [
+            "Propriedades e escoamento de fluidos",
+            "Equações e princípios de conservação",
+            "Equipamentos e sistemas de bombeamento ou acionamento",
+            "Análise de desempenho e aplicações"
+          ],
+          "resumo": "Estuda o comportamento dos fluidos e o funcionamento de equipamentos e sistemas que utilizam energia hidráulica ou pneumática."
+        },
+        {
+          "nome": "Design Thinking e Inovação dos Modelos de Negócios",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Química Analítica II",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Química Orgânica Avançada",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Fundamentos de Cinética e Introdução ao Cálculo de Reatores",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Operações Unitárias",
+          "topicos": [
+            "Fundamentos de transporte de massa, calor e quantidade de movimento",
+            "Equipamentos e operações industriais",
+            "Balanços de massa e energia",
+            "Análise e otimização de processos"
+          ],
+          "resumo": "Aborda fenômenos de transporte e operações fundamentais de processos industriais, incluindo balanços, equipamentos e eficiência operacional."
+        },
+        {
+          "nome": "Transferência de Calor e Massa",
+          "topicos": [
+            "Energia, trabalho e calor",
+            "Leis e ciclos termodinâmicos",
+            "Transferência e conversão de energia",
+            "Aplicações em máquinas e sistemas térmicos"
+          ],
+          "resumo": "Estuda os princípios de energia e termodinâmica aplicados à análise e ao funcionamento de máquinas e sistemas térmicos."
+        },
+        {
+          "nome": "Química Inorgânica",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "ESG - Ambiental, Social e Governança na Engenharia",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Projeto de Extensão III - Engenharia Química",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia química à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Fundamentos do pensamento crítico e científico",
+            "Análise de contextos sociais e profissionais",
+            "Ética, cidadania e responsabilidade social",
+            "Aplicação do conhecimento em situações reais"
+          ],
+          "resumo": "Desenvolve pensamento crítico e compreensão do contexto social, científico e profissional, relacionando conhecimento e responsabilidade cidadã."
+        },
+        {
+          "nome": "Estágio Curricular em Engenharia",
+          "topicos": [
+            "Vivência em ambiente profissional da área",
+            "Aplicação de conhecimentos técnicos e científicos",
+            "Acompanhamento de atividades e procedimentos profissionais",
+            "Desenvolvimento de competências e postura ética"
+          ],
+          "resumo": "Atividade prática supervisionada que aproxima o estudante da realidade profissional, permitindo aplicar conhecimentos acadêmicos em situações de trabalho."
+        },
+        {
+          "nome": "Termodinâmica Química Avançada",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Operações Unitárias II",
+          "topicos": [
+            "Fundamentos de transporte de massa, calor e quantidade de movimento",
+            "Equipamentos e operações industriais",
+            "Balanços de massa e energia",
+            "Análise e otimização de processos"
+          ],
+          "resumo": "Aborda fenômenos de transporte e operações fundamentais de processos industriais, incluindo balanços, equipamentos e eficiência operacional."
+        },
+        {
+          "nome": "Transferência de Calor e Massa II",
+          "topicos": [
+            "Energia, trabalho e calor",
+            "Leis e ciclos termodinâmicos",
+            "Transferência e conversão de energia",
+            "Aplicações em máquinas e sistemas térmicos"
+          ],
+          "resumo": "Estuda os princípios de energia e termodinâmica aplicados à análise e ao funcionamento de máquinas e sistemas térmicos."
+        },
+        {
+          "nome": "Cálculo e Dimensionamento de Reatores",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Métodos Matemáticos",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Métodos de análise e desenvolvimento de processos",
+            "Aplicações em sistemas e operações industriais",
+            "Qualidade, eficiência e segurança dos processos"
+          ],
+          "resumo": "Estuda métodos matemáticos e suas aplicações no desenvolvimento, análise e operação de processos da engenharia química."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso",
+          "topicos": [
+            "Definição do tema e delimitação do problema",
+            "Pesquisa bibliográfica e metodologia",
+            "Desenvolvimento e análise do trabalho",
+            "Apresentação e discussão dos resultados"
+          ],
+          "resumo": "Desenvolve a capacidade de pesquisa, análise e comunicação técnico-científica por meio de um trabalho acadêmico relacionado à área de formação."
+        },
+        {
+          "nome": "Processos Industriais Inorgânicos",
+          "topicos": [
+            "Estrutura e reatividade de compostos",
+            "Mecanismos e velocidade das reações",
+            "Equilíbrio e transformação química",
+            "Aplicações em processos e produção industrial"
+          ],
+          "resumo": "Estuda reações, compostos e processos químicos, relacionando fundamentos científicos ao desenvolvimento e à operação industrial."
+        },
+        {
+          "nome": "Gestão de Relacionamento com o Cliente",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Laboratório de Engenharia Química",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Projeto de Extensão IV - Engenharia Química",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia química à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Simulação e Otimização de Processos Químicos",
+          "topicos": [
+            "Modelagem e representação de processos",
+            "Instrumentação e variáveis de controle",
+            "Simulação de cenários e sistemas",
+            "Análise e otimização de desempenho"
+          ],
+          "resumo": "Estuda ferramentas para modelar, monitorar, controlar e otimizar processos, contribuindo para segurança, qualidade e eficiência operacional."
+        },
+        {
+          "nome": "Tecnologias Limpas e Tratamento de Resíduos",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Controle de Processos e Instrumentação Industrial",
+          "topicos": [
+            "Modelagem e representação de processos",
+            "Instrumentação e variáveis de controle",
+            "Simulação de cenários e sistemas",
+            "Análise e otimização de desempenho"
+          ],
+          "resumo": "Estuda ferramentas para modelar, monitorar, controlar e otimizar processos, contribuindo para segurança, qualidade e eficiência operacional."
+        },
+        {
+          "nome": "Optativa III",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Optativa IV",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Optativa V",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Atividades Complementares",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Métodos de análise e desenvolvimento de processos",
+            "Aplicações em sistemas e operações industriais",
+            "Qualidade, eficiência e segurança dos processos"
+          ],
+          "resumo": "Estuda atividades complementares e suas aplicações no desenvolvimento, análise e operação de processos da engenharia química."
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "duracao": "5 anos (10 semestres)",
+      "modalidade": "EAD, Semipresencial, Presencial",
+      "tipo": "Bacharelado",
+      "descricao": "O curso de Engenharia Mecânica prepara profissionais para projetar, analisar, fabricar, operar e manter máquinas, equipamentos e sistemas mecânicos, térmicos e hidráulicos. A formação abrange cálculo, física, materiais, resistência dos materiais, processos de fabricação, termodinâmica, máquinas, manutenção, automação e gestão industrial.",
+      "materias": [
+        {
+          "nome": "Desenho Técnico Projetivo",
+          "topicos": [
+            "Normas e convenções de representação técnica",
+            "Leitura e interpretação de desenhos",
+            "Projeções, cortes, vistas e detalhamento",
+            "Representação de componentes e projetos"
+          ],
+          "resumo": "Desenvolve a capacidade de interpretar e elaborar representações gráficas técnicas utilizadas no planejamento e desenvolvimento de projetos."
+        },
+        {
+          "nome": "Química e Ciência dos Materiais",
+          "topicos": [
+            "Estrutura e propriedades da matéria",
+            "Transformações e reações químicas",
+            "Conceitos de equilíbrio e energia",
+            "Aplicações em materiais e processos"
+          ],
+          "resumo": "Estuda conceitos químicos e suas aplicações na compreensão da matéria, das reações e dos processos utilizados na engenharia."
+        },
+        {
+          "nome": "Algoritmos e Lógica de Programação",
+          "topicos": [
+            "Lógica e representação de algoritmos",
+            "Variáveis, operadores e estruturas de controle",
+            "Resolução de problemas por etapas",
+            "Desenvolvimento de programas e soluções computacionais"
+          ],
+          "resumo": "Apresenta fundamentos de lógica e programação utilizados para estruturar procedimentos e resolver problemas com apoio computacional."
+        },
+        {
+          "nome": "Optativa I",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Física Geral e Experimental - Mecânica",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Legislação, Segurança do Trabalho e Meio Ambiente",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Optativa II",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral II",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Princípios de Eletricidade e Magnetismo",
+          "topicos": [
+            "Fundamentos de circuitos e grandezas elétricas",
+            "Campos elétricos e magnéticos",
+            "Análise de sistemas e componentes",
+            "Aplicações em instalações e equipamentos"
+          ],
+          "resumo": "Aborda os princípios de eletricidade e eletromagnetismo e suas aplicações em sistemas e equipamentos de engenharia."
+        },
+        {
+          "nome": "Física Geral e Experimental - Energia",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Engenharia, Ciência e Tecnologia",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Princípios de análise, projeto e dimensionamento",
+            "Aplicações em máquinas e sistemas mecânicos",
+            "Desempenho, manutenção e segurança"
+          ],
+          "resumo": "Estuda engenharia, ciência e tecnologia e sua aplicação no projeto, fabricação, operação ou manutenção de sistemas mecânicos."
+        },
+        {
+          "nome": "Projeto de Extensão I - Engenharia Mecânica",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia mecânica à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Fenômenos de Transporte",
+          "topicos": [
+            "Métodos e tecnologias construtivas",
+            "Planejamento e organização da execução",
+            "Materiais, sistemas e etapas construtivas",
+            "Qualidade, segurança e desempenho das construções"
+          ],
+          "resumo": "Estuda técnicas, materiais e processos utilizados na execução e gestão de obras, considerando desempenho, qualidade, segurança e acessibilidade."
+        },
+        {
+          "nome": "Cálculo Diferencial e Integral III",
+          "topicos": [
+            "Funções, limites e continuidade",
+            "Derivadas e integrais",
+            "Equações e métodos de resolução",
+            "Aplicações matemáticas em problemas de engenharia"
+          ],
+          "resumo": "Estuda ferramentas do cálculo diferencial e integral utilizadas para modelar fenômenos, analisar sistemas e resolver problemas de engenharia."
+        },
+        {
+          "nome": "Pensamento Analítico e Análise de Dados",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Princípios de análise, projeto e dimensionamento",
+            "Aplicações em máquinas e sistemas mecânicos",
+            "Desempenho, manutenção e segurança"
+          ],
+          "resumo": "Estuda pensamento analítico e análise de dados e sua aplicação no projeto, fabricação, operação ou manutenção de sistemas mecânicos."
+        },
+        {
+          "nome": "Resistência dos Materiais",
+          "topicos": [
+            "Classificação e propriedades dos materiais",
+            "Comportamento mecânico, físico e químico",
+            "Seleção de materiais conforme a aplicação",
+            "Ensaios, desempenho e durabilidade"
+          ],
+          "resumo": "Estuda propriedades, comportamento e seleção de materiais utilizados em projetos e processos de engenharia."
+        },
+        {
+          "nome": "Resistência dos Materiais Avançado",
+          "topicos": [
+            "Classificação e propriedades dos materiais",
+            "Comportamento mecânico, físico e químico",
+            "Seleção de materiais conforme a aplicação",
+            "Ensaios, desempenho e durabilidade"
+          ],
+          "resumo": "Estuda propriedades, comportamento e seleção de materiais utilizados em projetos e processos de engenharia."
+        },
+        {
+          "nome": "Desenho Técnico Mecânico",
+          "topicos": [
+            "Normas e convenções de representação técnica",
+            "Leitura e interpretação de desenhos",
+            "Projeções, cortes, vistas e detalhamento",
+            "Representação de componentes e projetos"
+          ],
+          "resumo": "Desenvolve a capacidade de interpretar e elaborar representações gráficas técnicas utilizadas no planejamento e desenvolvimento de projetos."
+        },
+        {
+          "nome": "Administração e Economia para Engenheiros",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Fundamentos do pensamento crítico e científico",
+            "Análise de contextos sociais e profissionais",
+            "Ética, cidadania e responsabilidade social",
+            "Aplicação do conhecimento em situações reais"
+          ],
+          "resumo": "Desenvolve pensamento crítico e compreensão do contexto social, científico e profissional, relacionando conhecimento e responsabilidade cidadã."
+        },
+        {
+          "nome": "Projeto de Extensão II - Engenharia Mecânica",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia mecânica à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Mecânica Geral Aplicada",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Elementos de Máquinas",
+          "topicos": [
+            "Princípios de projeto e funcionamento de componentes mecânicos",
+            "Dimensionamento e seleção de elementos",
+            "Medição, tolerâncias e análise de desempenho",
+            "Confiabilidade, manutenção e segurança"
+          ],
+          "resumo": "Estuda componentes e sistemas mecânicos, métodos de dimensionamento, medição e análise para o desenvolvimento e a manutenção de máquinas."
+        },
+        {
+          "nome": "Termodinâmica",
+          "topicos": [
+            "Energia, trabalho e calor",
+            "Leis e ciclos termodinâmicos",
+            "Transferência e conversão de energia",
+            "Aplicações em máquinas e sistemas térmicos"
+          ],
+          "resumo": "Estuda os princípios de energia e termodinâmica aplicados à análise e ao funcionamento de máquinas e sistemas térmicos."
+        },
+        {
+          "nome": "Design Thinking e Inovação dos Modelos de Negócios",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Materiais de Construção Mecânica",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Metrologia e Controle Geométrico",
+          "topicos": [
+            "Princípios de projeto e funcionamento de componentes mecânicos",
+            "Dimensionamento e seleção de elementos",
+            "Medição, tolerâncias e análise de desempenho",
+            "Confiabilidade, manutenção e segurança"
+          ],
+          "resumo": "Estuda componentes e sistemas mecânicos, métodos de dimensionamento, medição e análise para o desenvolvimento e a manutenção de máquinas."
+        },
+        {
+          "nome": "Gestão de Produção e Manutenção",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Fundição e Processos Siderúrgicos",
+          "topicos": [
+            "Processos de fabricação e transformação de materiais",
+            "Máquinas, ferramentas e parâmetros de processo",
+            "Controle dimensional e qualidade",
+            "Seleção de processos conforme o produto"
+          ],
+          "resumo": "Aborda processos de fabricação mecânica e transformação de materiais, considerando produtividade, qualidade, precisão e segurança."
+        },
+        {
+          "nome": "Transferência de Calor e Massa",
+          "topicos": [
+            "Energia, trabalho e calor",
+            "Leis e ciclos termodinâmicos",
+            "Transferência e conversão de energia",
+            "Aplicações em máquinas e sistemas térmicos"
+          ],
+          "resumo": "Estuda os princípios de energia e termodinâmica aplicados à análise e ao funcionamento de máquinas e sistemas térmicos."
+        },
+        {
+          "nome": "Manufatura Mecânica - Conformação e Soldagem",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Fundamentos de Eletrotécnica",
+          "topicos": [
+            "Fundamentos de circuitos e grandezas elétricas",
+            "Campos elétricos e magnéticos",
+            "Análise de sistemas e componentes",
+            "Aplicações em instalações e equipamentos"
+          ],
+          "resumo": "Aborda os princípios de eletricidade e eletromagnetismo e suas aplicações em sistemas e equipamentos de engenharia."
+        },
+        {
+          "nome": "Métodos Matemáticos",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Princípios de análise, projeto e dimensionamento",
+            "Aplicações em máquinas e sistemas mecânicos",
+            "Desempenho, manutenção e segurança"
+          ],
+          "resumo": "Estuda métodos matemáticos e sua aplicação no projeto, fabricação, operação ou manutenção de sistemas mecânicos."
+        },
+        {
+          "nome": "Projeto de Extensão III - Engenharia Mecânica",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia mecânica à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Estágio Curricular em Engenharia",
+          "topicos": [
+            "Vivência em ambiente profissional da área",
+            "Aplicação de conhecimentos técnicos e científicos",
+            "Acompanhamento de atividades e procedimentos profissionais",
+            "Desenvolvimento de competências e postura ética"
+          ],
+          "resumo": "Atividade prática supervisionada que aproxima o estudante da realidade profissional, permitindo aplicar conhecimentos acadêmicos em situações de trabalho."
+        },
+        {
+          "nome": "Máquinas de Fluxo",
+          "topicos": [
+            "Propriedades e escoamento de fluidos",
+            "Equações e princípios de conservação",
+            "Equipamentos e sistemas de bombeamento ou acionamento",
+            "Análise de desempenho e aplicações"
+          ],
+          "resumo": "Estuda o comportamento dos fluidos e o funcionamento de equipamentos e sistemas que utilizam energia hidráulica ou pneumática."
+        },
+        {
+          "nome": "Manufatura Mecânica - Usinagem",
+          "topicos": [
+            "Grandezas físicas e princípios fundamentais",
+            "Movimento, forças e energia",
+            "Modelagem de fenômenos físicos",
+            "Aplicações em sistemas e equipamentos de engenharia"
+          ],
+          "resumo": "Apresenta princípios da Física aplicados à compreensão e análise de fenômenos e sistemas relevantes à engenharia."
+        },
+        {
+          "nome": "Gestão de Indicadores",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Comandos Hidráulicos e Pneumáticos",
+          "topicos": [
+            "Propriedades e escoamento de fluidos",
+            "Equações e princípios de conservação",
+            "Equipamentos e sistemas de bombeamento ou acionamento",
+            "Análise de desempenho e aplicações"
+          ],
+          "resumo": "Estuda o comportamento dos fluidos e o funcionamento de equipamentos e sistemas que utilizam energia hidráulica ou pneumática."
+        },
+        {
+          "nome": "Elementos de Máquinas Avançado",
+          "topicos": [
+            "Princípios de projeto e funcionamento de componentes mecânicos",
+            "Dimensionamento e seleção de elementos",
+            "Medição, tolerâncias e análise de desempenho",
+            "Confiabilidade, manutenção e segurança"
+          ],
+          "resumo": "Estuda componentes e sistemas mecânicos, métodos de dimensionamento, medição e análise para o desenvolvimento e a manutenção de máquinas."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso",
+          "topicos": [
+            "Definição do tema e delimitação do problema",
+            "Pesquisa bibliográfica e metodologia",
+            "Desenvolvimento e análise do trabalho",
+            "Apresentação e discussão dos resultados"
+          ],
+          "resumo": "Desenvolve a capacidade de pesquisa, análise e comunicação técnico-científica por meio de um trabalho acadêmico relacionado à área de formação."
+        },
+        {
+          "nome": "Geração e Distribuição de Vapor",
+          "topicos": [
+            "Energia, trabalho e calor",
+            "Leis e ciclos termodinâmicos",
+            "Transferência e conversão de energia",
+            "Aplicações em máquinas e sistemas térmicos"
+          ],
+          "resumo": "Estuda os princípios de energia e termodinâmica aplicados à análise e ao funcionamento de máquinas e sistemas térmicos."
+        },
+        {
+          "nome": "Motores de Combustão Interna",
+          "topicos": [
+            "Energia, trabalho e calor",
+            "Leis e ciclos termodinâmicos",
+            "Transferência e conversão de energia",
+            "Aplicações em máquinas e sistemas térmicos"
+          ],
+          "resumo": "Estuda os princípios de energia e termodinâmica aplicados à análise e ao funcionamento de máquinas e sistemas térmicos."
+        },
+        {
+          "nome": "Controle de Vibrações",
+          "topicos": [
+            "Princípios de projeto e funcionamento de componentes mecânicos",
+            "Dimensionamento e seleção de elementos",
+            "Medição, tolerâncias e análise de desempenho",
+            "Confiabilidade, manutenção e segurança"
+          ],
+          "resumo": "Estuda componentes e sistemas mecânicos, métodos de dimensionamento, medição e análise para o desenvolvimento e a manutenção de máquinas."
+        },
+        {
+          "nome": "ESG - Ambiental, Social e Governança na Engenharia",
+          "topicos": [
+            "Legislação e normas aplicáveis à atividade profissional",
+            "Identificação e prevenção de riscos",
+            "Responsabilidade socioambiental e sustentabilidade",
+            "Boas práticas de segurança e gestão ambiental"
+          ],
+          "resumo": "Estuda aspectos legais, de segurança e sustentabilidade relacionados às atividades de engenharia, enfatizando prevenção de riscos e responsabilidade socioambiental."
+        },
+        {
+          "nome": "Gestão de Relacionamento com o Cliente",
+          "topicos": [
+            "Fundamentos de gestão e organização",
+            "Planejamento e análise de cenários",
+            "Tomada de decisão e indicadores",
+            "Aplicações em organizações e projetos de engenharia"
+          ],
+          "resumo": "Aborda conceitos de gestão, planejamento e tomada de decisões aplicados a organizações, projetos e atividades profissionais de engenharia."
+        },
+        {
+          "nome": "Projeto de Extensão IV - Engenharia Mecânica",
+          "topicos": [
+            "Identificação de demandas da comunidade ou do contexto profissional",
+            "Planejamento de ação ou solução relacionada à área",
+            "Aplicação prática dos conhecimentos do curso",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que integra os conhecimentos de engenharia mecânica à realização de ações práticas voltadas a demandas da comunidade."
+        },
+        {
+          "nome": "Projetos de Máquinas",
+          "topicos": [
+            "Princípios de projeto e funcionamento de componentes mecânicos",
+            "Dimensionamento e seleção de elementos",
+            "Medição, tolerâncias e análise de desempenho",
+            "Confiabilidade, manutenção e segurança"
+          ],
+          "resumo": "Estuda componentes e sistemas mecânicos, métodos de dimensionamento, medição e análise para o desenvolvimento e a manutenção de máquinas."
+        },
+        {
+          "nome": "Refrigeração, Ar Condicionado e Ventilação",
+          "topicos": [
+            "Energia, trabalho e calor",
+            "Leis e ciclos termodinâmicos",
+            "Transferência e conversão de energia",
+            "Aplicações em máquinas e sistemas térmicos"
+          ],
+          "resumo": "Estuda os princípios de energia e termodinâmica aplicados à análise e ao funcionamento de máquinas e sistemas térmicos."
+        },
+        {
+          "nome": "Optativa III",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Optativa IV",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Optativa V",
+          "topicos": [
+            "Conteúdo definido conforme a disciplina optativa ofertada",
+            "Aprofundamento em área complementar da formação",
+            "Aplicação dos conhecimentos em contextos acadêmicos e profissionais"
+          ],
+          "resumo": "Componente curricular de escolha do estudante, destinado a complementar a formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Atividades Complementares",
+          "topicos": [
+            "Fundamentos científicos e tecnológicos da disciplina",
+            "Princípios de análise, projeto e dimensionamento",
+            "Aplicações em máquinas e sistemas mecânicos",
+            "Desempenho, manutenção e segurança"
+          ],
+          "resumo": "Estuda atividades complementares e sua aplicação no projeto, fabricação, operação ou manutenção de sistemas mecânicos."
+        },
+        {
+          "nome": "Engenharia Ambiental e Sanitária",
+          "duracao": "5 anos (10 semestres)",
+          "modalidade": "EAD, Semipresencial",
+          "tipo": "Bacharelado",
+          "descricao": "O curso de Engenharia Ambiental e Sanitária prepara profissionais para planejar, desenvolver e avaliar soluções relacionadas à preservação ambiental, ao saneamento, ao tratamento de resíduos e efluentes, à gestão dos recursos naturais e ao controle da poluição. A formação integra conhecimentos de engenharia, ciências ambientais, legislação e sustentabilidade.",
+          "materias": [
+            {
+              "nome": "Administração e Economia para Engenheiros",
+              "topicos": [
+                "Fundamentos de administração",
+                "Economia aplicada à engenharia",
+                "Custos, orçamento e viabilidade"
+              ],
+              "resumo": "Estuda princípios de gestão e conceitos econômicos utilizados no planejamento e na execução de projetos de engenharia, incluindo custos, orçamento e análise de viabilidade."
+            },
+            {
+              "nome": "Design Thinking e Inovação dos Modelos de Negócios",
+              "topicos": [
+                "Design thinking",
+                "Identificação de problemas e necessidades",
+                "Inovação e modelos de negócios"
+              ],
+              "resumo": "Apresenta métodos de criação e validação de soluções inovadoras, com foco na compreensão de problemas, geração de ideias e desenvolvimento de modelos de negócios."
+            },
+            {
+              "nome": "Engenharia, Ciência e Tecnologia",
+              "topicos": [
+                "Fundamentos da engenharia",
+                "Método científico",
+                "Tecnologias e inovação"
+              ],
+              "resumo": "Introduz a engenharia como campo de aplicação da ciência e da tecnologia, abordando investigação científica, desenvolvimento tecnológico e solução de problemas."
+            },
+            {
+              "nome": "Legislação, Segurança do Trabalho e Meio Ambiente",
+              "topicos": [
+                "Legislação aplicada",
+                "Prevenção de riscos ocupacionais",
+                "Saúde e segurança do trabalho"
+              ],
+              "resumo": "Aborda normas e práticas de segurança no trabalho, prevenção de acidentes e responsabilidades legais relacionadas à proteção dos trabalhadores e do meio ambiente."
+            },
+            {
+              "nome": "Tecnologias Limpas e Tratamento de Resíduos",
+              "topicos": [
+                "Produção mais limpa",
+                "Redução e reaproveitamento de resíduos",
+                "Tecnologias de tratamento"
+              ],
+              "resumo": "Estuda tecnologias destinadas à redução da geração de resíduos e impactos ambientais, incluindo estratégias de reaproveitamento, tratamento e destinação adequada."
+            },
+            {
+              "nome": "Algoritmos e Lógica de Programação",
+              "topicos": [
+                "Lógica computacional",
+                "Algoritmos e fluxogramas",
+                "Estruturas condicionais e repetição"
+              ],
+              "resumo": "Desenvolve o raciocínio lógico para elaborar algoritmos e soluções computacionais aplicáveis à organização, análise e processamento de dados."
+            },
+            {
+              "nome": "Cálculo Diferencial e Integral I",
+              "topicos": [
+                "Funções e limites",
+                "Derivadas",
+                "Integrais e aplicações"
+              ],
+              "resumo": "Apresenta conceitos fundamentais do cálculo diferencial e integral, utilizados na modelagem e resolução de problemas quantitativos da engenharia."
+            },
+            {
+              "nome": "Física Geral e Experimental - Mecânica",
+              "topicos": [
+                "Cinemática",
+                "Leis de Newton",
+                "Trabalho, energia e experimentação"
+              ],
+              "resumo": "Estuda os princípios da mecânica clássica e suas aplicações, relacionando movimentos, forças e energia a situações práticas de engenharia."
+            },
+            {
+              "nome": "Projeto de Extensão I - Engenharia Ambiental e Sanitária",
+              "topicos": [
+                "Diagnóstico de demandas socioambientais",
+                "Planejamento de ações extensionistas",
+                "Interação com a comunidade"
+              ],
+              "resumo": "Propõe a aplicação de conhecimentos iniciais da engenharia ambiental e sanitária em atividades de extensão voltadas à identificação e ao enfrentamento de necessidades da comunidade."
+            },
+            {
+              "nome": "Química e Ciência dos Materiais",
+              "topicos": [
+                "Estrutura da matéria",
+                "Ligações e reações químicas",
+                "Propriedades dos materiais"
+              ],
+              "resumo": "Estuda fundamentos químicos e propriedades dos materiais, relacionando composição, estrutura e comportamento às aplicações em engenharia."
+            },
+            {
+              "nome": "Cálculo Diferencial e Integral II",
+              "topicos": [
+                "Técnicas de integração",
+                "Aplicações de integrais",
+                "Sequências e séries"
+              ],
+              "resumo": "Aprofunda métodos de cálculo integral e ferramentas matemáticas utilizadas na análise de fenômenos e sistemas de engenharia."
+            },
+            {
+              "nome": "Desenho Técnico Projetivo",
+              "topicos": [
+                "Normas de desenho técnico",
+                "Projeções e vistas",
+                "Escalas e cotagem"
+              ],
+              "resumo": "Desenvolve a capacidade de interpretar e elaborar representações gráficas técnicas, utilizando normas, projeções, escalas e cotas."
+            },
+            {
+              "nome": "Física Geral e Experimental - Energia",
+              "topicos": [
+                "Energia e conservação",
+                "Termodinâmica básica",
+                "Eletricidade e experimentos"
+              ],
+              "resumo": "Estuda conceitos físicos relacionados à energia e suas transformações, com atividades experimentais e aplicações em sistemas de engenharia."
+            },
+            {
+              "nome": "Métodos Matemáticos",
+              "topicos": [
+                "Equações diferenciais",
+                "Métodos numéricos",
+                "Modelagem matemática"
+              ],
+              "resumo": "Apresenta ferramentas matemáticas para representar e resolver problemas de engenharia, incluindo métodos analíticos e numéricos."
+            },
+            {
+              "nome": "Sociedade Brasileira e Cidadania",
+              "topicos": [
+                "Formação social brasileira",
+                "Direitos e cidadania",
+                "Diversidade e responsabilidade social"
+              ],
+              "resumo": "Discute aspectos da sociedade brasileira, cidadania, diversidade e responsabilidade social, relacionando-os à atuação ética do profissional."
+            },
+            {
+              "nome": "Cálculo Diferencial e Integral III",
+              "topicos": [
+                "Funções de várias variáveis",
+                "Derivadas parciais",
+                "Integrais múltiplas"
+              ],
+              "resumo": "Aprofunda o cálculo aplicado a funções de várias variáveis, oferecendo ferramentas para modelar fenômenos físicos e ambientais."
+            },
+            {
+              "nome": "Fenômenos de Transporte",
+              "topicos": [
+                "Transferência de quantidade de movimento",
+                "Transferência de calor",
+                "Transferência de massa"
+              ],
+              "resumo": "Estuda os mecanismos de transporte de fluidos, calor e massa, fundamentais para compreender processos ambientais e industriais."
+            },
+            {
+              "nome": "Princípios de Eletricidade e Magnetismo",
+              "topicos": [
+                "Campo elétrico e potencial",
+                "Circuitos elétricos",
+                "Campo magnético e indução"
+              ],
+              "resumo": "Apresenta os fundamentos de eletricidade e magnetismo e suas aplicações em equipamentos, instalações e sistemas de engenharia."
+            },
+            {
+              "nome": "Projeto de Extensão II - Engenharia Ambiental e Sanitária",
+              "topicos": [
+                "Levantamento de problemas ambientais",
+                "Elaboração de propostas",
+                "Execução e avaliação de ações"
+              ],
+              "resumo": "Integra conhecimentos do curso em ações extensionistas que buscam propor melhorias socioambientais em parceria com a comunidade."
+            },
+            {
+              "nome": "Resistência dos Materiais",
+              "topicos": [
+                "Esforços e tensões",
+                "Deformações",
+                "Dimensionamento básico de elementos"
+              ],
+              "resumo": "Estuda o comportamento dos materiais submetidos a cargas, analisando tensões, deformações e condições de resistência em estruturas e componentes."
+            },
+            {
+              "nome": "Biologia para Engenharia Ambiental",
+              "topicos": [
+                "Ecologia e ecossistemas",
+                "Organismos e biodiversidade",
+                "Relações entre seres vivos e ambiente"
+              ],
+              "resumo": "Apresenta conceitos biológicos necessários à compreensão dos ecossistemas, da biodiversidade e dos efeitos das atividades humanas no ambiente."
+            },
+            {
+              "nome": "Climatologia e Meteorologia",
+              "topicos": [
+                "Atmosfera e variáveis climáticas",
+                "Dinâmica do tempo",
+                "Clima e mudanças climáticas"
+              ],
+              "resumo": "Estuda os processos atmosféricos, os elementos do clima e sua influência no planejamento ambiental e na gestão dos recursos naturais."
+            },
+            {
+              "nome": "Fundamentos de Cartografia e Topografia",
+              "topicos": [
+                "Representação cartográfica",
+                "Escalas e coordenadas",
+                "Levantamentos topográficos"
+              ],
+              "resumo": "Apresenta técnicas de representação da superfície terrestre e de levantamento de dados espaciais utilizados em projetos ambientais e de infraestrutura."
+            },
+            {
+              "nome": "Pensamento Analítico e Análise de Dados",
+              "topicos": [
+                "Organização de dados",
+                "Estatística descritiva",
+                "Interpretação de resultados"
+              ],
+              "resumo": "Desenvolve habilidades de análise crítica e interpretação de dados para apoiar diagnósticos, avaliações e tomadas de decisão."
+            },
+            {
+              "nome": "Química Ambiental e Toxicologia",
+              "topicos": [
+                "Ciclos e contaminantes ambientais",
+                "Reações químicas no ambiente",
+                "Toxicidade e avaliação de risco"
+              ],
+              "resumo": "Estuda o comportamento de substâncias químicas nos compartimentos ambientais e seus possíveis efeitos sobre organismos e ecossistemas."
+            },
+            {
+              "nome": "Educação Ambiental",
+              "topicos": [
+                "Princípios da educação ambiental",
+                "Sensibilização e participação social",
+                "Projetos educativos"
+              ],
+              "resumo": "Discute estratégias educativas para promover consciência ambiental, participação cidadã e práticas sustentáveis."
+            },
+            {
+              "nome": "Geologia e Mecânica dos Solos",
+              "topicos": [
+                "Formação e composição dos solos",
+                "Propriedades físicas e mecânicas",
+                "Processos geológicos"
+              ],
+              "resumo": "Estuda a origem, composição e comportamento dos solos e materiais geológicos, considerando sua importância para obras e avaliações ambientais."
+            },
+            {
+              "nome": "Gestão de Resíduos Sólidos",
+              "topicos": [
+                "Classificação de resíduos",
+                "Coleta e logística",
+                "Tratamento e destinação final"
+              ],
+              "resumo": "Aborda o gerenciamento integrado de resíduos sólidos, desde a geração e segregação até o tratamento, reaproveitamento e destinação ambientalmente adequada."
+            },
+            {
+              "nome": "Legislação e Direito Ambiental",
+              "topicos": [
+                "Princípios do direito ambiental",
+                "Licenciamento ambiental",
+                "Responsabilidade e infrações"
+              ],
+              "resumo": "Apresenta os instrumentos jurídicos de proteção ambiental, incluindo licenciamento, fiscalização e responsabilidades por danos ambientais."
+            },
+            {
+              "nome": "Sensoriamento e Geoprocessamento Aplicados ao Meio",
+              "topicos": [
+                "Sensoriamento remoto",
+                "Sistemas de informação geográfica",
+                "Análise espacial"
+              ],
+              "resumo": "Estuda tecnologias de obtenção e análise de informações geográficas para monitoramento ambiental, mapeamento e planejamento territorial."
+            },
+            {
+              "nome": "Geologia Aplicada à Geotecnia Ambiental",
+              "topicos": [
+                "Caracterização geológica",
+                "Investigação geotécnica",
+                "Estabilidade e riscos do terreno"
+              ],
+              "resumo": "Relaciona conhecimentos geológicos e geotécnicos à avaliação de terrenos, prevenção de riscos e planejamento de intervenções ambientais."
+            },
+            {
+              "nome": "Hidráulica e Hidrometria",
+              "topicos": [
+                "Propriedades dos fluidos",
+                "Escoamento em condutos e canais",
+                "Medição de vazões"
+              ],
+              "resumo": "Estuda o comportamento da água em sistemas hidráulicos e métodos de medição de níveis, velocidades e vazões."
+            },
+            {
+              "nome": "Hidrologia e Manejo de Bacias Hidrográficas",
+              "topicos": [
+                "Ciclo hidrológico",
+                "Precipitação e escoamento",
+                "Planejamento de bacias"
+              ],
+              "resumo": "Analisa a ocorrência e a circulação da água, os processos hidrológicos e estratégias de manejo e conservação de bacias hidrográficas."
+            },
+            {
+              "nome": "Microbiologia Ambiental",
+              "topicos": [
+                "Microrganismos no ambiente",
+                "Processos microbiológicos",
+                "Indicadores de qualidade ambiental"
+              ],
+              "resumo": "Estuda microrganismos presentes na água, no solo e em resíduos, incluindo seu papel nos processos naturais e no tratamento ambiental."
+            },
+            {
+              "nome": "Projeto de Extensão III - Engenharia Ambiental e Sanitária",
+              "topicos": [
+                "Diagnóstico socioambiental aplicado",
+                "Desenvolvimento de intervenção",
+                "Avaliação de resultados"
+              ],
+              "resumo": "Promove a aplicação integrada de conhecimentos técnicos em projetos de extensão voltados à solução de problemas ambientais e sanitários reais."
+            },
+            {
+              "nome": "Avaliação de Impactos Ambientais",
+              "topicos": [
+                "Identificação de impactos",
+                "Métodos de avaliação",
+                "Medidas mitigadoras e monitoramento"
+              ],
+              "resumo": "Apresenta métodos para identificar, prever e avaliar impactos ambientais de empreendimentos, bem como propor medidas de prevenção, mitigação e acompanhamento."
+            },
+            {
+              "nome": "Estágio Curricular em Engenharia",
+              "topicos": [
+                "Vivência profissional supervisionada",
+                "Aplicação de conhecimentos técnicos",
+                "Relatórios e avaliação de atividades"
+              ],
+              "resumo": "Proporciona experiência prática em ambientes profissionais, permitindo aplicar conhecimentos acadêmicos e desenvolver competências da engenharia."
+            },
+            {
+              "nome": "Gerenciamento e Controle de Qualidade",
+              "topicos": [
+                "Gestão da qualidade",
+                "Indicadores e processos",
+                "Melhoria contínua"
+              ],
+              "resumo": "Estuda ferramentas e sistemas de gestão da qualidade para controlar processos, avaliar resultados e promover melhorias em organizações e projetos."
+            },
+            {
+              "nome": "Perícias e Auditorias Ambientais",
+              "topicos": [
+                "Auditoria ambiental",
+                "Conformidade legal",
+                "Laudos e perícias técnicas"
+              ],
+              "resumo": "Aborda procedimentos de auditoria e perícia ambiental, verificação de conformidade, identificação de não conformidades e elaboração de pareceres técnicos."
+            },
+            {
+              "nome": "Planejamento Ambiental Urbano",
+              "topicos": [
+                "Uso e ocupação do solo",
+                "Infraestrutura urbana",
+                "Planejamento territorial sustentável"
+              ],
+              "resumo": "Estuda instrumentos de planejamento urbano que integram infraestrutura, qualidade ambiental, ocupação territorial e sustentabilidade."
+            },
+            {
+              "nome": "Planejamento e Saúde Ambiental",
+              "topicos": [
+                "Saneamento e saúde pública",
+                "Riscos ambientais",
+                "Vigilância e planejamento"
+              ],
+              "resumo": "Relaciona condições ambientais e saúde coletiva, abordando prevenção de riscos e planejamento de ações para ambientes saudáveis."
+            },
+            {
+              "nome": "Saneamento Básico",
+              "topicos": [
+                "Abastecimento de água",
+                "Esgotamento sanitário",
+                "Drenagem e resíduos sólidos"
+              ],
+              "resumo": "Apresenta os componentes do saneamento básico e sua importância para a saúde pública, a qualidade de vida e a proteção ambiental."
+            },
+            {
+              "nome": "ESG - Ambiental, Social e Governança na Engenharia",
+              "topicos": [
+                "Princípios ESG",
+                "Indicadores de sustentabilidade",
+                "Governança e responsabilidade corporativa"
+              ],
+              "resumo": "Apresenta critérios ambientais, sociais e de governança aplicados à gestão e aos projetos de engenharia, com foco em responsabilidade e sustentabilidade."
+            },
+            {
+              "nome": "Fontes Alternativas de Energia",
+              "topicos": [
+                "Energia solar e eólica",
+                "Biomassa e outras fontes",
+                "Eficiência e impactos energéticos"
+              ],
+              "resumo": "Estuda fontes renováveis e alternativas de energia, considerando tecnologias, aplicações, eficiência e impactos socioambientais."
+            },
+            {
+              "nome": "Gestão de Recursos Naturais e Energéticos",
+              "topicos": [
+                "Uso sustentável de recursos",
+                "Gestão da água e do solo",
+                "Planejamento energético"
+              ],
+              "resumo": "Aborda estratégias de conservação e uso eficiente dos recursos naturais e energéticos, considerando aspectos técnicos, econômicos e ambientais."
+            },
+            {
+              "nome": "Projeto de Extensão IV - Engenharia Ambiental e Sanitária",
+              "topicos": [
+                "Planejamento de projeto integrado",
+                "Implementação de soluções",
+                "Avaliação de impacto social e ambiental"
+              ],
+              "resumo": "Consolida a formação por meio de projeto extensionista que aplica competências da engenharia ambiental e sanitária em benefício da comunidade."
+            },
+            {
+              "nome": "Recuperação e Manejo Sustentável de Áreas Degradadas",
+              "topicos": [
+                "Diagnóstico de degradação",
+                "Técnicas de recuperação",
+                "Monitoramento e manejo"
+              ],
+              "resumo": "Estuda métodos de recuperação de áreas degradadas, recomposição ambiental e manejo sustentável de ecossistemas afetados."
+            },
+            {
+              "nome": "Tratamento de Efluentes Líquidos",
+              "topicos": [
+                "Caracterização de efluentes",
+                "Processos físicos, químicos e biológicos",
+                "Controle da qualidade do efluente"
+              ],
+              "resumo": "Apresenta processos de tratamento de efluentes líquidos para reduzir cargas poluidoras e permitir o lançamento ou reúso conforme padrões aplicáveis."
+            },
+            {
+              "nome": "Empreendedorismo e Inovação",
+              "topicos": [
+                "Identificação de oportunidades",
+                "Modelos de negócio",
+                "Planejamento de empreendimentos"
+              ],
+              "resumo": "Desenvolve conhecimentos para identificar oportunidades, estruturar iniciativas empreendedoras e aplicar inovação na criação de soluções."
+            },
+            {
+              "nome": "Gestão de Emissões Atmosféricas e Modelagens de Sistemas Ambientais",
+              "topicos": [
+                "Fontes de emissão",
+                "Monitoramento da qualidade do ar",
+                "Modelagem e dispersão de poluentes"
+              ],
+              "resumo": "Estuda a quantificação, o monitoramento e o controle de emissões atmosféricas, além de ferramentas de modelagem de sistemas ambientais."
+            },
+            {
+              "nome": "Projetos Hidrossanitários para o Meio Ambiente",
+              "topicos": [
+                "Sistemas de água e esgoto",
+                "Dimensionamento de instalações",
+                "Representação e compatibilização de projetos"
+              ],
+              "resumo": "Aborda a concepção e o desenvolvimento de projetos hidrossanitários, considerando dimensionamento, funcionamento e requisitos técnicos e ambientais."
+            },
+            {
+              "nome": "Sistemas Estruturais Aplicadas ao Meio Ambiente",
+              "topicos": [
+                "Conceitos de estruturas",
+                "Materiais e sistemas construtivos",
+                "Aplicações em obras ambientais"
+              ],
+              "resumo": "Apresenta princípios de sistemas estruturais e sua aplicação em obras e instalações relacionadas à infraestrutura e à engenharia ambiental."
+            },
+            {
+              "nome": "Tecnologias e Sustentabilidade Aplicadas ao Meio Ambiente",
+              "topicos": [
+                "Tecnologias ambientais",
+                "Eficiência de recursos",
+                "Soluções sustentáveis"
+              ],
+              "resumo": "Discute tecnologias e práticas que contribuem para reduzir impactos ambientais, melhorar a eficiência no uso de recursos e promover sustentabilidade."
+            },
+            {
+              "nome": "Trabalho de Conclusão de Curso",
+              "topicos": [
+                "Delimitação do tema",
+                "Metodologia científica",
+                "Desenvolvimento e apresentação do trabalho"
+              ],
+              "resumo": "Orienta a elaboração de um trabalho acadêmico de conclusão, desde a definição do problema e revisão bibliográfica até a análise dos resultados e apresentação."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

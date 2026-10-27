@@ -1,0 +1,400 @@
+{
+  "cursos": [
+    {
+      "nome": "Terapia Ocupacional",
+      "duracao": "4 anos (8 semestres)",
+      "modalidade": "Presencial, Semipresencial",
+      "tipo": "Bacharelado",
+      "descricao": "O curso de Terapia Ocupacional forma profissionais para promover autonomia, inclusão e qualidade de vida por meio de atividades e ocupações significativas. A formação aborda saúde física e mental, desenvolvimento humano, reabilitação, educação, participação social e atuação em diferentes fases da vida.",
+      "materias": [
+        {
+          "nome": "Ciência Morfofuncionais dos Sistemas Tegumentar, Locomotor e Reprodutor",
+          "topicos": [
+            "Organização anatômica e funcional dos sistemas do corpo",
+            "Estruturas e funções dos órgãos",
+            "Relações entre sistemas e saúde"
+          ],
+          "resumo": "Estuda a estrutura e o funcionamento dos sistemas corporais indicados na disciplina, relacionando anatomia e fisiologia à compreensão das condições de saúde e das necessidades funcionais das pessoas."
+        },
+        {
+          "nome": "Introdução a Biologia Celular e do Desenvolvimento",
+          "topicos": [
+            "Estrutura e função celular",
+            "Divisão e diferenciação celular",
+            "Desenvolvimento humano inicial"
+          ],
+          "resumo": "Apresenta os fundamentos da biologia celular e do desenvolvimento, abordando estruturas celulares, processos de divisão e diferenciação e sua importância para o desenvolvimento humano."
+        },
+        {
+          "nome": "Saúde Pública",
+          "topicos": [
+            "Organização do sistema de saúde",
+            "Promoção e prevenção em saúde",
+            "Políticas públicas e níveis de atenção"
+          ],
+          "resumo": "Aborda a organização da saúde pública, as políticas de saúde e as estratégias de promoção, prevenção e cuidado integral da população."
+        },
+        {
+          "nome": "Suporte Básico de Vida",
+          "topicos": [
+            "Avaliação inicial da vítima",
+            "Acionamento de serviços de emergência",
+            "Manobras básicas de primeiros socorros"
+          ],
+          "resumo": "Apresenta procedimentos iniciais de atendimento em situações de urgência, com foco no reconhecimento de riscos, na segurança da cena e no suporte básico à vida."
+        },
+        {
+          "nome": "Bioquímica Aplicada a Saúde",
+          "topicos": [
+            "Biomoléculas",
+            "Metabolismo energético",
+            "Reações bioquímicas relacionadas à saúde"
+          ],
+          "resumo": "Estuda as moléculas e reações químicas que sustentam o funcionamento do organismo, relacionando metabolismo e processos bioquímicos à saúde."
+        },
+        {
+          "nome": "Ciência Morfofuncionais dos Sistemas Imune e Hematológico",
+          "topicos": [
+            "Organização anatômica e funcional dos sistemas do corpo",
+            "Estruturas e funções dos órgãos",
+            "Relações entre sistemas e saúde"
+          ],
+          "resumo": "Estuda a estrutura e o funcionamento dos sistemas corporais indicados na disciplina, relacionando anatomia e fisiologia à compreensão das condições de saúde e das necessidades funcionais das pessoas."
+        },
+        {
+          "nome": "Ciência Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratório",
+          "topicos": [
+            "Organização anatômica e funcional dos sistemas do corpo",
+            "Estruturas e funções dos órgãos",
+            "Relações entre sistemas e saúde"
+          ],
+          "resumo": "Estuda a estrutura e o funcionamento dos sistemas corporais indicados na disciplina, relacionando anatomia e fisiologia à compreensão das condições de saúde e das necessidades funcionais das pessoas."
+        },
+        {
+          "nome": "História e Fundamentos da Terapia Ocupacional",
+          "topicos": [
+            "Origem e evolução da profissão",
+            "Conceitos de ocupação e desempenho ocupacional",
+            "Campos e fundamentos de atuação"
+          ],
+          "resumo": "Apresenta a trajetória histórica da Terapia Ocupacional, seus conceitos fundamentais, áreas de atuação e contribuições para autonomia, participação e qualidade de vida."
+        },
+        {
+          "nome": "Ciência Morfofuncionais dos Sistemas Digestório, Endócrino e Renal",
+          "topicos": [
+            "Organização anatômica e funcional dos sistemas do corpo",
+            "Estruturas e funções dos órgãos",
+            "Relações entre sistemas e saúde"
+          ],
+          "resumo": "Estuda a estrutura e o funcionamento dos sistemas corporais indicados na disciplina, relacionando anatomia e fisiologia à compreensão das condições de saúde e das necessidades funcionais das pessoas."
+        },
+        {
+          "nome": "Cinesiologia e Biomecânica",
+          "topicos": [
+            "Movimento humano",
+            "Planos, eixos e articulações",
+            "Análise biomecânica das atividades"
+          ],
+          "resumo": "Estuda o movimento humano e os princípios mecânicos envolvidos, permitindo analisar postura, mobilidade e desempenho durante atividades cotidianas."
+        },
+        {
+          "nome": "Educação Inclusiva",
+          "topicos": [
+            "Princípios da educação inclusiva",
+            "Barreiras à participação e aprendizagem",
+            "Acessibilidade e adaptações"
+          ],
+          "resumo": "Discute práticas e políticas de inclusão educacional, identificando barreiras e estratégias para ampliar a participação e a aprendizagem de pessoas com diferentes necessidades."
+        },
+        {
+          "nome": "Fisiologia do Exercício e Bases Nutricionais",
+          "topicos": [
+            "Respostas fisiológicas ao exercício",
+            "Sistemas energéticos",
+            "Bases nutricionais da atividade física"
+          ],
+          "resumo": "Estuda as respostas do organismo ao exercício e os fundamentos nutricionais relacionados à atividade física, saúde e funcionalidade."
+        },
+        {
+          "nome": "Genética Médica",
+          "topicos": [
+            "Herança genética",
+            "Alterações cromossômicas e gênicas",
+            "Genética e condições de saúde"
+          ],
+          "resumo": "Apresenta conceitos de genética humana e sua relação com condições de saúde, desenvolvimento e características individuais."
+        },
+        {
+          "nome": "Projeto Extensão I - Terapia Ocupacional",
+          "topicos": [
+            "Integração entre ensino e comunidade",
+            "Identificação de demandas sociais",
+            "Planejamento e avaliação de ações extensionistas"
+          ],
+          "resumo": "Promove a aplicação de conhecimentos do curso em atividades junto à comunidade, articulando formação acadêmica, participação social e intervenção em demandas reais."
+        },
+        {
+          "nome": "Aprendizagem Motora e Psicomotricidade",
+          "topicos": [
+            "Desenvolvimento das habilidades motoras",
+            "Processos de aprendizagem motora",
+            "Relações entre movimento, cognição e afetividade"
+          ],
+          "resumo": "Estuda o desenvolvimento e a aprendizagem dos movimentos e as relações entre aspectos motores, cognitivos e afetivos ao longo da vida."
+        },
+        {
+          "nome": "Cinesioterapia",
+          "topicos": [
+            "Movimentos terapêuticos",
+            "Exercícios ativos e passivos",
+            "Mobilidade, força e funcionalidade"
+          ],
+          "resumo": "Apresenta recursos terapêuticos baseados no movimento e no exercício para favorecer mobilidade, força, funcionalidade e recuperação."
+        },
+        {
+          "nome": "Pensamento Cientifico",
+          "topicos": [
+            "Método científico",
+            "Formulação de problemas e hipóteses",
+            "Leitura crítica de evidências"
+          ],
+          "resumo": "Desenvolve o raciocínio científico e a capacidade de analisar informações, formular questões e utilizar evidências na construção do conhecimento."
+        },
+        {
+          "nome": "Psicologia Aplicada a Saúde",
+          "topicos": [
+            "Processos psicológicos",
+            "Desenvolvimento e comportamento humano",
+            "Relações entre saúde, subjetividade e ambiente"
+          ],
+          "resumo": "Apresenta conceitos psicológicos relevantes para compreender comportamento, desenvolvimento, emoções e relações humanas nos contextos de saúde."
+        },
+        {
+          "nome": "Recursos Terapêuticos em Terapia Ocupacional",
+          "topicos": [
+            "Atividades e recursos terapêuticos",
+            "Seleção de recursos conforme objetivos",
+            "Adaptação de atividades e materiais"
+          ],
+          "resumo": "Estuda recursos e estratégias utilizados na Terapia Ocupacional, considerando objetivos terapêuticos, características individuais e adaptação das atividades."
+        },
+        {
+          "nome": "Terapia Ocupacional na Orientação Familiar",
+          "topicos": [
+            "Família e contexto ocupacional",
+            "Acolhimento e orientação",
+            "Participação familiar no cuidado"
+          ],
+          "resumo": "Aborda a relação entre família, cotidiano e processo terapêutico, discutindo estratégias de orientação e participação familiar no cuidado."
+        },
+        {
+          "nome": "Análise Aplicada da Atividade Humana em Terapia Ocupacional I",
+          "topicos": [
+            "Componentes e demandas das atividades",
+            "Análise do desempenho ocupacional",
+            "Planejamento de intervenções terapêuticas"
+          ],
+          "resumo": "Desenvolve a análise das atividades humanas e de suas exigências, relacionando capacidades, ambiente e ocupações para orientar intervenções terapêuticas."
+        },
+        {
+          "nome": "Dinâmica Institucional e Atividade de Grupo em Terapia Ocupacional",
+          "topicos": [
+            "Funcionamento das instituições",
+            "Processos grupais",
+            "Atividades coletivas e participação"
+          ],
+          "resumo": "Estuda relações institucionais e processos de grupo, explorando atividades coletivas como recurso de participação, interação e intervenção."
+        },
+        {
+          "nome": "Ética e Deontologia",
+          "topicos": [
+            "Princípios éticos profissionais",
+            "Responsabilidade e sigilo",
+            "Normas e deveres da profissão"
+          ],
+          "resumo": "Discute princípios éticos, deveres profissionais, sigilo, responsabilidade e condutas que orientam a prática da Terapia Ocupacional."
+        },
+        {
+          "nome": "Imagens e Observação Clinica em Terapia Ocupacional",
+          "topicos": [
+            "Observação clínica",
+            "Registro e interpretação de informações",
+            "Comunicação de achados"
+          ],
+          "resumo": "Aborda a observação e o registro de informações clínicas como instrumentos para compreender necessidades, acompanhar o desempenho e subsidiar o planejamento terapêutico."
+        },
+        {
+          "nome": "Projeto Extensão II - Terapia Ocupacional",
+          "topicos": [
+            "Integração entre ensino e comunidade",
+            "Identificação de demandas sociais",
+            "Planejamento e avaliação de ações extensionistas"
+          ],
+          "resumo": "Promove a aplicação de conhecimentos do curso em atividades junto à comunidade, articulando formação acadêmica, participação social e intervenção em demandas reais."
+        },
+        {
+          "nome": "Prótese e Órtese",
+          "topicos": [
+            "Tipos e funções de próteses e órteses",
+            "Indicações e adaptações",
+            "Tecnologia assistiva e funcionalidade"
+          ],
+          "resumo": "Apresenta dispositivos que auxiliam ou substituem funções corporais, considerando indicações, adaptação, uso seguro e impacto na independência."
+        },
+        {
+          "nome": "Análise e Aplicação da Atividade Humana em Terapia Ocupacional II",
+          "topicos": [
+            "Componentes e demandas das atividades",
+            "Análise do desempenho ocupacional",
+            "Planejamento de intervenções terapêuticas"
+          ],
+          "resumo": "Desenvolve a análise das atividades humanas e de suas exigências, relacionando capacidades, ambiente e ocupações para orientar intervenções terapêuticas."
+        },
+        {
+          "nome": "Gestão, Qualidade e Segurança do Paciente",
+          "topicos": [
+            "Gestão dos serviços de saúde",
+            "Qualidade e segurança do paciente",
+            "Indicadores e melhoria de processos"
+          ],
+          "resumo": "Estuda ferramentas de gestão e qualidade aplicadas aos serviços de saúde, com foco na segurança do paciente e na melhoria contínua da assistência."
+        },
+        {
+          "nome": "Terapia Ocupacional em Saúde Mental e Psiquiatria",
+          "topicos": [
+            "Saúde mental e atenção psicossocial",
+            "Sofrimento psíquico e participação ocupacional",
+            "Estratégias de intervenção e reabilitação psicossocial"
+          ],
+          "resumo": "Aborda a atuação da Terapia Ocupacional em saúde mental, considerando cotidiano, participação social, autonomia e estratégias de cuidado psicossocial."
+        },
+        {
+          "nome": "Terapia Ocupacional na Educação",
+          "topicos": [
+            "Contextos educacionais",
+            "Participação e desempenho escolar",
+            "Adaptações e estratégias inclusivas"
+          ],
+          "resumo": "Estuda a contribuição da Terapia Ocupacional nos ambientes educacionais, favorecendo participação, acessibilidade e inclusão nas atividades escolares."
+        },
+        {
+          "nome": "Terapia Ocupacional na Saúde da Criança e do Adolescente",
+          "topicos": [
+            "Desenvolvimento infantil e adolescente",
+            "Brincar e atividades cotidianas",
+            "Intervenções e participação familiar"
+          ],
+          "resumo": "Aborda avaliação e intervenção com crianças e adolescentes, considerando desenvolvimento, brincar, atividades diárias, contexto familiar e participação social."
+        },
+        {
+          "nome": "Terapia Ocupacional na Saúde do Adulto e do Idoso",
+          "topicos": [
+            "Funcionalidade ao longo da vida adulta",
+            "Envelhecimento e desempenho ocupacional",
+            "Adaptação e promoção da autonomia"
+          ],
+          "resumo": "Estuda intervenções com adultos e idosos para preservar ou recuperar funcionalidade, autonomia e participação nas atividades cotidianas."
+        },
+        {
+          "nome": "Estágio Supervisionado I: Terapia Ocupacional em Clinica Geral",
+          "topicos": [
+            "Prática profissional supervisionada",
+            "Avaliação e planejamento terapêutico",
+            "Registro, acompanhamento e discussão de casos"
+          ],
+          "resumo": "Proporciona vivência prática supervisionada em cenários de atendimento, integrando avaliação, planejamento, intervenção, registro e reflexão sobre a prática profissional."
+        },
+        {
+          "nome": "Optativa I",
+          "topicos": [
+            "Aprofundamento em tema de escolha curricular",
+            "Integração de conhecimentos",
+            "Aplicação na formação profissional"
+          ],
+          "resumo": "Permite aprofundar conhecimentos em conteúdo escolhido conforme a oferta curricular, complementando a formação acadêmica e profissional."
+        },
+        {
+          "nome": "Projeto Extensão III - Terapia Ocupacional",
+          "topicos": [
+            "Integração entre ensino e comunidade",
+            "Identificação de demandas sociais",
+            "Planejamento e avaliação de ações extensionistas"
+          ],
+          "resumo": "Promove a aplicação de conhecimentos do curso em atividades junto à comunidade, articulando formação acadêmica, participação social e intervenção em demandas reais."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Formação social brasileira",
+            "Direitos, cidadania e diversidade",
+            "Responsabilidade social"
+          ],
+          "resumo": "Discute aspectos da sociedade brasileira, cidadania, direitos e diversidade, relacionando esses temas à atuação ética e social do profissional."
+        },
+        {
+          "nome": "Terapia Ocupacional na Reabilitação Profissional",
+          "topicos": [
+            "Processos de retorno ao trabalho",
+            "Capacidades e demandas ocupacionais",
+            "Adaptações e inclusão laboral"
+          ],
+          "resumo": "Estuda estratégias para apoiar a reabilitação e o retorno ao trabalho, considerando capacidades funcionais, demandas das atividades e adaptações necessárias."
+        },
+        {
+          "nome": "Terapia Ocupacional na Saúde do Trabalhador e Ergonomia",
+          "topicos": [
+            "Saúde do trabalhador",
+            "Ergonomia e análise das atividades laborais",
+            "Prevenção de agravos e adaptações"
+          ],
+          "resumo": "Aborda a relação entre trabalho, saúde e desempenho ocupacional, incluindo análise ergonômica, prevenção de agravos e adequação de ambientes e tarefas."
+        },
+        {
+          "nome": "Administração em Terapia Ocupacional",
+          "topicos": [
+            "Organização de serviços",
+            "Planejamento e gestão de equipes",
+            "Recursos, processos e avaliação"
+          ],
+          "resumo": "Apresenta princípios de administração aplicados aos serviços de Terapia Ocupacional, incluindo planejamento, organização, gestão de recursos e avaliação das atividades."
+        },
+        {
+          "nome": "Estágio Supervisionado II-Terapia Ocupacional em Saúde Coletiva e Saúde Mental",
+          "topicos": [
+            "Saúde mental e atenção psicossocial",
+            "Sofrimento psíquico e participação ocupacional",
+            "Estratégias de intervenção e reabilitação psicossocial"
+          ],
+          "resumo": "Aborda a atuação da Terapia Ocupacional em saúde mental, considerando cotidiano, participação social, autonomia e estratégias de cuidado psicossocial."
+        },
+        {
+          "nome": "Optativa II",
+          "topicos": [
+            "Aprofundamento em tema de escolha curricular",
+            "Integração de conhecimentos",
+            "Aplicação na formação profissional"
+          ],
+          "resumo": "Permite aprofundar conhecimentos em conteúdo escolhido conforme a oferta curricular, complementando a formação acadêmica e profissional."
+        },
+        {
+          "nome": "Terapia Ocupacional em Ações Sociais",
+          "topicos": [
+            "Vulnerabilidade e participação social",
+            "Direitos e inclusão comunitária",
+            "Projetos e intervenções sociais"
+          ],
+          "resumo": "Discute a atuação da Terapia Ocupacional em contextos sociais e comunitários, promovendo direitos, inclusão, autonomia e participação."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso",
+          "topicos": [
+            "Delimitação do tema e problema",
+            "Pesquisa bibliográfica e metodologia",
+            "Análise e apresentação dos resultados"
+          ],
+          "resumo": "Orienta a elaboração de um trabalho acadêmico, desde a escolha do tema e definição metodológica até a análise e apresentação dos resultados."
+        }
+      ]
+    }
+  ]
+}

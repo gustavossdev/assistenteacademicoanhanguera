@@ -1,0 +1,670 @@
+{
+  "cursos": [
+    {
+      "nome": "Biomedicina",
+      "duracao": "4 anos (8 semestres)",
+      "modalidade": "Presencial, Semipresencial",
+      "tipo": "Bacharelado",
+      "descricao": "O curso de Biomedicina prepara profissionais para atuar em análises clínicas, diagnóstico laboratorial, pesquisa, biotecnologia e diferentes áreas da saúde. A formação reúne conhecimentos de biologia, química, processos patológicos e métodos de investigação.",
+      "materias": [
+        {
+          "nome": "Gestão, Qualidade e Segurança do Paciente",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda gestão, qualidade e segurança do paciente, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Pensamento Científico",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda pensamento científico, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Psicologia Aplicada à Saúde",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda psicologia aplicada à saúde, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Responsabilidade Social e Ambiental",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda responsabilidade social e ambiental, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda sociedade brasileira e cidadania, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Ciências Morfofuncionais dos Sistemas Digestório, Endócrino e Renal",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda ciências morfofuncionais dos sistemas digestório, endócrino e renal, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratório",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda ciências morfofuncionais dos sistemas nervoso e cardiorrespiratório, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Ciências Morfofuncionais dos Sistemas Tegumentar, Locomotor e Reprodutor",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda ciências morfofuncionais dos sistemas tegumentar, locomotor e reprodutor, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Introdução à Biologia Celular e do Desenvolvimento",
+          "topicos": [
+            "Organização e funcionamento dos sistemas biológicos",
+            "Estruturas celulares e processos fisiológicos",
+            "Métodos de estudo e investigação",
+            "Relação dos conceitos com a área biomédica"
+          ],
+          "resumo": "Estuda introdução à biologia celular e do desenvolvimento, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Saúde Pública",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda saúde pública, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Bioquímica Aplicada à Saúde",
+          "topicos": [
+            "Estrutura e função de biomoléculas",
+            "Metabolismo e transformações bioquímicas",
+            "Regulação de processos celulares",
+            "Aplicações bioquímicas em saúde e laboratório"
+          ],
+          "resumo": "Estuda bioquímica aplicada à saúde, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Ciências Morfofuncionais dos Sistemas Imune e Hematológico",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda ciências morfofuncionais dos sistemas imune e hematológico, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Microbiologia Básica",
+          "topicos": [
+            "Grupos de microrganismos e suas características",
+            "Crescimento, metabolismo e reprodução microbiana",
+            "Técnicas de identificação e controle",
+            "Importância dos microrganismos no contexto da disciplina"
+          ],
+          "resumo": "Estuda microbiologia básica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Práticas Em Saúde",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda práticas em saúde, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Princípios Físico-químicos Laboratoriais",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda princípios físico-químicos laboratoriais, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Projeto de Extensão I - Biomedicina",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Desenvolve atividades orientadas relacionadas à formação em biomedicina, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+        },
+        {
+          "nome": "Análises Físico-químicas e Microbiológicas de Alimentos",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda análises físico-químicas e microbiológicas de alimentos, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Conexão Sem Barreiras Em Saúde",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda conexão sem barreiras em saúde, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Genética Médica",
+          "topicos": [
+            "Fundamentos de genética e hereditariedade",
+            "Variabilidade genética e seleção",
+            "Métodos de melhoramento",
+            "Aplicações na produção vegetal ou animal"
+          ],
+          "resumo": "Estuda genética médica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Instrumentação e Deontologia Biomédica",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda instrumentação e deontologia biomédica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Micologia e Virologia",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda micologia e virologia, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Patologia Geral",
+          "topicos": [
+            "Processos de lesão e adaptação celular",
+            "Mecanismos de inflamação e reparo",
+            "Alterações teciduais e doenças",
+            "Bases morfológicas das alterações patológicas"
+          ],
+          "resumo": "Estuda patologia geral, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Biologia Molecular e Biotecnologia",
+          "topicos": [
+            "Organização e funcionamento dos sistemas biológicos",
+            "Estruturas celulares e processos fisiológicos",
+            "Métodos de estudo e investigação",
+            "Relação dos conceitos com a área biomédica"
+          ],
+          "resumo": "Estuda biologia molecular e biotecnologia, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Farmacologia",
+          "topicos": [
+            "Princípios de ação dos fármacos",
+            "Farmacocinética e farmacodinâmica",
+            "Efeitos terapêuticos e reações adversas",
+            "Uso racional e segurança na utilização de medicamentos"
+          ],
+          "resumo": "Estuda farmacologia, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Hematologia",
+          "topicos": [
+            "Componentes e funções do sangue",
+            "Hematopoiese e alterações hematológicas",
+            "Métodos laboratoriais e interpretação de exames",
+            "Correlação dos achados com condições clínicas"
+          ],
+          "resumo": "Estuda hematologia, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Imunologia Clínica",
+          "topicos": [
+            "Componentes do sistema imunológico",
+            "Resposta imune inata e adaptativa",
+            "Antígenos, anticorpos e mecanismos de defesa",
+            "Métodos e aplicações em diagnóstico"
+          ],
+          "resumo": "Estuda imunologia clínica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Projeto de Extensão II - Biomedicina",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Desenvolve atividades orientadas relacionadas à formação em biomedicina, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+        },
+        {
+          "nome": "Bacteriologia Clínica",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda bacteriologia clínica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Estágio Supervisionado - Campos da Biomedicina",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Desenvolve atividades orientadas relacionadas à formação em biomedicina, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+        },
+        {
+          "nome": "Líquidos Biológicos",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda líquidos biológicos, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Práticas Aplicadas Em Bioquímica e Imunologia Clínica",
+          "topicos": [
+            "Estrutura e função de biomoléculas",
+            "Metabolismo e transformações bioquímicas",
+            "Regulação de processos celulares",
+            "Aplicações bioquímicas em saúde e laboratório"
+          ],
+          "resumo": "Estuda práticas aplicadas em bioquímica e imunologia clínica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Relações Parasitas e Hospedeiros",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda relações parasitas e hospedeiros, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Citopatologia Oncótica",
+          "topicos": [
+            "Processos de lesão e adaptação celular",
+            "Mecanismos de inflamação e reparo",
+            "Alterações teciduais e doenças",
+            "Bases morfológicas das alterações patológicas"
+          ],
+          "resumo": "Estuda citopatologia oncótica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Estágio Supervisionado - Análises Clínicas - Biomedicina",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Desenvolve atividades orientadas relacionadas à formação em biomedicina, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+        },
+        {
+          "nome": "Práticas Aplicadas Em Hematologia e Microbiologia Clínica",
+          "topicos": [
+            "Grupos de microrganismos e suas características",
+            "Crescimento, metabolismo e reprodução microbiana",
+            "Técnicas de identificação e controle",
+            "Importância dos microrganismos no contexto da disciplina"
+          ],
+          "resumo": "Estuda práticas aplicadas em hematologia e microbiologia clínica, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Práticas Aplicadas Em Parasitologia Clínica e Líquidos",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda práticas aplicadas em parasitologia clínica e líquidos, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Toxicologia",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda toxicologia, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso - Biomedicina",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Desenvolve atividades orientadas relacionadas à formação em biomedicina, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+        },
+        {
+          "nome": "Biomedicina Estética",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda biomedicina estética, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Estágio Supervisionado - Aprofundamento Em Análises Clínicas",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Desenvolve atividades orientadas relacionadas à formação em biomedicina, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+        },
+        {
+          "nome": "Imaginologia",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Estuda imaginologia, relacionando os fundamentos científicos aos métodos de investigação, análise laboratorial e compreensão de processos relevantes para a saúde."
+        },
+        {
+          "nome": "Projeto de Extensão III - Biomedicina",
+          "topicos": [
+            "Fundamentos científicos e conceitos centrais do tema",
+            "Métodos de estudo, análise ou investigação",
+            "Procedimentos técnicos e critérios de interpretação",
+            "Aplicações na saúde e na prática biomédica"
+          ],
+          "resumo": "Desenvolve atividades orientadas relacionadas à formação em biomedicina, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+        },
+        {
+          "nome": "Optativa III",
+          "topicos": [
+            "Conteúdos específicos conforme a opção curricular",
+            "Aprofundamento de conhecimentos",
+            "Aplicações acadêmicas e profissionais"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em um tema escolhido conforme as opções curriculares disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Projeto de Extensão I - Fisioterapia",
+          "topicos": [
+            "Integração entre conhecimento acadêmico e comunidade",
+            "Planejamento de ações extensionistas",
+            "Execução e avaliação de intervenções"
+          ],
+          "resumo": "A disciplina desenvolve atividades de extensão que aproximam a formação acadêmica das necessidades da comunidade. O estudante planeja, executa e avalia ações aplicando conhecimentos do curso."
+        },
+        {
+          "nome": "Projeto de Extensão II - Fisioterapia",
+          "topicos": [
+            "Integração entre conhecimento acadêmico e comunidade",
+            "Planejamento de ações extensionistas",
+            "Execução e avaliação de intervenções"
+          ],
+          "resumo": "A disciplina desenvolve atividades de extensão que aproximam a formação acadêmica das necessidades da comunidade. O estudante planeja, executa e avalia ações aplicando conhecimentos do curso."
+        },
+        {
+          "nome": "Projeto de Extensão III - Fisioterapia",
+          "topicos": [
+            "Integração entre conhecimento acadêmico e comunidade",
+            "Planejamento de ações extensionistas",
+            "Execução e avaliação de intervenções"
+          ],
+          "resumo": "A disciplina desenvolve atividades de extensão que aproximam a formação acadêmica das necessidades da comunidade. O estudante planeja, executa e avalia ações aplicando conhecimentos do curso."
+        },
+        {
+          "nome": "Projeto de Extensão IV - Fisioterapia",
+          "topicos": [
+            "Integração entre conhecimento acadêmico e comunidade",
+            "Planejamento de ações extensionistas",
+            "Execução e avaliação de intervenções"
+          ],
+          "resumo": "A disciplina desenvolve atividades de extensão que aproximam a formação acadêmica das necessidades da comunidade. O estudante planeja, executa e avalia ações aplicando conhecimentos do curso."
+        },
+        {
+          "nome": "Recursos Terapêuticos Bioelétricos, Térmicos e Mecânicos",
+          "topicos": [
+            "Avaliação funcional e identificação de alterações",
+            "Métodos e recursos de intervenção",
+            "Acompanhamento da evolução funcional"
+          ],
+          "resumo": "A disciplina explora métodos de avaliação e intervenção fisioterapêutica relacionados ao tema, considerando funcionalidade, seleção de recursos terapêuticos e acompanhamento da evolução do paciente."
+        },
+        {
+          "nome": "Recursos Terapêuticos Manuais",
+          "topicos": [
+            "Avaliação funcional e identificação de alterações",
+            "Métodos e recursos de intervenção",
+            "Acompanhamento da evolução funcional"
+          ],
+          "resumo": "A disciplina explora métodos de avaliação e intervenção fisioterapêutica relacionados ao tema, considerando funcionalidade, seleção de recursos terapêuticos e acompanhamento da evolução do paciente."
+        },
+        {
+          "nome": "Introdução à Biologia Celular e do Desenvolvimento",
+          "topicos": [
+            "Organização estrutural do corpo humano",
+            "Células, tecidos, órgãos e sistemas",
+            "Relação entre estrutura e função"
+          ],
+          "resumo": "A disciplina estuda a organização e o funcionamento do corpo humano, relacionando estruturas celulares, tecidos, órgãos e sistemas aos processos fisiológicos relevantes para a área."
+        },
+        {
+          "nome": "Ciências Morfofuncionais dos Sistemas Digestório, Endócrino e Renal",
+          "topicos": [
+            "Organização estrutural do corpo humano",
+            "Células, tecidos, órgãos e sistemas",
+            "Relação entre estrutura e função"
+          ],
+          "resumo": "A disciplina estuda a organização e o funcionamento do corpo humano, relacionando estruturas celulares, tecidos, órgãos e sistemas aos processos fisiológicos relevantes para a área."
+        },
+        {
+          "nome": "Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratório",
+          "topicos": [
+            "Organização estrutural do corpo humano",
+            "Células, tecidos, órgãos e sistemas",
+            "Relação entre estrutura e função"
+          ],
+          "resumo": "A disciplina estuda a organização e o funcionamento do corpo humano, relacionando estruturas celulares, tecidos, órgãos e sistemas aos processos fisiológicos relevantes para a área."
+        },
+        {
+          "nome": "Fundamentos da Fisioterapia na Atenção Primária",
+          "topicos": [
+            "Avaliação funcional e identificação de alterações",
+            "Métodos e recursos de intervenção",
+            "Acompanhamento da evolução funcional"
+          ],
+          "resumo": "A disciplina explora métodos de avaliação e intervenção fisioterapêutica relacionados ao tema, considerando funcionalidade, seleção de recursos terapêuticos e acompanhamento da evolução do paciente."
+        },
+        {
+          "nome": "Ciências Morfofuncionais do Aparelho Locomotor - Membros Superiores, Cabeça e Tronco",
+          "topicos": [
+            "Organização estrutural do corpo humano",
+            "Células, tecidos, órgãos e sistemas",
+            "Relação entre estrutura e função"
+          ],
+          "resumo": "A disciplina estuda a organização e o funcionamento do corpo humano, relacionando estruturas celulares, tecidos, órgãos e sistemas aos processos fisiológicos relevantes para a área."
+        },
+        {
+          "nome": "Diagnóstico Cinético-Funcional e Imaginologia - Membros Superiores, Cabeça e Tronco",
+          "topicos": [
+            "Avaliação funcional e identificação de alterações",
+            "Métodos e recursos de intervenção",
+            "Acompanhamento da evolução funcional"
+          ],
+          "resumo": "A disciplina explora métodos de avaliação e intervenção fisioterapêutica relacionados ao tema, considerando funcionalidade, seleção de recursos terapêuticos e acompanhamento da evolução do paciente."
+        },
+        {
+          "nome": "Optativa IV",
+          "topicos": [
+            "Conteúdos específicos conforme a opção curricular",
+            "Aprofundamento de conhecimentos",
+            "Aplicações acadêmicas e profissionais"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em um tema escolhido conforme as opções curriculares disponibilizadas pela instituição."
+        },
+        "Processos psicológicos e comportamento humano",
+        "Aplicações em avaliação, prevenção ou intervenção"
+      ],
+      "resumo": "A disciplina apresenta conceitos e abordagens de psicofarmacologia, contribuindo para compreender os processos psicológicos e suas aplicações nos diferentes contextos de atuação."
+    },
+    {
+      "nome": "Terapia Familiar Sistêmica",
+      "topicos": [
+        "Conceitos e fundamentos da disciplina",
+        "Métodos, técnicas ou abordagens relevantes",
+        "Aplicações na formação e na prática profissional"
+      ],
+      "resumo": "A disciplina apresenta os fundamentos de terapia familiar sistêmica, desenvolvendo conhecimentos e competências importantes para a formação e a prática profissional."
+    },
+    {
+      "nome": "Projeto de Extensão IV - Psicologia",
+      "topicos": [
+        "Integração entre universidade e comunidade",
+        "Planejamento de ações extensionistas",
+        "Execução e avaliação de atividades"
+      ],
+      "resumo": "A disciplina promove a aplicação dos conhecimentos acadêmicos em ações junto à comunidade, com planejamento, execução e avaliação de atividades de extensão."
+    },
+    {
+      "nome": "Psicologia Escolar e Educacional",
+      "topicos": [
+        "Fundamentos teóricos e históricos",
+        "Processos psicológicos e comportamento humano",
+        "Aplicações em avaliação, prevenção ou intervenção"
+      ],
+      "resumo": "A disciplina apresenta conceitos e abordagens de psicologia escolar e educacional, contribuindo para compreender os processos psicológicos e suas aplicações nos diferentes contextos de atuação."
+    },
+    {
+      "nome": "Estágio Específico II - Ênfase A ou B",
+      "topicos": [
+        "Vivência prática supervisionada",
+        "Aplicação dos conhecimentos da formação",
+        "Ética, segurança e registro das atividades"
+      ],
+      "resumo": "A disciplina proporciona experiência prática supervisionada na área de psicologia, permitindo aplicar conhecimentos acadêmicos em contextos reais de atuação profissional."
+    },
+    {
+      "nome": "Disciplina Específica III - Ênfase A ou B",
+      "topicos": [
+        "Aprofundamento em conteúdo curricular escolhido",
+        "Conceitos e métodos da área temática",
+        "Aplicações acadêmicas e profissionais"
+      ],
+      "resumo": "A disciplina permite aprofundar conhecimentos em um tema definido pelas opções curriculares e pela ênfase disponibilizada no curso."
+    },
+    {
+      "nome": "Optativa II",
+      "topicos": [
+        "Aprofundamento em conteúdo curricular escolhido",
+        "Conceitos e métodos da área temática",
+        "Aplicações acadêmicas e profissionais"
+      ],
+      "resumo": "A disciplina permite aprofundar conhecimentos em um tema definido pelas opções curriculares e pela ênfase disponibilizada no curso."
+    },
+    {
+      "nome": "Trabalho de Conclusão de Curso",
+      "topicos": [
+        "Definição do tema e problema de pesquisa",
+        "Metodologia científica",
+        "Análise e apresentação dos resultados"
+      ],
+      "resumo": "A disciplina orienta a elaboração de pesquisa acadêmica, desde a delimitação do tema e definição dos objetivos até a análise dos resultados e apresentação do trabalho."
+    },
+    {
+      "nome": "Psicologia Hospitalar",
+      "topicos": [
+        "Fundamentos teóricos e históricos",
+        "Processos psicológicos e comportamento humano",
+        "Aplicações em avaliação, prevenção ou intervenção"
+      ],
+      "resumo": "A disciplina apresenta conceitos e abordagens de psicologia hospitalar, contribuindo para compreender os processos psicológicos e suas aplicações nos diferentes contextos de atuação."
+    },
+    {
+      "nome": "Estágio Específico III - Ênfase A ou B",
+      "topicos": [
+        "Vivência prática supervisionada",
+        "Aplicação dos conhecimentos da formação",
+        "Ética, segurança e registro das atividades"
+      ],
+      "resumo": "A disciplina proporciona experiência prática supervisionada na área de psicologia, permitindo aplicar conhecimentos acadêmicos em contextos reais de atuação profissional."
+    },
+    {
+      "nome": "Optativa III",
+      "topicos": [
+        "Aprofundamento em conteúdo curricular escolhido",
+        "Conceitos e métodos da área temática",
+        "Aplicações acadêmicas e profissionais"
+      ],
+      "resumo": "A disciplina permite aprofundar conhecimentos em um tema definido pelas opções curriculares e pela ênfase disponibilizada no curso."
+    },
+    {
+      "nome": "Optativa IV",
+      "topicos": [
+        "Aprofundamento em conteúdo curricular escolhido",
+        "Conceitos e métodos da área temática",
+        "Aplicações acadêmicas e profissionais"
+      ],
+      "resumo": "A disciplina permite aprofundar conhecimentos em um tema definido pelas opções curriculares e pela ênfase disponibilizada no curso."
+    },
+    {
+      "nome": "Atividades complementares",
+      "topicos": [
+        "Conceitos e fundamentos da disciplina",
+        "Métodos, técnicas ou abordagens relevantes",
+        "Aplicações na formação e na prática profissional"
+      ],
+      "resumo": "A disciplina apresenta os fundamentos de atividades complementares, desenvolvendo conhecimentos e competências importantes para a formação e a prática profissional."
+    }
+  ]
+}
