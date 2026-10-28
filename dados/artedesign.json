@@ -1,0 +1,346 @@
+{
+  "cursos": [
+    {
+      "nome": "Design",
+      "duracao": "4 anos (8 semestres)",
+      "modalidade": "Presencial",
+      "tipo": "Bacharelado",
+      "descricao": "Curso voltado à formação de profissionais capazes de conceber, desenvolver e gerir projetos de design, articulando criatividade, estética, comunicação, funcionalidade e inovação. A formação contempla desenho, linguagem visual, fotografia, computação gráfica, design gráfico, modelagem digital, web design, gestão de projetos e sustentabilidade.",
+      "materias": [
+        {
+          "nome": "Desenho de Observação",
+          "topicos": [
+            "Fundamentos da linguagem e composição visual",
+            "Elementos gráficos, formas, cores e tipografia",
+            "Processos de criação e desenvolvimento de projetos"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de desenho de observação, explorando linguagem visual, composição e processos criativos para conceber e comunicar ideias por meio de soluções de design."
+        },
+        {
+          "nome": "Sintaxe da Expressão Visual",
+          "topicos": [
+            "Fundamentos da linguagem e composição visual",
+            "Elementos gráficos, formas, cores e tipografia",
+            "Processos de criação e desenvolvimento de projetos"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de sintaxe da expressão visual, explorando linguagem visual, composição e processos criativos para conceber e comunicar ideias por meio de soluções de design."
+        },
+        {
+          "nome": "Optativa I",
+          "topicos": [
+            "Aprofundamento em tema escolhido",
+            "Estudo de conceitos e ferramentas específicas",
+            "Aplicações em projetos de design"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em um tema escolhido entre as opções curriculares disponibilizadas pela instituição, ampliando a formação em design."
+        },
+        {
+          "nome": "Processo da Criatividade",
+          "topicos": [
+            "Conceitos e fundamentos da disciplina",
+            "Métodos, ferramentas e processos relacionados",
+            "Aplicações em projetos e na prática profissional"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de processo da criatividade, desenvolvendo conhecimentos e competências para aplicar conceitos e métodos em projetos e atividades profissionais de design."
+        },
+        {
+          "nome": "Comunicação Visual",
+          "topicos": [
+            "Fundamentos da linguagem e composição visual",
+            "Elementos gráficos, formas, cores e tipografia",
+            "Processos de criação e desenvolvimento de projetos"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de comunicação visual, explorando linguagem visual, composição e processos criativos para conceber e comunicar ideias por meio de soluções de design."
+        },
+        {
+          "nome": "Fotografia Básica",
+          "topicos": [
+            "Fundamentos de composição e linguagem visual",
+            "Técnicas de captação e tratamento de imagens",
+            "Leitura e análise de imagens"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de fotografia e linguagem imagética, abordando composição, técnicas de captação, tratamento e interpretação de imagens aplicadas a projetos de design."
+        },
+        {
+          "nome": "Computação Gráfica",
+          "topicos": [
+            "Ferramentas e recursos digitais",
+            "Técnicas de criação e representação visual",
+            "Desenvolvimento de peças ou modelos digitais"
+          ],
+          "resumo": "A disciplina aborda técnicas e ferramentas de computação gráfica, capacitando o estudante a criar, editar e apresentar soluções visuais digitais para diferentes necessidades de comunicação e projeto."
+        },
+        {
+          "nome": "Optativa II",
+          "topicos": [
+            "Aprofundamento em tema escolhido",
+            "Estudo de conceitos e ferramentas específicas",
+            "Aplicações em projetos de design"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em um tema escolhido entre as opções curriculares disponibilizadas pela instituição, ampliando a formação em design."
+        },
+        {
+          "nome": "História e Acepções do Design",
+          "topicos": [
+            "Contextos históricos e referências culturais",
+            "Movimentos, conceitos e repertório visual",
+            "Influências na produção contemporânea de design"
+          ],
+          "resumo": "A disciplina explora história e acepções do design, ampliando o repertório cultural e crítico do estudante e sua capacidade de compreender referências e tendências que influenciam a produção em design."
+        },
+        {
+          "nome": "Design Gráfico",
+          "topicos": [
+            "Fundamentos da linguagem e composição visual",
+            "Elementos gráficos, formas, cores e tipografia",
+            "Processos de criação e desenvolvimento de projetos"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de design gráfico, explorando linguagem visual, composição e processos criativos para conceber e comunicar ideias por meio de soluções de design."
+        },
+        {
+          "nome": "Criação em Design",
+          "topicos": [
+            "Fundamentos da linguagem e composição visual",
+            "Elementos gráficos, formas, cores e tipografia",
+            "Processos de criação e desenvolvimento de projetos"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de criação em design, explorando linguagem visual, composição e processos criativos para conceber e comunicar ideias por meio de soluções de design."
+        },
+        {
+          "nome": "Projeto de Extensão I - Design",
+          "topicos": [
+            "Identificação de demandas e oportunidades na comunidade",
+            "Planejamento de soluções de design",
+            "Desenvolvimento e avaliação de projeto"
+          ],
+          "resumo": "A disciplina promove a aplicação de conhecimentos de design em ações extensionistas junto à comunidade. O estudante identifica necessidades, planeja soluções, desenvolve propostas e avalia os resultados."
+        },
+        {
+          "nome": "Animação Digital",
+          "topicos": [
+            "Ferramentas e recursos digitais",
+            "Técnicas de criação e representação visual",
+            "Desenvolvimento de peças ou modelos digitais"
+          ],
+          "resumo": "A disciplina aborda técnicas e ferramentas de animação digital, capacitando o estudante a criar, editar e apresentar soluções visuais digitais para diferentes necessidades de comunicação e projeto."
+        },
+        {
+          "nome": "Estética e História da Arte",
+          "topicos": [
+            "Contextos históricos e referências culturais",
+            "Movimentos, conceitos e repertório visual",
+            "Influências na produção contemporânea de design"
+          ],
+          "resumo": "A disciplina explora estética e história da arte, ampliando o repertório cultural e crítico do estudante e sua capacidade de compreender referências e tendências que influenciam a produção em design."
+        },
+        {
+          "nome": "Ergonomia no Design",
+          "topicos": [
+            "Relação entre pessoas, objetos e ambientes",
+            "Conforto, usabilidade e funcionalidade",
+            "Critérios de sustentabilidade e impacto"
+          ],
+          "resumo": "A disciplina aborda ergonomia no design, considerando aspectos humanos, funcionais, ambientais e de usabilidade para orientar o desenvolvimento de soluções de design mais adequadas e responsáveis."
+        },
+        {
+          "nome": "Ilustração Digital",
+          "topicos": [
+            "Ferramentas e recursos digitais",
+            "Técnicas de criação e representação visual",
+            "Desenvolvimento de peças ou modelos digitais"
+          ],
+          "resumo": "A disciplina aborda técnicas e ferramentas de ilustração digital, capacitando o estudante a criar, editar e apresentar soluções visuais digitais para diferentes necessidades de comunicação e projeto."
+        },
+        {
+          "nome": "Produção Gráfica",
+          "topicos": [
+            "Fundamentos da linguagem e composição visual",
+            "Elementos gráficos, formas, cores e tipografia",
+            "Processos de criação e desenvolvimento de projetos"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de produção gráfica, explorando linguagem visual, composição e processos criativos para conceber e comunicar ideias por meio de soluções de design."
+        },
+        {
+          "nome": "Web Design",
+          "topicos": [
+            "Ferramentas e recursos digitais",
+            "Técnicas de criação e representação visual",
+            "Desenvolvimento de peças ou modelos digitais"
+          ],
+          "resumo": "A disciplina aborda técnicas e ferramentas de web design, capacitando o estudante a criar, editar e apresentar soluções visuais digitais para diferentes necessidades de comunicação e projeto."
+        },
+        {
+          "nome": "Meios de Representação Tridimensional",
+          "topicos": [
+            "Ferramentas e recursos digitais",
+            "Técnicas de criação e representação visual",
+            "Desenvolvimento de peças ou modelos digitais"
+          ],
+          "resumo": "A disciplina aborda técnicas e ferramentas de meios de representação tridimensional, capacitando o estudante a criar, editar e apresentar soluções visuais digitais para diferentes necessidades de comunicação e projeto."
+        },
+        {
+          "nome": "Modelagem Digital",
+          "topicos": [
+            "Ferramentas e recursos digitais",
+            "Técnicas de criação e representação visual",
+            "Desenvolvimento de peças ou modelos digitais"
+          ],
+          "resumo": "A disciplina aborda técnicas e ferramentas de modelagem digital, capacitando o estudante a criar, editar e apresentar soluções visuais digitais para diferentes necessidades de comunicação e projeto."
+        },
+        {
+          "nome": "Novas Tecnologias Aplicadas à Comunicação",
+          "topicos": [
+            "Conceitos e fundamentos da disciplina",
+            "Métodos, ferramentas e processos relacionados",
+            "Aplicações em projetos e na prática profissional"
+          ],
+          "resumo": "A disciplina apresenta os fundamentos de novas tecnologias aplicadas à comunicação, desenvolvendo conhecimentos e competências para aplicar conceitos e métodos em projetos e atividades profissionais de design."
+        },
+        {
+          "nome": "Projeto de Extensão II - Design",
+          "topicos": [
+            "Identificação de demandas e oportunidades na comunidade",
+            "Planejamento de soluções de design",
+            "Desenvolvimento e avaliação de projeto"
+          ],
+          "resumo": "A disciplina promove a aplicação de conhecimentos de design em ações extensionistas junto à comunidade. O estudante identifica necessidades, planeja soluções, desenvolve propostas e avalia os resultados."
+        },
+        {
+          "nome": "Pesquisa de Opinião Pública Aplicada ao Design",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda pesquisa de opinião pública aplicada ao design e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Projeto e Gestão do Design",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda projeto e gestão do design e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Gestão e Planejamento de Mídia",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda gestão e planejamento de mídia e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Logística e Gestão da Qualidade",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda logística e gestão da qualidade e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Fotografia Digital e Análise da Imagem",
+          "topicos": [
+            "Fundamentos de composição e linguagem visual",
+            "Técnicas de captação e tratamento de imagens",
+            "Leitura e análise de imagens"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de fotografia e linguagem imagética, abordando composição, técnicas de captação, tratamento e interpretação de imagens aplicadas a projetos de design."
+        },
+        {
+          "nome": "Marketing Digital",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda marketing digital e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Gestão de Pessoas",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda gestão de pessoas e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Design Sustentável",
+          "topicos": [
+            "Relação entre pessoas, objetos e ambientes",
+            "Conforto, usabilidade e funcionalidade",
+            "Critérios de sustentabilidade e impacto"
+          ],
+          "resumo": "A disciplina aborda design sustentável, considerando aspectos humanos, funcionais, ambientais e de usabilidade para orientar o desenvolvimento de soluções de design mais adequadas e responsáveis."
+        },
+        {
+          "nome": "Pesquisa em Comunicação e Comportamento do Consumidor",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda pesquisa em comunicação e comportamento do consumidor e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Projeto de Extensão III - Design",
+          "topicos": [
+            "Identificação de demandas e oportunidades na comunidade",
+            "Planejamento de soluções de design",
+            "Desenvolvimento e avaliação de projeto"
+          ],
+          "resumo": "A disciplina promove a aplicação de conhecimentos de design em ações extensionistas junto à comunidade. O estudante identifica necessidades, planeja soluções, desenvolve propostas e avalia os resultados."
+        },
+        {
+          "nome": "Design Editorial e de Informação",
+          "topicos": [
+            "Fundamentos da linguagem e composição visual",
+            "Elementos gráficos, formas, cores e tipografia",
+            "Processos de criação e desenvolvimento de projetos"
+          ],
+          "resumo": "A disciplina desenvolve conhecimentos de design editorial e de informação, explorando linguagem visual, composição e processos criativos para conceber e comunicar ideias por meio de soluções de design."
+        },
+        {
+          "nome": "Sistemas de Informação Gerencial",
+          "topicos": [
+            "Conceitos e estratégias de gestão ou pesquisa",
+            "Planejamento e organização de projetos",
+            "Análise de públicos, processos e resultados"
+          ],
+          "resumo": "A disciplina estuda sistemas de informação gerencial e suas aplicações no contexto do design, contemplando planejamento, análise de informações, organização de processos e tomada de decisões em projetos."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Contextos históricos e referências culturais",
+            "Movimentos, conceitos e repertório visual",
+            "Influências na produção contemporânea de design"
+          ],
+          "resumo": "A disciplina explora sociedade brasileira e cidadania, ampliando o repertório cultural e crítico do estudante e sua capacidade de compreender referências e tendências que influenciam a produção em design."
+        },
+        {
+          "nome": "Optativa III",
+          "topicos": [
+            "Aprofundamento em tema escolhido",
+            "Estudo de conceitos e ferramentas específicas",
+            "Aplicações em projetos de design"
+          ],
+          "resumo": "A disciplina permite aprofundar conhecimentos em um tema escolhido entre as opções curriculares disponibilizadas pela instituição, ampliando a formação em design."
+        },
+        {
+          "nome": "Atividades Complementares",
+          "topicos": [
+            "Participação em eventos, cursos e oficinas",
+            "Atividades culturais e acadêmicas",
+            "Registro e validação das experiências formativas"
+          ],
+          "resumo": "Reúne atividades acadêmicas, culturais e profissionais complementares à matriz curricular, contribuindo para ampliar repertório e competências do estudante, conforme os critérios institucionais."
+        }
+      ]
+    }
+  ]
+}

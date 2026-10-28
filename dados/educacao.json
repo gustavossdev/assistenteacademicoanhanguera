@@ -1,0 +1,830 @@
+{
+  "cursos": [
+    {
+      "nome": "Letras - Português e Inglês",
+      "duracao": "8 semestres (4 anos)",
+      "modalidade": "Presencial",
+      "tipo": "Bacharelado",
+      "descricao": "Curso de Bacharelado em Letras - Português e Inglês. A página oficial consultada confirma a oferta presencial e o catálogo institucional informa duração de 8 semestres. A matriz curricular detalhada específica deste bacharelado não estava disponível na página consultada; por isso, as disciplinas não foram preenchidas com a grade de Licenciatura, que é uma formação diferente.",
+      "materias": []
+    },
+    {
+      "nome": "Psicopedagogia",
+      "duracao": "8 semestres (4 anos)",
+      "modalidade": "Semipresencial",
+      "tipo": "Bacharelado",
+      "descricao": "Forma profissionais para compreender os processos de ensino e aprendizagem, identificar dificuldades e planejar estratégias de avaliação e intervenção psicopedagógica em contextos clínicos, institucionais e educacionais.",
+      "materias": [
+        {
+          "nome": "Corpo e Movimento",
+          "topicos": [
+            "Desenvolvimento motor ao longo da vida",
+            "Esquema corporal e consciência corporal",
+            "Relação entre movimento, aprendizagem e desenvolvimento",
+            "Atividades corporais no contexto educativo"
+          ],
+          "resumo": "Estuda as relações entre corpo, movimento e desenvolvimento humano, considerando sua influência nos processos de aprendizagem."
+        },
+        {
+          "nome": "Educação e Diversidade",
+          "topicos": [
+            "Diversidade cultural e social",
+            "Diferenças individuais e inclusão",
+            "Respeito aos direitos e à pluralidade",
+            "Práticas educativas inclusivas"
+          ],
+          "resumo": "Discute a diversidade presente nos espaços educacionais e estratégias para promover respeito, participação e equidade."
+        },
+        {
+          "nome": "Educação Inclusiva",
+          "topicos": [
+            "Fundamentos da educação inclusiva",
+            "Barreiras à aprendizagem e à participação",
+            "Adaptações e recursos pedagógicos",
+            "Acessibilidade e atendimento às necessidades educacionais"
+          ],
+          "resumo": "Apresenta princípios e práticas para garantir o acesso, a participação e a aprendizagem de estudantes com diferentes necessidades."
+        },
+        {
+          "nome": "LIBRAS - Língua Brasileira de Sinais",
+          "topicos": [
+            "História e aspectos culturais da comunidade surda",
+            "Parâmetros linguísticos da LIBRAS",
+            "Vocabulário e estruturas básicas",
+            "Comunicação e acessibilidade"
+          ],
+          "resumo": "Introduz a Língua Brasileira de Sinais e sua importância para a comunicação, inclusão e acessibilidade."
+        },
+        {
+          "nome": "Psicologia da Educação e da Aprendizagem",
+          "topicos": [
+            "Teorias psicológicas da aprendizagem",
+            "Desenvolvimento cognitivo e socioemocional",
+            "Motivação e relações interpessoais",
+            "Aplicações da psicologia nos contextos educativos"
+          ],
+          "resumo": "Estuda teorias psicológicas e processos de desenvolvimento e aprendizagem, relacionando-os às práticas educacionais."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Formação social e cultural brasileira",
+            "Direitos humanos e cidadania",
+            "Desigualdades e relações sociais",
+            "Ética e participação social"
+          ],
+          "resumo": "Analisa a sociedade brasileira, seus desafios e a importância da cidadania, da ética e dos direitos humanos."
+        },
+        {
+          "nome": "Adolescência e Juventude no Século XXI",
+          "topicos": [
+            "Conceitos de adolescência e juventude",
+            "Desenvolvimento físico, cognitivo e social",
+            "Identidade, cultura e relações sociais",
+            "Desafios contemporâneos e educação"
+          ],
+          "resumo": "Aborda as transformações e experiências da adolescência e juventude, considerando os contextos sociais, culturais e educacionais."
+        },
+        {
+          "nome": "Aprendizagem da Matemática",
+          "topicos": [
+            "Construção do pensamento lógico-matemático",
+            "Noções de número, operações e resolução de problemas",
+            "Dificuldades no aprendizado matemático",
+            "Estratégias e recursos de intervenção"
+          ],
+          "resumo": "Explora como se desenvolvem os conhecimentos matemáticos e como identificar dificuldades e apoiar a aprendizagem."
+        },
+        {
+          "nome": "Aprendizagem Motora e Psicomotricidade",
+          "topicos": [
+            "Desenvolvimento motor e psicomotor",
+            "Coordenação, equilíbrio e lateralidade",
+            "Esquema corporal e orientação espacial",
+            "Relações entre motricidade e aprendizagem"
+          ],
+          "resumo": "Estuda o desenvolvimento das habilidades motoras e psicomotoras e suas relações com os processos cognitivos e de aprendizagem."
+        },
+        {
+          "nome": "Letramentos e Alfabetização",
+          "topicos": [
+            "Conceitos de alfabetização e letramento",
+            "Sistema de escrita alfabética",
+            "Consciência fonológica e práticas de leitura",
+            "Produção textual e contextos sociais de uso da escrita"
+          ],
+          "resumo": "Apresenta processos de aquisição da leitura e da escrita e práticas de letramento em diferentes contextos."
+        },
+        {
+          "nome": "O Brincar e a Psicopedagogia",
+          "topicos": [
+            "Brincadeira e desenvolvimento infantil",
+            "Jogo simbólico e expressão",
+            "Observação do brincar",
+            "Uso de jogos em avaliação e intervenção"
+          ],
+          "resumo": "Discute o brincar como linguagem e recurso para compreender o desenvolvimento e favorecer a aprendizagem."
+        },
+        {
+          "nome": "Pensamento Científico",
+          "topicos": [
+            "Conhecimento científico e senso comum",
+            "Métodos de investigação",
+            "Leitura crítica de fontes",
+            "Ética na pesquisa e produção acadêmica"
+          ],
+          "resumo": "Desenvolve competências de investigação, análise crítica e construção do conhecimento científico."
+        },
+        {
+          "nome": "A Produção do Fracasso Escolar",
+          "topicos": [
+            "Concepções de fracasso escolar",
+            "Fatores sociais, institucionais e pedagógicos",
+            "Desigualdade e exclusão educacional",
+            "Prevenção e ações de enfrentamento"
+          ],
+          "resumo": "Analisa fatores que contribuem para dificuldades e insucesso escolar, considerando responsabilidades individuais, sociais e institucionais."
+        },
+        {
+          "nome": "Aquisição e Desenvolvimento da Linguagem",
+          "topicos": [
+            "Etapas do desenvolvimento da linguagem",
+            "Linguagem oral e escrita",
+            "Aspectos cognitivos e sociais da comunicação",
+            "Alterações e dificuldades no desenvolvimento linguístico"
+          ],
+          "resumo": "Estuda a aquisição e o desenvolvimento da linguagem e sua relação com a comunicação e a aprendizagem."
+        },
+        {
+          "nome": "Fundamentos da Psicopedagogia",
+          "topicos": [
+            "História e campos de atuação da psicopedagogia",
+            "Concepções de aprendizagem",
+            "Sujeito e modalidades de aprendizagem",
+            "Ética e atuação profissional"
+          ],
+          "resumo": "Apresenta os conceitos, fundamentos e campos de atuação da psicopedagogia, com foco na compreensão dos processos de aprendizagem."
+        },
+        {
+          "nome": "Processos Psicológicos Básicos",
+          "topicos": [
+            "Sensação e percepção",
+            "Atenção e memória",
+            "Pensamento, linguagem e inteligência",
+            "Emoção e motivação"
+          ],
+          "resumo": "Estuda processos psicológicos fundamentais envolvidos na interpretação do ambiente, no comportamento e na aprendizagem."
+        },
+        {
+          "nome": "Projeto de Extensão I - Psicopedagogia",
+          "topicos": [
+            "Identificação de necessidades da comunidade",
+            "Planejamento de ação extensionista",
+            "Aplicação de conhecimentos psicopedagógicos",
+            "Registro e avaliação dos resultados"
+          ],
+          "resumo": "Atividade prática que articula conhecimentos do curso a uma ação voltada a uma necessidade identificada na comunidade."
+        },
+        {
+          "nome": "Transtornos Neurológicos, Psicopatologia e a Aprendizagem",
+          "topicos": [
+            "Noções de neurodesenvolvimento",
+            "Condições neurológicas e aspectos psicopatológicos",
+            "Impactos no comportamento e na aprendizagem",
+            "Identificação de sinais e encaminhamento responsável"
+          ],
+          "resumo": "Apresenta condições neurológicas e aspectos psicopatológicos que podem influenciar o desenvolvimento e a aprendizagem, respeitando os limites de atuação profissional."
+        },
+        {
+          "nome": "Avaliação Psicopedagógica",
+          "topicos": [
+            "Etapas do processo avaliativo",
+            "Entrevistas e observação",
+            "Instrumentos e procedimentos de avaliação",
+            "Análise de informações e elaboração de hipóteses"
+          ],
+          "resumo": "Estuda procedimentos de avaliação psicopedagógica para compreender dificuldades e potencialidades nos processos de aprendizagem."
+        },
+        {
+          "nome": "Dificuldades e Transtornos da Aprendizagem",
+          "topicos": [
+            "Dificuldades escolares e fatores associados",
+            "Transtornos específicos da aprendizagem",
+            "Sinais e manifestações",
+            "Estratégias de apoio e encaminhamento"
+          ],
+          "resumo": "Diferencia dificuldades e transtornos de aprendizagem e apresenta possibilidades de apoio e encaminhamento adequado."
+        },
+        {
+          "nome": "Neuroanatomofisiologia",
+          "topicos": [
+            "Organização do sistema nervoso",
+            "Estruturas e funções cerebrais",
+            "Neurônios e comunicação neural",
+            "Relações entre cérebro, cognição e comportamento"
+          ],
+          "resumo": "Estuda a estrutura e o funcionamento do sistema nervoso e suas relações com funções cognitivas e comportamentais."
+        },
+        {
+          "nome": "Práticas Educativas em Espaços Não Escolares",
+          "topicos": [
+            "Educação em instituições e espaços comunitários",
+            "Educação não formal e informal",
+            "Planejamento de ações educativas",
+            "Atuação interdisciplinar e inclusão"
+          ],
+          "resumo": "Aborda práticas educativas desenvolvidas fora da escola, em instituições, organizações e espaços comunitários."
+        },
+        {
+          "nome": "Projeto de Extensão II - Psicopedagogia",
+          "topicos": [
+            "Diagnóstico de demanda comunitária",
+            "Planejamento de intervenção extensionista",
+            "Desenvolvimento de atividades educativas",
+            "Avaliação e comunicação dos resultados"
+          ],
+          "resumo": "Atividade extensionista que amplia a aplicação dos conhecimentos psicopedagógicos em situações reais da comunidade."
+        },
+        {
+          "nome": "Teorias e Técnicas de Diagnóstico em Psicopedagogia",
+          "topicos": [
+            "Modelos de diagnóstico psicopedagógico",
+            "Entrevista e observação",
+            "Análise de produções e atividades",
+            "Formulação de hipóteses e devolutiva"
+          ],
+          "resumo": "Apresenta teorias e técnicas utilizadas para investigar fatores relacionados às dificuldades e aos modos de aprender."
+        },
+        {
+          "nome": "Consultoria e Assessoria Psicopedagógica",
+          "topicos": [
+            "Consultoria em instituições educacionais",
+            "Análise de demandas e processos de aprendizagem",
+            "Orientação a equipes e famílias",
+            "Planejamento e avaliação de ações"
+          ],
+          "resumo": "Discute a atuação consultiva do psicopedagogo junto a instituições, equipes e famílias para apoiar processos de aprendizagem."
+        },
+        {
+          "nome": "Estágio I: O Fenômeno Escolar",
+          "topicos": [
+            "Observação do cotidiano escolar",
+            "Identificação de fatores que influenciam a aprendizagem",
+            "Registro e análise de situações",
+            "Ética e postura profissional"
+          ],
+          "resumo": "Proporciona vivência supervisionada no contexto escolar, com observação e análise de situações relacionadas à aprendizagem."
+        },
+        {
+          "nome": "Formação Integral em Saúde",
+          "topicos": [
+            "Conceito ampliado de saúde",
+            "Determinantes sociais da saúde",
+            "Promoção e prevenção",
+            "Cuidado integral e trabalho interdisciplinar"
+          ],
+          "resumo": "Aborda a saúde de forma integral, considerando dimensões físicas, psicológicas e sociais e sua relação com a educação."
+        },
+        {
+          "nome": "Processos de Intervenção Psicopedagógica",
+          "topicos": [
+            "Planejamento de intervenções",
+            "Estratégias individuais e coletivas",
+            "Acompanhamento da aprendizagem",
+            "Avaliação dos resultados e replanejamento"
+          ],
+          "resumo": "Estuda estratégias de intervenção para apoiar o desenvolvimento e superar barreiras nos processos de aprendizagem."
+        },
+        {
+          "nome": "Psicopedagogia Clínica",
+          "topicos": [
+            "Contexto e fundamentos da prática clínica",
+            "Entrevista e avaliação do aprendente",
+            "Planejamento de atendimento",
+            "Intervenção, acompanhamento e orientação familiar"
+          ],
+          "resumo": "Apresenta fundamentos da atuação psicopedagógica clínica na avaliação e no acompanhamento de pessoas com dificuldades de aprendizagem."
+        },
+        {
+          "nome": "Psicopedagogia Institucional",
+          "topicos": [
+            "Aprendizagem nas organizações e instituições",
+            "Análise institucional",
+            "Prevenção de dificuldades de aprendizagem",
+            "Projetos e ações institucionais"
+          ],
+          "resumo": "Estuda a atuação psicopedagógica em instituições, com foco na prevenção, análise de dificuldades e promoção de ambientes favoráveis à aprendizagem."
+        },
+        {
+          "nome": "Aspectos Biopsicossociais do Envelhecimento",
+          "topicos": [
+            "Processo de envelhecimento",
+            "Mudanças físicas e cognitivas",
+            "Aspectos emocionais e sociais",
+            "Aprendizagem ao longo da vida"
+          ],
+          "resumo": "Analisa o envelhecimento em suas dimensões biológicas, psicológicas e sociais, considerando a aprendizagem ao longo da vida."
+        },
+        {
+          "nome": "Empreendedorismo e Inovação",
+          "topicos": [
+            "Identificação de oportunidades",
+            "Modelos de negócio e planejamento",
+            "Criatividade e inovação",
+            "Gestão de projetos e avaliação de resultados"
+          ],
+          "resumo": "Apresenta conceitos de empreendedorismo e inovação aplicáveis à criação e gestão de projetos e serviços."
+        },
+        {
+          "nome": "Estágio II: Intervenções Psicopedagógicas",
+          "topicos": [
+            "Planejamento de ações de intervenção",
+            "Aplicação de estratégias sob supervisão",
+            "Registro e acompanhamento dos casos",
+            "Reflexão ética sobre a prática"
+          ],
+          "resumo": "Aprofunda a experiência prática por meio de intervenções psicopedagógicas supervisionadas e análise de seus resultados."
+        },
+        {
+          "nome": "Ludicidade e Educação",
+          "topicos": [
+            "Fundamentos da ludicidade",
+            "Jogos, brinquedos e brincadeiras",
+            "Aprendizagem por meio de experiências lúdicas",
+            "Planejamento de atividades lúdico-pedagógicas"
+          ],
+          "resumo": "Estuda o papel das experiências lúdicas no desenvolvimento e na aprendizagem em diferentes contextos educativos."
+        },
+        {
+          "nome": "Projeto de Extensão III - Psicopedagogia",
+          "topicos": [
+            "Levantamento de necessidades locais",
+            "Elaboração de projeto de intervenção",
+            "Execução de atividade com a comunidade",
+            "Avaliação e socialização dos resultados"
+          ],
+          "resumo": "Atividade extensionista de integração entre formação psicopedagógica e demandas concretas da comunidade."
+        },
+        {
+          "nome": "Psicofarmacologia",
+          "topicos": [
+            "Conceitos básicos de farmacologia",
+            "Classes de medicamentos que atuam no sistema nervoso",
+            "Efeitos terapêuticos e adversos",
+            "Impactos possíveis no comportamento e na aprendizagem"
+          ],
+          "resumo": "Apresenta noções sobre medicamentos que atuam no sistema nervoso e seus possíveis efeitos, sem substituir a avaliação dos profissionais de saúde."
+        },
+        {
+          "nome": "Responsabilidade Social e Ambiental",
+          "topicos": [
+            "Responsabilidade social e cidadania",
+            "Sustentabilidade e meio ambiente",
+            "Ética e direitos humanos",
+            "Práticas responsáveis nas organizações"
+          ],
+          "resumo": "Discute responsabilidade social, sustentabilidade e ética nas relações entre indivíduos, instituições e sociedade."
+        },
+        {
+          "nome": "Atividades Complementares",
+          "topicos": [
+            "Participação em eventos e atividades acadêmicas",
+            "Cursos, palestras e oficinas",
+            "Atividades culturais e científicas",
+            "Registro e comprovação das experiências"
+          ],
+          "resumo": "Reúne experiências acadêmicas e culturais complementares à formação, ampliando repertório e desenvolvimento profissional."
+        }
+      ]
+    },
+    {
+      "nome": "Teologia",
+      "duracao": "8 semestres (4 anos)",
+      "modalidade": "EAD",
+      "tipo": "Bacharelado",
+      "descricao": "Estuda tradições religiosas, textos sagrados, história, filosofia e fundamentos teológicos, desenvolvendo capacidade de interpretação, reflexão ética, diálogo inter-religioso e compreensão do papel da religião na sociedade.",
+      "materias": [
+        {
+          "nome": "Psicologia da Religião",
+          "topicos": [
+            "Experiência e comportamento religioso",
+            "Religiosidade e desenvolvimento humano",
+            "Crenças, emoções e práticas",
+            "Religião, identidade e saúde psicológica"
+          ],
+          "resumo": "Investiga fenômenos religiosos a partir de conceitos da psicologia, considerando crenças, experiências e comportamentos."
+        },
+        {
+          "nome": "Fundamentos Antropológicos e Sociológicos",
+          "topicos": [
+            "Conceitos de cultura e sociedade",
+            "Instituições e relações sociais",
+            "Diversidade cultural",
+            "Religião como fenômeno social"
+          ],
+          "resumo": "Apresenta conceitos da antropologia e da sociologia para compreender culturas, sociedades e práticas religiosas."
+        },
+        {
+          "nome": "Direitos Humanos",
+          "topicos": [
+            "Fundamentos históricos dos direitos humanos",
+            "Dignidade e igualdade",
+            "Liberdade de consciência e religião",
+            "Direitos, cidadania e diversidade"
+          ],
+          "resumo": "Estuda princípios dos direitos humanos e sua aplicação na promoção da dignidade, da liberdade e do respeito à diversidade."
+        },
+        {
+          "nome": "Sociedade Brasileira e Cidadania",
+          "topicos": [
+            "Formação social brasileira",
+            "Cidadania e participação",
+            "Desigualdades e diversidade",
+            "Ética e responsabilidade social"
+          ],
+          "resumo": "Analisa a sociedade brasileira e os desafios da cidadania, da ética e da convivência democrática."
+        },
+        {
+          "nome": "Responsabilidade Social e Ambiental",
+          "topicos": [
+            "Responsabilidade social",
+            "Sustentabilidade ambiental",
+            "Ética e cidadania",
+            "Ações comunitárias e institucionais"
+          ],
+          "resumo": "Discute práticas socialmente responsáveis e sustentáveis em instituições e comunidades."
+        },
+        {
+          "nome": "Antropologia da Religião I",
+          "topicos": [
+            "Conceitos de sagrado e religião",
+            "Ritos, mitos e símbolos",
+            "Religião e organização cultural",
+            "Métodos de estudo antropológico"
+          ],
+          "resumo": "Estuda manifestações religiosas como fenômenos culturais, analisando símbolos, rituais e formas de organização."
+        },
+        {
+          "nome": "História das Religiões no Brasil",
+          "topicos": [
+            "Matrizes religiosas presentes no Brasil",
+            "Colonização e formação religiosa",
+            "Pluralidade e sincretismo",
+            "Religião e sociedade brasileira contemporânea"
+          ],
+          "resumo": "Analisa a formação histórica e a diversidade das tradições religiosas no Brasil."
+        },
+        {
+          "nome": "Introdução à Teologia",
+          "topicos": [
+            "Conceito e objeto da teologia",
+            "Fontes e métodos teológicos",
+            "Relações entre fé e razão",
+            "Teologia e sociedade"
+          ],
+          "resumo": "Apresenta os fundamentos, métodos e campos de estudo da teologia e suas relações com a sociedade."
+        },
+        {
+          "nome": "Introdução à Bíblia",
+          "topicos": [
+            "Formação e organização dos textos bíblicos",
+            "Gêneros literários",
+            "Contextos históricos e culturais",
+            "Princípios introdutórios de interpretação"
+          ],
+          "resumo": "Introduz a composição, a organização e a leitura dos textos bíblicos em seus contextos históricos e literários."
+        },
+        {
+          "nome": "História e Tradição Hebraica",
+          "topicos": [
+            "Origens e história do povo hebreu",
+            "Tradições e textos fundamentais",
+            "Instituições e práticas religiosas",
+            "Contexto do antigo Oriente Próximo"
+          ],
+          "resumo": "Estuda a história e as tradições do povo hebreu e sua importância para a compreensão das religiões e dos textos bíblicos."
+        },
+        {
+          "nome": "Introdução à Filosofia",
+          "topicos": [
+            "Origem e desenvolvimento da filosofia",
+            "Principais problemas filosóficos",
+            "Ética, conhecimento e realidade",
+            "Pensamento filosófico e religião"
+          ],
+          "resumo": "Apresenta conceitos e correntes filosóficas que contribuem para a reflexão crítica sobre conhecimento, ética e religião."
+        },
+        {
+          "nome": "Religiões no Mundo Mediterrâneo e as Origens do Cristianismo",
+          "topicos": [
+            "Contexto histórico do Mediterrâneo antigo",
+            "Tradições religiosas judaicas e greco-romanas",
+            "Contexto político e cultural do cristianismo nascente",
+            "Fontes históricas e movimentos religiosos"
+          ],
+          "resumo": "Analisa o ambiente religioso, político e cultural do mundo mediterrâneo no qual surgiu o cristianismo."
+        },
+        {
+          "nome": "Religiões de Matriz Africana: Um Panorama",
+          "topicos": [
+            "Origens e diversidade das tradições africanas",
+            "Cosmovisões, divindades e ancestralidade",
+            "Religiões afro-brasileiras",
+            "Preconceito religioso e direitos culturais"
+          ],
+          "resumo": "Apresenta a diversidade das religiões de matriz africana e sua presença histórica e cultural no Brasil."
+        },
+        {
+          "nome": "Teologia do Antigo Testamento",
+          "topicos": [
+            "Contexto histórico do Antigo Testamento",
+            "Temas teológicos centrais",
+            "Alianças, lei e profecia",
+            "Gêneros e interpretação dos textos"
+          ],
+          "resumo": "Estuda temas, contextos e tradições teológicas presentes nos livros do Antigo Testamento."
+        },
+        {
+          "nome": "Projeto de Extensão I - Teologia",
+          "topicos": [
+            "Identificação de demandas comunitárias",
+            "Planejamento de ação extensionista",
+            "Diálogo entre teologia e realidade social",
+            "Avaliação e registro dos resultados"
+          ],
+          "resumo": "Atividade extensionista que aplica conhecimentos teológicos em ações de diálogo e contribuição social junto à comunidade."
+        },
+        {
+          "nome": "Antropologia da Religião II",
+          "topicos": [
+            "Teorias antropológicas da religião",
+            "Ritos e experiências religiosas",
+            "Religião, poder e identidade",
+            "Transformações das práticas religiosas"
+          ],
+          "resumo": "Aprofunda a análise antropológica das religiões, considerando suas práticas, significados e relações sociais."
+        },
+        {
+          "nome": "Filosofia da Religião",
+          "topicos": [
+            "Conceitos de fé e razão",
+            "Argumentos sobre a existência de Deus",
+            "Problema do mal e sentido da vida",
+            "Religião, verdade e experiência"
+          ],
+          "resumo": "Examina questões filosóficas relacionadas à religião, à fé, à razão e à experiência humana."
+        },
+        {
+          "nome": "Prática e Produção de Textos",
+          "topicos": [
+            "Leitura e interpretação",
+            "Coesão e coerência",
+            "Gêneros acadêmicos",
+            "Produção, revisão e argumentação"
+          ],
+          "resumo": "Desenvolve habilidades de leitura, escrita e produção de textos acadêmicos e profissionais."
+        },
+        {
+          "nome": "Teologia Medieval: O Islamismo",
+          "topicos": [
+            "Origens e expansão do islamismo",
+            "Textos e tradições islâmicas",
+            "Pensamento teológico medieval",
+            "Relações históricas entre religiões"
+          ],
+          "resumo": "Estuda aspectos históricos e teológicos do islamismo na Idade Média e suas relações com outras tradições."
+        },
+        {
+          "nome": "Optativa",
+          "topicos": [
+            "Conteúdo conforme a disciplina escolhida",
+            "Aprofundamento em área complementar",
+            "Leitura e análise de referências",
+            "Aplicação dos conhecimentos"
+          ],
+          "resumo": "Componente de escolha do estudante para complementar sua formação conforme as opções disponibilizadas pela instituição."
+        },
+        {
+          "nome": "Religiões Ameríndias",
+          "topicos": [
+            "Diversidade dos povos indígenas",
+            "Cosmologias e narrativas tradicionais",
+            "Rituais e relações com a natureza",
+            "Religião, território e identidade"
+          ],
+          "resumo": "Apresenta a diversidade das tradições religiosas indígenas das Américas, respeitando seus contextos culturais."
+        },
+        {
+          "nome": "História da Filosofia Medieval",
+          "topicos": [
+            "Filosofia na Antiguidade tardia e Idade Média",
+            "Pensamento cristão, judaico e islâmico",
+            "Fé e razão",
+            "Autores e correntes medievais"
+          ],
+          "resumo": "Percorre correntes e autores da filosofia medieval e suas contribuições para o pensamento teológico."
+        },
+        {
+          "nome": "Teologia do Novo Testamento",
+          "topicos": [
+            "Contexto histórico do Novo Testamento",
+            "Vida e mensagem de Jesus",
+            "Comunidades cristãs primitivas",
+            "Temas teológicos dos escritos neotestamentários"
+          ],
+          "resumo": "Analisa os principais temas teológicos e contextos históricos dos livros do Novo Testamento."
+        },
+        {
+          "nome": "Teologia Moderna: Reformas e Cristianismo na Modernidade",
+          "topicos": [
+            "Reformas religiosas europeias",
+            "Movimentos e tradições cristãs",
+            "Modernidade e pensamento religioso",
+            "Transformações institucionais e doutrinárias"
+          ],
+          "resumo": "Estuda as reformas cristãs e as mudanças religiosas, culturais e intelectuais da modernidade."
+        },
+        {
+          "nome": "Projeto de Extensão II - Teologia",
+          "topicos": [
+            "Diagnóstico de realidade social",
+            "Planejamento de ação comunitária",
+            "Execução de atividade extensionista",
+            "Avaliação e comunicação dos resultados"
+          ],
+          "resumo": "Promove a aplicação dos conhecimentos teológicos em projetos de interação e contribuição com a comunidade."
+        },
+        {
+          "nome": "Metodologia Científica",
+          "topicos": [
+            "Conhecimento científico e pesquisa",
+            "Problema, objetivos e hipóteses",
+            "Métodos e técnicas de investigação",
+            "Normas de escrita e referências"
+          ],
+          "resumo": "Apresenta métodos e procedimentos para elaborar pesquisas e trabalhos acadêmicos com rigor e ética."
+        },
+        {
+          "nome": "Teoria do Conhecimento",
+          "topicos": [
+            "Natureza e possibilidades do conhecimento",
+            "Verdade, crença e justificação",
+            "Racionalismo e empirismo",
+            "Conhecimento, ciência e religião"
+          ],
+          "resumo": "Investiga fundamentos, limites e formas de produção do conhecimento em diferentes tradições filosóficas."
+        },
+        {
+          "nome": "Teologia Medieval: O Cristianismo e a Igreja Católica",
+          "topicos": [
+            "Desenvolvimento histórico do cristianismo medieval",
+            "Instituições e pensamento da Igreja",
+            "Teologia e filosofia escolástica",
+            "Práticas religiosas e transformações sociais"
+          ],
+          "resumo": "Analisa a história e o pensamento teológico do cristianismo medieval, com atenção à formação institucional da Igreja Católica."
+        },
+        {
+          "nome": "Teologia Sistemática I",
+          "topicos": [
+            "Fontes e organização da teologia sistemática",
+            "Doutrinas fundamentais",
+            "Concepções sobre Deus e criação",
+            "Relações entre tradição e interpretação"
+          ],
+          "resumo": "Introduz a organização sistemática de temas e doutrinas teológicas e suas bases interpretativas."
+        },
+        {
+          "nome": "Estágio Supervisionado em Teologia I",
+          "topicos": [
+            "Observação do campo de atuação",
+            "Conhecimento da instituição e do público",
+            "Registro e reflexão sobre práticas",
+            "Ética e responsabilidade profissional"
+          ],
+          "resumo": "Proporciona observação supervisionada de práticas relacionadas à área teológica em contextos institucionais ou comunitários."
+        },
+        {
+          "nome": "Teologias Contemporâneas",
+          "topicos": [
+            "Correntes teológicas contemporâneas",
+            "Teologia e questões sociais",
+            "Pluralismo e diálogo inter-religioso",
+            "Desafios éticos e culturais atuais"
+          ],
+          "resumo": "Apresenta correntes teológicas contemporâneas e suas respostas a questões sociais, culturais e éticas."
+        },
+        {
+          "nome": "Hermenêutica e Grego Bíblico",
+          "topicos": [
+            "Princípios de interpretação bíblica",
+            "Contexto histórico e literário",
+            "Noções de alfabeto e gramática do grego",
+            "Análise de termos e textos do Novo Testamento"
+          ],
+          "resumo": "Estuda métodos de interpretação bíblica e noções de língua grega para apoiar a leitura contextual dos textos neotestamentários."
+        },
+        {
+          "nome": "Projeto de Extensão III - Teologia",
+          "topicos": [
+            "Identificação de tema de interesse comunitário",
+            "Planejamento e execução de ação",
+            "Diálogo e participação social",
+            "Avaliação dos impactos e resultados"
+          ],
+          "resumo": "Atividade extensionista que integra conhecimentos teológicos e participação comunitária em uma ação prática."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso I - Teologia",
+          "topicos": [
+            "Delimitação do tema e problema",
+            "Revisão bibliográfica",
+            "Definição de metodologia",
+            "Projeto de pesquisa e cronograma"
+          ],
+          "resumo": "Orienta a elaboração do projeto de pesquisa que fundamentará o trabalho de conclusão de curso em teologia."
+        },
+        {
+          "nome": "Estágio Supervisionado em Teologia II",
+          "topicos": [
+            "Participação supervisionada em atividades",
+            "Planejamento e desenvolvimento de ações",
+            "Análise crítica da experiência",
+            "Relatório de estágio"
+          ],
+          "resumo": "Aprofunda a experiência prática supervisionada em contextos de atuação teológica, com planejamento e reflexão sobre as atividades."
+        },
+        {
+          "nome": "Ecumenismo e Fundamentalismo no Mundo Contemporâneo",
+          "topicos": [
+            "História do movimento ecumênico",
+            "Diálogo entre tradições cristãs",
+            "Fundamentalismos religiosos",
+            "Pluralismo, tolerância e conflitos"
+          ],
+          "resumo": "Analisa iniciativas de diálogo e cooperação religiosa e os desafios associados ao fundamentalismo no mundo contemporâneo."
+        },
+        {
+          "nome": "Religiões de Matriz Africana II: Religiões Afro-Brasileiras",
+          "topicos": [
+            "Formação histórica das religiões afro-brasileiras",
+            "Tradições, ritos e comunidades",
+            "Diversidade e identidade cultural",
+            "Intolerância religiosa e reconhecimento de direitos"
+          ],
+          "resumo": "Aprofunda o estudo das religiões afro-brasileiras, suas tradições, história e importância cultural."
+        },
+        {
+          "nome": "Religião e Ação Comunitária",
+          "topicos": [
+            "Religião e transformação social",
+            "Organização e mobilização comunitária",
+            "Projetos sociais e solidariedade",
+            "Ética, cidadania e inclusão"
+          ],
+          "resumo": "Discute como comunidades religiosas podem desenvolver ações sociais, solidárias e inclusivas."
+        },
+        {
+          "nome": "Teologia Sistemática II",
+          "topicos": [
+            "Aprofundamento de doutrinas teológicas",
+            "Cristologia e pneumatologia",
+            "Eclesiologia e escatologia",
+            "Diálogo entre sistemas teológicos"
+          ],
+          "resumo": "Aprofunda temas da teologia sistemática e suas relações com tradições e interpretações teológicas."
+        },
+        {
+          "nome": "Trabalho de Conclusão de Curso II - Teologia",
+          "topicos": [
+            "Desenvolvimento da pesquisa",
+            "Análise e discussão dos resultados",
+            "Redação acadêmica e normalização",
+            "Apresentação e defesa do trabalho"
+          ],
+          "resumo": "Consolida a pesquisa iniciada no projeto de TCC, com análise dos resultados, redação e apresentação do trabalho final."
+        },
+        {
+          "nome": "Estágio Supervisionado em Teologia III",
+          "topicos": [
+            "Atuação prática supervisionada",
+            "Planejamento e execução de atividades",
+            "Avaliação da prática profissional",
+            "Relatório e reflexão final"
+          ],
+          "resumo": "Conclui a formação prática supervisionada, integrando conhecimentos teológicos e experiência em campo."
+        },
+        {
+          "nome": "Atividades Complementares Obrigatórias (ACO)",
+          "topicos": [
+            "Participação em eventos acadêmicos",
+            "Cursos, palestras e atividades culturais",
+            "Leituras e atividades de pesquisa",
+            "Registro e comprovação das atividades"
+          ],
+          "resumo": "Reúne atividades acadêmicas e culturais complementares que ampliam a formação do estudante."
+        }
+      ]
+    }
+  ]
+}

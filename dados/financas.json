@@ -1,0 +1,413 @@
+{
+  "cursos": [
+    {
+      "nome": "Ciências Contábeis",
+      "duracao": "4 anos (8 semestres)",
+      "modalidade": "EAD Online",
+      "tipo": "Bacharelado",
+      "descricao": "O curso de Ciências Contábeis prepara profissionais para registrar, analisar e interpretar informações patrimoniais, financeiras e econômicas de organizações. A formação contempla contabilidade societária e gerencial, tributos, auditoria, perícia, controladoria, finanças e sistemas contábeis.",
+      "materias": [
+        {
+          "nome": "Administração da Tecnologia da Informação",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda administração da tecnologia da informação, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Administração Financeira",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda administração financeira, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Análise e Disclousure das Demonstr. Financeiras",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda análise e disclousure das demonstr. financeiras, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Avaliação de Empresas",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda avaliação de empresas, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Compliance em CPC e IFRS",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda compliance em cpc e ifrs, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Comportamento Organizacional",
+          "topicos": [
+            "Comportamento individual e em grupo",
+            "Cultura e clima organizacional",
+            "Liderança, motivação e comunicação",
+            "Conflitos e desempenho nas organizações"
+          ],
+          "resumo": "Aborda comportamento organizacional, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Comunicação Empresarial",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda comunicação empresarial, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Consultoria e Gestão Contábil do Meio Ambiente",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda consultoria e gestão contábil do meio ambiente, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Contabilidade Avançada",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda contabilidade avançada, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Contabilidade Empresarial e Estratégica em Tributos",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda contabilidade empresarial e estratégica em tributos, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Contabilidade Gerencial / Management Accounting",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda contabilidade gerencial / management accounting, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Contabilidade Intermediária e Societária",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda contabilidade intermediária e societária, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Contabilidade Organizacional",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda contabilidade organizacional, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Direito Tributário",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda direito tributário, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Governança e Contabilidade aplicadas ao Setor Público",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda governança e contabilidade aplicadas ao setor público, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Legislação para Negócios",
+          "topicos": [
+            "Fontes e fundamentos da legislação aplicável",
+            "Direitos, deveres e responsabilidades",
+            "Normas e procedimentos legais",
+            "Aplicação da legislação em situações práticas"
+          ],
+          "resumo": "Aborda legislação para negócios, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Macroeconomia",
+          "topicos": [
+            "Conceitos e indicadores econômicos",
+            "Oferta, demanda e funcionamento dos mercados",
+            "Políticas econômicas e seus efeitos",
+            "Relação entre economia e decisões organizacionais"
+          ],
+          "resumo": "Aborda macroeconomia, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Matemática para Negócios",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda matemática para negócios, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Mercado de Capitais e Investimentos",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda mercado de capitais e investimentos, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Metodologia Científica",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda metodologia científica, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Métodos Quantitativos e Estatística",
+          "topicos": [
+            "Organização e descrição de dados",
+            "Medidas estatísticas e análise quantitativa",
+            "Probabilidade e interpretação de resultados",
+            "Aplicação de métodos quantitativos à decisão"
+          ],
+          "resumo": "Aborda métodos quantitativos e estatística, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Microeconomia aplicada aos negócios",
+          "topicos": [
+            "Conceitos e indicadores econômicos",
+            "Oferta, demanda e funcionamento dos mercados",
+            "Políticas econômicas e seus efeitos",
+            "Relação entre economia e decisões organizacionais"
+          ],
+          "resumo": "Aborda microeconomia aplicada aos negócios, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Novos Modelos de Negócios",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda novos modelos de negócios, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Optativa",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Permite aprofundar conhecimentos em tema complementar à formação em ciências contábeis, conforme a opção curricular disponibilizada pela instituição."
+        },
+        {
+          "nome": "Optativa",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Permite aprofundar conhecimentos em tema complementar à formação em ciências contábeis, conforme a opção curricular disponibilizada pela instituição."
+        },
+        {
+          "nome": "Práticas de Perícia e Atuária",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda práticas de perícia e atuária, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Simulação Gerencial e Contábil",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda simulação gerencial e contábil, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Sistemas de Controle e Contabilidade Digital",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda sistemas de controle e contabilidade digital, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Sociedade, Direitos Humanos e Diversidade Etnicocultural",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda sociedade, direitos humanos e diversidade etnicocultural, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Técnicas Contábeis aplicadas ao Agronegócio",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda técnicas contábeis aplicadas ao agronegócio, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Técnicas de Pesquisa em Contabilidade",
+          "topicos": [
+            "Conceitos e princípios contábeis",
+            "Registros e demonstrações contábeis",
+            "Análise de informações patrimoniais e financeiras",
+            "Utilização da informação contábil na gestão"
+          ],
+          "resumo": "Aborda técnicas de pesquisa em contabilidade, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Teorias Organizacionais",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda teorias organizacionais, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Avançados em Auditoria",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda tópicos avançados em auditoria, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Integradores - Empreendedorismo",
+          "topicos": [
+            "Conceitos e características do empreendedorismo",
+            "Identificação de oportunidades e análise de mercado",
+            "Modelagem de negócios e desenvolvimento de propostas",
+            "Inovação e criação de valor"
+          ],
+          "resumo": "Aborda tópicos integradores - empreendedorismo, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Integradores - Estratégia",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda tópicos integradores - estratégia, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Integradores - Finanças",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda tópicos integradores - finanças, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Integradores - Gestão",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda tópicos integradores - gestão, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Integradores - Perícia Contábil",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda tópicos integradores - perícia contábil, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Integradores - Pesquisa",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda tópicos integradores - pesquisa, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        },
+        {
+          "nome": "Tópicos Integradores - Tributos",
+          "topicos": [
+            "Conceitos e fundamentos específicos do tema",
+            "Métodos, técnicas e instrumentos relacionados à disciplina",
+            "Análise de situações e resolução de problemas",
+            "Aplicações práticas no contexto da formação profissional"
+          ],
+          "resumo": "Aborda tópicos integradores - tributos, explorando os conceitos, procedimentos e instrumentos necessários para compreender e aplicar conhecimentos contábeis, financeiros ou gerenciais nas organizações."
+        }
+      ]
+    }
+  ]
+}

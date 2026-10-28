@@ -1,0 +1,433 @@
+{
+    "cursos": [
+        {
+            "nome": "Administração",
+            "duracao": "4 anos (8 semestres)",
+            "modalidade": "EAD, Semipresencial, Presencial",
+            "tipo": "Bacharelado",
+            "descricao": "O curso de Administração prepara profissionais para planejar, organizar, dirigir e controlar atividades de organizações. A formação aborda gestão estratégica, pessoas, finanças, marketing, operações, inovação e tomada de decisões.",
+            "materias": [
+                {
+                    "nome": "Empreendedorismo e Inovação",
+                    "topicos": [
+                        "Conceitos e características do empreendedorismo",
+                        "Identificação de oportunidades e análise de mercado",
+                        "Modelagem de negócios e desenvolvimento de propostas",
+                        "Inovação e criação de valor"
+                    ],
+                    "resumo": "Estuda empreendedorismo e inovação, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Gestão de Indicadores",
+                    "topicos": [
+                        "Conceitos de indicadores e métricas de desempenho",
+                        "Definição de metas e parâmetros de acompanhamento",
+                        "Coleta, análise e interpretação de dados",
+                        "Uso de indicadores na tomada de decisão"
+                    ],
+                    "resumo": "Estuda gestão de indicadores, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Planejamento Estratégico",
+                    "topicos": [
+                        "Diagnóstico do ambiente interno e externo",
+                        "Definição de missão, visão, objetivos e metas",
+                        "Formulação e execução de estratégias",
+                        "Monitoramento de resultados e indicadores"
+                    ],
+                    "resumo": "Estuda planejamento estratégico, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Sistemas de Informação Gerencial",
+                    "topicos": [
+                        "Conceitos e componentes dos sistemas de informação",
+                        "Fluxo, armazenamento e tratamento de dados",
+                        "Apoio tecnológico aos processos organizacionais",
+                        "Informação gerencial e suporte à decisão"
+                    ],
+                    "resumo": "Estuda sistemas de informação gerencial, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Sociedade Brasileira e Cidadania",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda sociedade brasileira e cidadania, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Análise de Custos",
+                    "topicos": [
+                        "Classificação e comportamento dos custos",
+                        "Métodos de custeio e apuração de custos",
+                        "Análise de custos, volume e resultado",
+                        "Uso das informações de custos na gestão"
+                    ],
+                    "resumo": "Estuda análise de custos, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Gestão do Conhecimento",
+                    "topicos": [
+                        "Conceitos de conhecimento organizacional",
+                        "Criação, compartilhamento e retenção do conhecimento",
+                        "Aprendizagem organizacional",
+                        "Ferramentas de gestão do conhecimento"
+                    ],
+                    "resumo": "Estuda gestão do conhecimento, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Legislação Empresarial Aplicada",
+                    "topicos": [
+                        "Fontes e fundamentos da legislação aplicável",
+                        "Direitos, deveres e responsabilidades",
+                        "Normas e procedimentos legais",
+                        "Aplicação da legislação em situações práticas"
+                    ],
+                    "resumo": "Estuda legislação empresarial aplicada, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Matemática Financeira",
+                    "topicos": [
+                        "Juros simples e compostos",
+                        "Taxas, equivalência e séries de pagamentos",
+                        "Descontos e sistemas de amortização",
+                        "Análise financeira de operações"
+                    ],
+                    "resumo": "Estuda matemática financeira, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Métodos Quantitativos",
+                    "topicos": [
+                        "Organização e descrição de dados",
+                        "Medidas estatísticas e análise quantitativa",
+                        "Probabilidade e interpretação de resultados",
+                        "Aplicação de métodos quantitativos à decisão"
+                    ],
+                    "resumo": "Estuda métodos quantitativos, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Comunicação, Ciência e Tecnologia",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda comunicação, ciência e tecnologia, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Contabilidade Introdutória",
+                    "topicos": [
+                        "Conceitos e princípios contábeis",
+                        "Registros e demonstrações contábeis",
+                        "Análise de informações patrimoniais e financeiras",
+                        "Utilização da informação contábil na gestão"
+                    ],
+                    "resumo": "Estuda contabilidade introdutória, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Gestão da Inovação",
+                    "topicos": [
+                        "Conceitos e tipos de inovação",
+                        "Processos de criatividade e geração de ideias",
+                        "Desenvolvimento e validação de soluções",
+                        "Aplicação da inovação em organizações"
+                    ],
+                    "resumo": "Estuda gestão da inovação, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Modelos de Gestão",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda modelos de gestão, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Planejamento Financeiro e Orçamentário",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda planejamento financeiro e orçamentário, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Projeto de Extensão I - Administração",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Desenvolve atividades orientadas relacionadas à formação em administração, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+                },
+                {
+                    "nome": "Capital de Giro e Análise Financeira",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda capital de giro e análise financeira, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Comportamento Organizacional e Negociação",
+                    "topicos": [
+                        "Comportamento individual e em grupo",
+                        "Cultura e clima organizacional",
+                        "Liderança, motivação e comunicação",
+                        "Conflitos e desempenho nas organizações"
+                    ],
+                    "resumo": "Estuda comportamento organizacional e negociação, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Gestão Mercadológica na Era Digital",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda gestão mercadológica na era digital, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Teorias da Administração",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda teorias da administração, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Análise de Investimentos e Fontes de Financiamento",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda análise de investimentos e fontes de financiamento, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Desenvolvimento de Pessoas",
+                    "topicos": [
+                        "Planejamento da força de trabalho",
+                        "Recrutamento, seleção e integração",
+                        "Treinamento, desenvolvimento e avaliação",
+                        "Relações de trabalho e desempenho das equipes"
+                    ],
+                    "resumo": "Estuda desenvolvimento de pessoas, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Economia para Negócios",
+                    "topicos": [
+                        "Conceitos e indicadores econômicos",
+                        "Oferta, demanda e funcionamento dos mercados",
+                        "Políticas econômicas e seus efeitos",
+                        "Relação entre economia e decisões organizacionais"
+                    ],
+                    "resumo": "Estuda economia para negócios, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Gestão da Produção",
+                    "topicos": [
+                        "Sistemas e processos de produção",
+                        "Planejamento e controle da capacidade",
+                        "Gestão de recursos e produtividade",
+                        "Qualidade e melhoria dos processos"
+                    ],
+                    "resumo": "Estuda gestão da produção, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Projeto de Extensão II - Administração",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Desenvolve atividades orientadas relacionadas à formação em administração, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+                },
+                {
+                    "nome": "Coaching e Mentoring",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda coaching e mentoring, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Design Thinking e Inovação dos Modelos de Negócios",
+                    "topicos": [
+                        "Conceitos e tipos de inovação",
+                        "Processos de criatividade e geração de ideias",
+                        "Desenvolvimento e validação de soluções",
+                        "Aplicação da inovação em organizações"
+                    ],
+                    "resumo": "Estuda design thinking e inovação dos modelos de negócios, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Gestão de Operações e Serviços",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda gestão de operações e serviços, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Mercado de Capitais",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda mercado de capitais, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Pesquisa e Inteligência de Marketing",
+                    "topicos": [
+                        "Comportamento e necessidades dos consumidores",
+                        "Pesquisa e análise de mercado",
+                        "Segmentação, posicionamento e estratégia",
+                        "Canais, relacionamento e avaliação de resultados"
+                    ],
+                    "resumo": "Estuda pesquisa e inteligência de marketing, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Gestão de Projetos",
+                    "topicos": [
+                        "Conceitos e ciclo de vida de projetos",
+                        "Definição de escopo, prazo, custo e recursos",
+                        "Planejamento, execução e monitoramento",
+                        "Gestão de riscos e avaliação de resultados"
+                    ],
+                    "resumo": "Estuda gestão de projetos, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Governança Corporativa",
+                    "topicos": [
+                        "Princípios e mecanismos de governança",
+                        "Papéis, responsabilidades e prestação de contas",
+                        "Transparência, integridade e controles",
+                        "Governança e sustentabilidade organizacional"
+                    ],
+                    "resumo": "Estuda governança corporativa, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Pesquisa Operacional",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda pesquisa operacional, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Processos Logísticos",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Estuda processos logísticos, apresentando seus principais conceitos, métodos e aplicações para apoiar a análise e a tomada de decisões nas organizações."
+                },
+                {
+                    "nome": "Projeto de Extensão III - Administração",
+                    "topicos": [
+                        "Conceitos e fundamentos específicos do tema",
+                        "Métodos, técnicas e instrumentos relacionados à disciplina",
+                        "Análise de situações e resolução de problemas",
+                        "Aplicações práticas no contexto da formação profissional"
+                    ],
+                    "resumo": "Desenvolve atividades orientadas relacionadas à formação em administração, permitindo aplicar os conhecimentos do curso, planejar ações e relacionar teoria e prática em situações reais ou simuladas."
+                },
+                {
+                    "nome": "Análise de Crédito, Cobrança e Risco",
+                    "topicos": [
+                        "Conceitos e modalidades de crédito",
+                        "Análise cadastral e capacidade de pagamento",
+                        "Políticas de concessão de crédito",
+                        "Estratégias de cobrança e gestão de riscos"
+                    ],
+                    "resumo": "Estuda os procedimentos de análise e concessão de crédito, avaliação de riscos financeiros, acompanhamento de recebíveis e estratégias de cobrança. Carga horária: 60 horas."
+                },
+                {
+                    "nome": "Avaliação de Desempenho",
+                    "topicos": [
+                        "Conceitos e objetivos da avaliação de desempenho",
+                        "Métodos e ferramentas de avaliação",
+                        "Indicadores de desempenho e produtividade",
+                        "Feedback e desenvolvimento profissional"
+                    ],
+                    "resumo": "Aborda métodos e ferramentas utilizados para avaliar o desempenho individual e das equipes, identificar resultados e desenvolver competências profissionais. Carga horária: 60 horas."
+                },
+                {
+                    "nome": "Diagnóstico e Intervenção Empresarial",
+                    "topicos": [
+                        "Diagnóstico organizacional",
+                        "Identificação de problemas e oportunidades",
+                        "Planejamento de intervenções empresariais",
+                        "Implementação e avaliação de melhorias"
+                    ],
+                    "resumo": "Estuda técnicas de diagnóstico empresarial e elaboração de intervenções para solucionar problemas, otimizar processos e melhorar os resultados das organizações. Carga horária: 60 horas."
+                },
+                {
+                    "nome": "Gerenciamento da Cadeia de Suprimentos",
+                    "topicos": [
+                        "Fundamentos da cadeia de suprimentos",
+                        "Gestão de compras e fornecedores",
+                        "Controle de estoques e distribuição",
+                        "Integração logística e indicadores de desempenho"
+                    ],
+                    "resumo": "Apresenta conceitos e práticas de gerenciamento da cadeia de suprimentos, envolvendo fornecedores, compras, estoques, produção e distribuição de produtos e serviços. Carga horária: 60 horas."
+                },
+                {
+                    "nome": "Responsabilidade Social e Ambiental",
+                    "topicos": [
+                        "Responsabilidade social nas organizações",
+                        "Sustentabilidade empresarial",
+                        "Gestão ambiental",
+                        "Ética e desenvolvimento sustentável"
+                    ],
+                    "resumo": "Estuda a responsabilidade das organizações perante a sociedade e o meio ambiente, abordando sustentabilidade, ética, cidadania e práticas de gestão socioambiental. Carga horária: 60 horas."
+                },
+                {
+                    "nome": "Simulação Empresarial",
+                    "topicos": [
+                        "Simulação de cenários empresariais",
+                        "Planejamento e tomada de decisões",
+                        "Análise de indicadores e resultados",
+                        "Avaliação de estratégias organizacionais"
+                    ],
+                    "resumo": "Utiliza situações simuladas para desenvolver habilidades de gestão, análise de cenários e tomada de decisões, permitindo avaliar os impactos das estratégias nos resultados empresariais. Carga horária: 60 horas."
+                },
+                {
+                    "nome": "Atividades Complementares",
+                    "topicos": [
+                        "Participação em atividades acadêmicas",
+                        "Cursos, palestras e eventos científicos",
+                        "Atividades de extensão",
+                        "Formação complementar e desenvolvimento profissional"
+                    ],
+                    "resumo": "Reúne atividades acadêmicas destinadas à ampliação dos conhecimentos e ao desenvolvimento profissional do estudante. Carga horária total: 360 horas."
+                }
+            ]
+        }
+    ]
+}
