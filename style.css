@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Poppins:wght@500;600;700&display=swap');
+
+[data-testid="stSidebar"] {
+    min-width: 250px;
+}
+
+.brand-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0.25rem 0 1rem 0;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+.brand-logo {
+    width: 44px !important;
+    max-width: 44px !important;
+    height: auto !important;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+.brand-title {
+    font-family: 'Michroma', sans-serif !important;
+    font-size: 1.15rem !important;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    color: inherit;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.main-title-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 0.25rem 0 0.75rem 0;
+}
+
+.main-title-logo {
+    width: 56px !important;
+    max-width: 56px !important;
+    height: auto !important;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+.main-title-text {
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 2.5rem !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: inherit !important;
+}
+
+.stButton > button {
+    position: relative;
+    min-height: 3.2rem;
+    padding: 0.75rem 1.25rem !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(255, 255, 255, 0.15) !important;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.01) 100%) !important;
+    color: inherit !important;
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+    transition: transform 0.28s cubic-bezier(0.22, 1, 0.36, 1),
+                box-shadow 0.28s cubic-bezier(0.22, 1, 0.36, 1),
+                border-color 0.28s ease,
+                background 0.28s ease,
+                color 0.28s ease !important;
+    overflow: hidden;
+}
+
+[data-testid="stMain"] .stButton {
+    margin-bottom: 0.35rem;
+}
+
+[data-testid="stMain"] .stButton > button {
+    min-height: 5rem !important;
+    padding: 1.25rem 1.75rem !important;
+    border-radius: 14px !important;
+}
+
+[data-testid="stMain"] .stButton > button,
+[data-testid="stMain"] .stButton > button p,
+[data-testid="stMain"] .stButton > button span,
+[data-testid="stMain"] .stButton > button div {
+    font-family: 'Poppins', sans-serif !important;
+    font-size: 1.45rem !important;
+    font-weight: 600 !important;
+    line-height: 1.3 !important;
+}
+
+.stButton > button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 107, 0, 0.2), transparent);
+    transition: left 0.55s ease;
+    pointer-events: none;
+}
+
+.stButton > button:hover {
+    transform: translateY(-5px) scale(1.02) !important;
+    border-color: #ff6b00 !important;
+    background: linear-gradient(135deg, rgba(255, 107, 0, 0.18) 0%, rgba(245, 158, 11, 0.06) 100%) !important;
+    box-shadow: 0 10px 25px -5px rgba(255, 107, 0, 0.4),
+                0 0 15px rgba(245, 158, 11, 0.2) !important;
+    color: #ffb366 !important;
+}
+
+.stButton > button:hover::before {
+    left: 100%;
+}
+
+.stButton > button:active {
+    transform: translateY(-1px) scale(0.99) !important;
+}

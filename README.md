@@ -17,30 +17,12 @@ git clone https://github.com/gustavossdev/assistenteacademicoanhanguera.git
 cd assistenteacademicoanhanguera
 
 pip install -r requirements.txt
-```
-
-### Ollama (obrigatório)
-
-O assistente só responde se o Ollama estiver **em execução** e com o **modelo `llama3.2` baixado**. Rode no terminal:
-
-```bash
 ollama pull llama3.2
-ollama run llama3.2
-```
 
-O `pull` baixa o modelo (só na primeira vez) e o `run` o inicia. Quando aparecer o prompt de conversa, digite `/bye` para sair do chat: o Ollama continua rodando em segundo plano.
-
-Para conferir se o modelo foi baixado, use `ollama list`.
-
-### Iniciar o assistente
-
-```bash
 streamlit run app.py
 ```
 
-Abra `http://localhost:8501`. Na primeira execução o modelo Whisper também é baixado automaticamente, então a abertura pode demorar um pouco.
-
-Se aparecer a mensagem "Não consegui conectar ao Ollama", ele não está em execução.
+Com o Ollama em execução, abra `http://localhost:8501`. Na primeira execução o modelo Whisper é baixado automaticamente.
 
 ## Estrutura
 
